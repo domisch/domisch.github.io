@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data &amp; Code on Global freshwater biodiversity research</title>
+    <link>/data_code/</link>
+    <description>Recent content in Data &amp; Code on Global freshwater biodiversity research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Sami Domisch {year}</copyright>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/data_code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Extract raster values</title>
+      <link>/data_code/extract-variables/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/data_code/extract-variables/</guid>
+      <description>Here are some useful commands to move point records to a stream network and to extract the values for each point. The code is maintained on GitHub at https://github.com/domisch/stream_layers.</description>
+    </item>
+    
+    <item>
+      <title>Freshwater-specific environmental variables</title>
+      <link>/data_code/freshwater-variables/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/data_code/freshwater-variables/</guid>
+      <description>This tutorial shows you how to calculate stream-specific freshwater variables by relating the upstream e.g. land cover to any given downstream location using the GRASS GIS add-ons r.stream.watersheds &amp;amp; r.stream.variables. The original 1km data and publication are available here - see also the original code from spatial-ecology.net.
+
+This example contains the following steps:
+ Download an exemplary digital elevation model (DEM) Extract the stream network from the DEM Delineate major drainage basins Crop data to a sub-basin Calculate the sub-watersheds for each stream grid cell (r.</description>
+    </item>
+    
+    <item>
+      <title>Open-source GIS</title>
+      <link>/data_code/open-source-gis/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/data_code/open-source-gis/</guid>
+      <description>Here is a collection of open-source GIS tools, using the Linux command line. The code is maintained at GitHub and includes GDAL/OGR, GRASS, pktools, OpenForis, awk and R.</description>
+    </item>
+    
+    <item>
+      <title>Bayesian species distribution models</title>
+      <link>/data_code/bayesian-species-distribution-models/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/data_code/bayesian-species-distribution-models/</guid>
+      <description>Here is a tutorial of running a species distribution model in a Bayesian framework using the hSDM package in R, using a rangemap as a covariate. See also the associated paper in Ecography.</description>
+    </item>
+    
+  </channel>
+</rss>

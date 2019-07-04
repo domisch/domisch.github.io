@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tang, T. on Global freshwater biodiversity research</title>
+    <link>/authors/tang-t./</link>
+    <description>Recent content in Tang, T. on Global freshwater biodiversity research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Sami Domisch {year}</copyright>
+    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/tang-t./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Elevation, aspect, and local environment jointly determine diatom and macroinvertebrate diversity in the Hengduan Mountains region</title>
+      <link>/publication/pubs/2019-05-01_elevation-aspect/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/pubs/2019-05-01_elevation-aspect/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

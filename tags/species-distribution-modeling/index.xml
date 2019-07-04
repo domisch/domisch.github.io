@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Species distribution modeling on Global freshwater biodiversity research</title>
+    <link>/tags/species-distribution-modeling/</link>
+    <description>Recent content in Species distribution modeling on Global freshwater biodiversity research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Sami Domisch {year}</copyright>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/species-distribution-modeling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Spatial freshwater biodiversity patterns</title>
+      <link>/project/glowabio_biodiversity/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/project/glowabio_biodiversity/</guid>
+      <description>Modeling freshwater species distributions</description>
+    </item>
+    
+  </channel>
+</rss>

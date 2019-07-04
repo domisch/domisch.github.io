@@ -1,0 +1,789 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.2.5">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Dr. Sami Domisch">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="This tutorial shows you how to calculate stream-specific freshwater variables by relating the upstream e.g. land cover to any given downstream location using the GRASS GIS add-ons r.stream.watersheds &amp; r.stream.variables. The original 1km data and publication are available here - see also the original code from spatial-ecology.net.
+
+This example contains the following steps:
+ Download an exemplary digital elevation model (DEM) Extract the stream network from the DEM Delineate major drainage basins Crop data to a sub-basin Calculate the sub-watersheds for each stream grid cell (r.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/data_code/freshwater-variables/">
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.min.a0afe72cd1619525a4d5a4824ac5755e.css">
+
+  
+    
+    
+    
+    
+      
+    
+    
+    
+    <link rel="stylesheet" href="/css/academic.50120615a3f07c45128b11ae7a00367b.css">
+  
+
+  
+  
+  
+
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="/data_code/freshwater-variables/">
+
+  
+  
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="Global freshwater biodiversity research">
+  <meta property="og:url" content="/data_code/freshwater-variables/">
+  <meta property="og:title" content="Freshwater-specific environmental variables | Global freshwater biodiversity research">
+  <meta property="og:description" content="This tutorial shows you how to calculate stream-specific freshwater variables by relating the upstream e.g. land cover to any given downstream location using the GRASS GIS add-ons r.stream.watersheds &amp; r.stream.variables. The original 1km data and publication are available here - see also the original code from spatial-ecology.net.
+
+This example contains the following steps:
+ Download an exemplary digital elevation model (DEM) Extract the stream network from the DEM Delineate major drainage basins Crop data to a sub-basin Calculate the sub-watersheds for each stream grid cell (r."><meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2019-07-01T00:00:00&#43;02:00">
+  
+  <meta property="article:modified_time" content="2019-07-01T00:00:00&#43;02:00">
+  
+
+  
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#2962ff",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#2962ff"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "/privacy/"
+      }
+    })});
+</script>
+
+
+  
+
+  <title>Freshwater-specific environmental variables | Global freshwater biodiversity research</title>
+
+
+<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101193906);</script>
+<script async src="//static.getclicky.com/js"></script>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">Global freshwater biodiversity research</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/">
+            
+            <span></span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/post">
+            
+            <span>About</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/author/people">
+            
+            <span>People</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/project">
+            
+            <span>Research</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/publication/">
+            
+            <span>Publications</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/data_code/">
+            
+            <span>Data & Code</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/contact/main">
+            
+            <span>Contact</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+      
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+    <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+      
+
+
+
+
+<form class="docs-search d-flex align-items-center">
+  <button class="btn docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    <span><i class="fas fa-bars"></i></span>
+  </button>
+
+  
+  <input name="q" type="search" class="form-control" id="search-query" placeholder="Search..." autocomplete="off">
+  
+</form>
+
+<nav class="collapse docs-links" id="docs-nav">
+  
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/data_code/">Data &amp; Code</a>
+    <ul class="nav docs-sidenav">
+      
+      <li class="active">
+        <a href="/data_code/freshwater-variables/">Freshwater variables</a>
+      </li>
+      
+      <li >
+        <a href="/data_code/extract-variables/">Extract raster values</a>
+      </li>
+      
+      <li >
+        <a href="/data_code/open-source-gis/">Open-source GIS</a>
+      </li>
+      
+      <li >
+        <a href="/data_code/bayesian-species-distribution-models/">Species distribution models</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  
+</nav>
+
+    </div>
+
+    
+
+    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
+
+      <article class="article" itemscope itemtype="http://schema.org/Article">
+
+        <div class="docs-article-container">
+          <h1 itemprop="name">Freshwater-specific environmental variables</h1>
+
+          <div class="article-style" itemprop="articleBody">
+            <p>This tutorial shows you how to calculate stream-specific freshwater variables by relating the upstream e.g. land cover to any given downstream location using the GRASS GIS add-ons <em>r.stream.watersheds</em> &amp; <em>r.stream.variables</em>. The original 1km data and publication are available <a href="http://www.earthenv.org/streams" target="_blank">here</a> - see also the original code from <a href="http://spatial-ecology.net/dokuwiki/doku.php?id=wiki:grassrivarvariable" target="_blank">spatial-ecology.net</a>.</p>
+
+<p><a href="http://www.earthenv.org/streams" target="_blank"><img align="center" src="/img/Add-ons_for_GRASS_GIS.gif" width="700" alt="Add-on animation"></a></p>
+
+<p><strong>This example contains the following steps:</strong></p>
+
+<ul>
+<li>Download an exemplary digital elevation model (DEM)</li>
+<li>Extract the stream network from the DEM</li>
+<li>Delineate major drainage basins</li>
+<li>Crop data to a sub-basin</li>
+<li>Calculate the sub-watersheds for each stream grid cell (<em>r.stream.watersheds</em>)</li>
+<li>Calculate contiguous stream-specific variables (<em>r.stream.variables</em>)</li>
+</ul>
+
+<div class="alert alert-note">
+  <div>
+    The add-ons have been tested in the Linux environment. Microsoft Windows users: consider installing the OSGEO-Live Virtual machine that has GRASS GIS 7 already installed and is ready to use. Alternatively you can run the add-ons via QGIS.
+  </div>
+</div>
+
+<p><br/></p>
+
+<p>Download the script</p>
+
+<pre><code>cd ~
+wget &quot;http://www.spatial-ecology.net/ost4sem/exercise/basic_adv_grass/stream_variables.sh&quot;
+rstudio stream_variables.sh &amp;
+</code></pre>
+
+<p>Create and enter the folder where the data will be stored:</p>
+
+<pre><code>export INDIR=$HOME/grass_hydro
+mkdir $INDIR 
+cd $INDIR
+</code></pre>
+
+<p>Download and unzip a DEM from <a href="http://www.worldclim.org/tiles.php" target="_blank">WorldClim</a>:</p>
+
+<pre><code>wget -O  $INDIR/alt_16_tif.zip  &quot;http://biogeo.ucdavis.edu/data/climate/worldclim/1_4/tiles/cur/alt_16_tif.zip&quot;
+unzip  -o $INDIR/alt_16_tif.zip  -d  $INDIR/dem
+gdalinfo $INDIR/dem/alt_16.tif        # check data
+</code></pre>
+
+<p>Create the GRASS GIS data base and enter GRASS:</p>
+
+<pre><code>grass74  -text -c $INDIR/dem/alt_16.tif  $INDIR/grass_location
+</code></pre>
+
+<p>Read data into GRASS:</p>
+
+<pre><code>r.in.gdal input=$INDIR/dem/alt_16.tif    output=elevation
+r.info elevation # check data
+</code></pre>
+
+<p>Open GUI and visualize the layers:</p>
+
+<pre><code>g.gui wxpython
+</code></pre>
+
+<p>Run hydrological conditioning:</p>
+
+<pre><code>g.extension  extension=r.hydrodem # download extension
+# if you get an error run: sudo apt install grass-dev
+r.hydrodem  input=elevation  output=elevation_cond
+</code></pre>
+
+<p>Extract drainage direction and stream network</p>
+
+<pre><code>r.watershed  --h  # see help regarding the options and flags
+r.watershed  elevation=elevation_cond  drainage=drainage   stream=stream  accumulation=accumulation  threshold=100  --o
+</code></pre>
+
+<p>Get drainage basins (last downstream segment: -l flag)</p>
+
+<pre><code>g.extension  extension=r.stream.basins
+r.stream.basins  direction=drainage  stream_rast=stream  basins=basins_last  -l  --o
+</code></pre>
+
+<p>Categorize the single basins:</p>
+
+<pre><code>r.clump -d input=basins_last  output=basins_cat  --o
+</code></pre>
+
+<p>Extract the data for one basin:</p>
+
+<pre><code>r.mapcalc &quot;drainage_sub = if (basins_cat==798, drainage, null() ) &quot;  --o
+r.mapcalc &quot;stream_sub = if (basins_cat==798, stream, null() ) &quot;  --o
+</code></pre>
+
+<p>Write files to disk:</p>
+
+<pre><code>r.out.gdal  input=drainage_sub   output=$INDIR/drainage_sub.tif  type=Int32  nodata=-9999  --o  -c    createopt=&quot;COMPRESS=LZW,ZLEVEL=9&quot;
+r.out.gdal  input=stream_sub     output=$INDIR/stream_sub.tif    type=Int32  nodata=-9999  --o  -c    createopt=&quot;COMPRESS=LZW,ZLEVEL=9&quot;
+</code></pre>
+
+<p><strong>Create stream-specific variables, and limit the calculation only to a single basin.</strong></p>
+
+<p>Download and install the GRASS add-ons:</p>
+
+<p>Work-around (November 2018) for grass74:</p>
+
+<pre><code>mkdir $HOME/.grass7/addons/scripts
+wget -O $HOME/.grass7/addons/scripts/r.stream.watersheds &quot;http://www.spatial-ecology.net/ost4sem/exercise/basic_adv_grass/r.stream.watersheds&quot;
+chmod 777  $HOME/.grass7/addons/scripts/r.stream.watersheds
+
+wget -O $HOME/.grass7/addons/scripts/r.stream.variables &quot;http://www.spatial-ecology.net/ost4sem/exercise/basic_adv_grass/r.stream.watersheds&quot;
+chmod 777  $HOME/.grass7/addons/scripts/r.stream.variables
+</code></pre>
+
+<p>Add-on 1: Calculate the sub-watershed and sub-stream sections for each stream grid cell using 2 processors:</p>
+
+<pre><code>r.stream.watersheds stream=stream_sub  drainage=drainage_sub  cpu=2
+</code></pre>
+
+<p>Add-on 2: Create stream-specific variables based on elevation</p>
+
+<pre><code>r.stream.variables  variable=elevation  output=cells,min,max,range,mean,stddev,coeff_var,sum  area=watershed  scale=1  cpu=2
+</code></pre>
+
+<p>Rename the “elevation_cells” to “flow_accumulation” and check variables:</p>
+
+<pre><code>r.mapcalc &quot;flow_accummulation = elevation_cells&quot;  --o
+r.info  flow_accummulation
+r.info  elevation_range
+</code></pre>
+
+<p>Get stream length (similar procedure as above):</p>
+
+<pre><code>r.stream.variables  variable=elevation  output=cells  area=stream  scale=1  cpu=2
+r.mapcalc &quot;stream_length = elevation_cells&quot;  --o
+r.info  stream_length 
+</code></pre>
+
+<p>Calculate the amount of rainfall within the basin:</p>
+
+<pre><code>wget -O  $INDIR/prec_16_tif.zip  &quot;http://biogeo.ucdavis.edu/data/climate/worldclim/1_4/tiles/cur/prec_16_tif.zip&quot;
+unzip -q  -o $INDIR/prec_16_tif.zip  -d  $INDIR/prec
+r.in.gdal input=$INDIR/prec/prec6_16.tif   output=prec6   # rainfall in June
+r.stream.variables  variable=prec6  output=sum  area=watershed  scale=1  cpu=2
+</code></pre>
+
+<p>Run all 12 months in a loop:</p>
+
+<pre><code>for var in $(seq 1 12); do
+r.in.gdal input=$INDIR/prec/prec${var}_16.tif   output=prec$var
+r.stream.variables  variable=prec$var  output=sum  area=watershed  scale=1  cpu=2
+done
+</code></pre>
+
+<p>Other useful add-ons for hydrological applications: <a href="http://grasswiki.osgeo.org/wiki/Hydrological_Sciences" target="_blank">http://grasswiki.osgeo.org/wiki/Hydrological_Sciences</a></p>
+
+<p><strong>Other examples</strong></p>
+
+<p>Get the stream order:</p>
+
+<pre><code>r.stream.order  stream_rast=stream_sub   direction=drainage_sub   strahler=str_order  --o
+</code></pre>
+
+<p>Get only streams and basins &gt;=3rd order</p>
+
+<pre><code>r.mapcalc &quot;str_order_3rd = if(str_order &gt;=3, str_order, null() ) &quot;  --o
+r.stream.basins  direction=drainage_sub  stream_rast=str_order_3rd  basins=basins_3rd_last   -l  --o
+</code></pre>
+
+<p>Stream distance - Calculates distance to and elevation above streams and outlet</p>
+
+<pre><code>g.extension extension=r.stream.distance
+r.stream.distance   stream_rast=stream_sub   direction=drainage_sub   elevation=elevation_cond  method=downstream   distance=str_distance    difference=str_elevation_diff  --o
+</code></pre>
+
+<p>Stream order statistics - Calculates Horton&rsquo;s statistics for Strahler and Horton ordered networks created with r.stream.order Print only order statistics:</p>
+
+<pre><code>r.stream.stats  stream_rast=stream_sub   direction=drainage_sub   elevation=elevation_cond  output=str_stats_o.txt    -o   
+more $INDIR/str_stats_o.txt
+</code></pre>
+
+<p>Print only catchment statistics:</p>
+
+<pre><code>r.stream.stats  stream_rast=stream_sub   direction=drainage_sub   elevation=elevation_cond  output=str_stats_c.txt    -c 
+more $INDIR/str_stats_c.txt
+</code></pre>
+
+<p><br/>
+<em>See also these useful GRASS-GIS commands for hydrological applications:</em></p>
+
+<p><a href="https://grass.osgeo.org/grass74/manuals/topic_hydrology.html" target="_blank">https://grass.osgeo.org/grass74/manuals/topic_hydrology.html</a>
+<a href="https://grasswiki.osgeo.org/wiki/R.stream.*_modules" target="_blank">https://grasswiki.osgeo.org/wiki/R.stream.*_modules</a> <br/>
+<a href="https://grasswiki.osgeo.org/wiki/Hydrological_Sciences" target="_blank">https://grasswiki.osgeo.org/wiki/Hydrological_Sciences</a></p>
+
+          </div>
+
+          
+
+
+
+          
+        </div>
+
+        <div class="body-footer">
+          Last updated on Jul 1, 2019
+        </div>
+
+      </article>
+
+      <footer class="site-footer">
+  
+  <p class="powered-by">
+    <a href="/privacy/">Privacy policy and legal notes</a>
+  </p>
+  
+
+  <p class="powered-by">
+    &copy; Sami Domisch 2019 &middot; 
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+  </p>
+</footer>
+
+
+    </main>
+  </div>
+</div>
+
+    
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha512-+NqPlbbtM1QqiK8ZAo4Yrj2c4lNQoGv8P79DPtKzj++l5jnN39rHA/xsqn8zE9l0uSoxaCdrOgFs6yjyfbBxSg==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.1/anchor.min.js" integrity="sha256-pB/deHc9CGfFpJRjC43imB29Rse8tak+5eXqntO94ck=" crossorigin="anonymous"></script>
+    <script>
+      anchors.add();
+    </script>
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.d813ae958640746e240f434cafc95afb.js"></script>
+
+  </body>
+</html>
+
+

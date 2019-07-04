@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nowak, C. on Global freshwater biodiversity research</title>
+    <link>/authors/nowak-c./</link>
+    <description>Recent content in Nowak, C. on Global freshwater biodiversity research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Sami Domisch {year}</copyright>
+    <lastBuildDate>Mon, 01 Aug 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/nowak-c./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cryptic biodiversity loss linked to global climate change</title>
+      <link>/publication/pubs/2011-01-01_cryptic_biodiversity/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/pubs/2011-01-01_cryptic_biodiversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low mountain ranges: summit traps for montane freshwater species under climate change</title>
+      <link>/publication/pubs/2011-01-01_low_mountain_ranges/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/pubs/2011-01-01_low_mountain_ranges/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

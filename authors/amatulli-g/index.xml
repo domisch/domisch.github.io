@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amatulli, G. on Global freshwater biodiversity research</title>
+    <link>/authors/amatulli-g./</link>
+    <description>Recent content in Amatulli, G. on Global freshwater biodiversity research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Sami Domisch {year}</copyright>
+    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/amatulli-g./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Geomorpho90m - Global high-resolution geomorphometry layers: empirical evaluation and accuracy assessment</title>
+      <link>/publication/pubs/2019-03-01_geomorpho90m/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/pubs/2019-03-01_geomorpho90m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating nitrogen and phosphorus concentrations in streams and rivers across the contiguous United States: a machine learning framework</title>
+      <link>/publication/pubs/2019-01-01_estimating_nitrogen/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/pubs/2019-01-01_estimating_nitrogen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-resolution stream network delineation using digital elevation models: assessing the spatial accuracy</title>
+      <link>/publication/pubs/2018-01-01_high-resolution_stream_network/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/pubs/2018-01-01_high-resolution_stream_network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A suite of global, cross-scale topographic variables for environmental and biodiversity modeling</title>
+      <link>/publication/pubs/2018-01-01_a_suite_of_global/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/pubs/2018-01-01_a_suite_of_global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Near-global freshwater-specific environmental variables for biodiversity analyses in 1 km resolution</title>
+      <link>/publication/pubs/2015-01-01_near-global_freshwater-specific/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/pubs/2015-01-01_near-global_freshwater-specific/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

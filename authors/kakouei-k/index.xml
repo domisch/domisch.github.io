@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kakouei, K. on Global freshwater biodiversity research</title>
+    <link>/authors/kakouei-k./</link>
+    <description>Recent content in Kakouei, K. on Global freshwater biodiversity research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Sami Domisch {year}</copyright>
+    <lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/kakouei-k./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A high-resolution streamflow and hydrological metrics dataset for ecological modeling using a regression model</title>
+      <link>/publication/pubs/2018-01-01_a_high-resolution_streamflow/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/pubs/2018-01-01_a_high-resolution_streamflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projected effects of Climate-change-induced flow alterations on stream macroinvertebrate abundances</title>
+      <link>/publication/pubs/2018-01-01_projected_effects/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/pubs/2018-01-01_projected_effects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social equity shapes zone-selection: Balancing aquatic biodiversity conservation and ecosystem services delivery in the transboundary Danube River Basin</title>
+      <link>/publication/pubs/2018-01-01_social_equity_shapes/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/pubs/2018-01-01_social_equity_shapes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

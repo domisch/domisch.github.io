@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Global freshwater biodiversity research</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Global freshwater biodiversity research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Sami Domisch {year}</copyright>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/tags/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian</title>
+      <link>/tags/bayesian/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>/tags/machine-learning/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Species distribution modeling</title>
+      <link>/tags/species-distribution-modeling/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/species-distribution-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty</title>
+      <link>/tags/uncertainty/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/uncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering</title>
+      <link>/tags/clustering/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conservation</title>
+      <link>/tags/conservation/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/conservation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>/tags/deep-learning/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integer Linear Programming</title>
+      <link>/tags/integer-linear-programming/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/integer-linear-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marxan</title>
+      <link>/tags/marxan/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/marxan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regionalization</title>
+      <link>/tags/regionalization/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/regionalization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
