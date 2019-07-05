@@ -13,18 +13,9 @@
     
     
     <item>
-      <title>Spatial freshwater biodiversity patterns</title>
-      <link>/project/glowabio_biodiversity/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/project/glowabio_biodiversity/</guid>
-      <description>Modeling freshwater species distributions</description>
-    </item>
-    
-    <item>
       <title>Spatial conservation planning</title>
       <link>/project/glowabio_conservation/</link>
-      <pubDate>Sun, 06 May 2018 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 05 Jul 2019 00:00:00 +0200</pubDate>
       
       <guid>/project/glowabio_conservation/</guid>
       <description>Irreplaceability of biodiversity &amp;amp; habitats</description>
@@ -33,10 +24,19 @@
     <item>
       <title>Freshwater habitat regionalization</title>
       <link>/project/glowabio_habitats/</link>
-      <pubDate>Sun, 06 May 2018 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 05 Jul 2019 00:00:00 +0200</pubDate>
       
       <guid>/project/glowabio_habitats/</guid>
       <description>Clustering the world&amp;rsquo;s freshwater habitats</description>
+    </item>
+    
+    <item>
+      <title>Spatial freshwater biodiversity patterns</title>
+      <link>/project/glowabio_biodiversity/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/project/glowabio_biodiversity/</guid>
+      <description>Modeling freshwater species distributions</description>
     </item>
     
   </channel>

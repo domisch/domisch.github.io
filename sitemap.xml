@@ -13,8 +13,66 @@
   </url>
   
   <url>
+    <loc>/tags/clustering/</loc>
+    <lastmod>2019-07-05T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/conservation/</loc>
+    <lastmod>2019-07-05T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/glowabio_conservation/</loc>
+    <lastmod>2019-07-05T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deep-learning/</loc>
+    <lastmod>2019-07-05T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-07-05T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/glowabio_habitats/</loc>
+    <lastmod>2019-07-05T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/integer-linear-programming/</loc>
+    <lastmod>2019-07-05T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/machine-learning/</loc>
+    <lastmod>2019-07-05T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/marxan/</loc>
+    <lastmod>2019-07-05T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/regionalization/</loc>
+    <lastmod>2019-07-05T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
-    <lastmod>2019-07-01T00:00:00+02:00</lastmod>
+    <lastmod>2019-07-05T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -57,20 +115,8 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-07-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/post/</loc>
     <lastmod>2019-07-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/machine-learning/</loc>
-    <lastmod>2019-07-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -92,12 +138,6 @@
   <url>
     <loc>/data_code/bayesian-species-distribution-models/</loc>
     <lastmod>2019-07-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-07-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -553,52 +593,6 @@
   <url>
     <loc>/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/clustering/</loc>
-    <lastmod>2018-05-06T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/conservation/</loc>
-    <lastmod>2018-05-06T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/project/glowabio_conservation/</loc>
-    <lastmod>2018-05-06T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/deep-learning/</loc>
-    <lastmod>2018-05-06T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/project/glowabio_habitats/</loc>
-    <lastmod>2018-05-06T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/integer-linear-programming/</loc>
-    <lastmod>2018-05-06T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/marxan/</loc>
-    <lastmod>2018-05-06T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/regionalization/</loc>
-    <lastmod>2018-05-06T00:00:00+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
