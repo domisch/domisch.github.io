@@ -1,2 +1,1 @@
-# domisch
-website
+Website repository for domisch.github.io
