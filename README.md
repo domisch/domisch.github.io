@@ -1,1 +1,2 @@
-Website repository for domisch.github.io
+Website repository for https://glowabio.org - Global freshwater biodiversity, biogeography and conservation
+
