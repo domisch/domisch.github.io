@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/author/people/</loc>
+    <loc>/authors/people/</loc>
     <lastmod>2019-07-01T00:00:00+02:00</lastmod>
   </url>
   
@@ -77,7 +77,7 @@
   </url>
   
   <url>
-    <loc>/author/</loc>
+    <loc>/authors/</loc>
     <lastmod>2019-07-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1204,29 +1204,19 @@
   </url>
   
   <url>
-    <loc>/author/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/author1/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/author2/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/admin/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/author1/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/author2/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>admin on Global freshwater biodiversity research</title>
+    <title>Global freshwater biodiversity research</title>
     <link>/authors/admin/</link>
-    <description>Recent content in admin on Global freshwater biodiversity research</description>
+    <description>Recent content on Global freshwater biodiversity research</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Sami Domisch {year}</copyright>
@@ -13,10 +13,10 @@
     
     <item>
       <title></title>
-      <link>/author/admin/</link>
+      <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/author/admin/</guid>
+      <guid>/authors/admin/</guid>
       <description>
 
 &lt;p&gt;Sami Domisch is a Leibniz Junior Research Group Leader at the &lt;a href=&#34;https://www.igb-berlin.de/en/profile/sami-domisch&#34; target=&#34;_blank&#34;&gt;Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)&lt;/a&gt;. Sami is interested in freshwater biodiversity with an emphasis on spatial biodiversity patterns, macroecology, and developing tools to assess freshwater biodiversity across large spatial scales.&lt;/p&gt;
@@ -63,10 +63,10 @@
     
     <item>
       <title></title>
-      <link>/author/author2/</link>
+      <link>/authors/author2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/author/author2/</guid>
+      <guid>/authors/author2/</guid>
       <description>&lt;p&gt;test&amp;hellip;&lt;/p&gt;
 </description>
     </item>
