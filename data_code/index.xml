@@ -4,12 +4,12 @@
     <title>Data &amp; Code on Global freshwater biodiversity research</title>
     <link>/data_code/</link>
     <description>Recent content in Data &amp; Code on Global freshwater biodiversity research</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Sami Domisch {year}</copyright>
     <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="/data_code/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/data_code/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,7 +18,8 @@
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
       
       <guid>/data_code/extract-variables/</guid>
-      <description>Here are some useful commands to move point records to a stream network and to extract the values for each point. The code is maintained on GitHub at https://github.com/domisch/stream_layers.</description>
+      <description>&lt;p&gt;Here are some useful commands to move point records to a stream network and to extract the values for each point. The code is maintained on GitHub at  &lt;a href=&#34;https://github.com/domisch/stream_layers&#34; target=&#34;_blank&#34;&gt;https://github.com/domisch/stream_layers&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -27,10 +28,196 @@
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
       
       <guid>/data_code/freshwater-variables/</guid>
-      <description>This tutorial shows you how to calculate stream-specific freshwater variables by relating the upstream e.g. land cover to any given downstream location using the GRASS GIS add-ons r.stream.watersheds &amp;amp; r.stream.variables. The original 1km data and publication are available here - see also the original code from spatial-ecology.net.
+      <description>&lt;p&gt;This tutorial shows you how to calculate stream-specific freshwater variables by relating the upstream e.g. land cover to any given downstream location using the GRASS GIS add-ons &lt;em&gt;r.stream.watersheds&lt;/em&gt; &amp;amp; &lt;em&gt;r.stream.variables&lt;/em&gt;. The original 1km data and publication are available &lt;a href=&#34;http://www.earthenv.org/streams&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; - see also the original code from &lt;a href=&#34;http://spatial-ecology.net/dokuwiki/doku.php?id=wiki:grassrivarvariable&#34; target=&#34;_blank&#34;&gt;spatial-ecology.net&lt;/a&gt;.&lt;/p&gt;
 
-This example contains the following steps:
- Download an exemplary digital elevation model (DEM) Extract the stream network from the DEM Delineate major drainage basins Crop data to a sub-basin Calculate the sub-watersheds for each stream grid cell (r.</description>
+&lt;p&gt;&lt;a href=&#34;http://www.earthenv.org/streams&#34; target=&#34;_blank&#34;&gt;&lt;img align=&#34;center&#34; src=&#34;/img/Add-ons_for_GRASS_GIS.gif&#34; width=&#34;700&#34; alt=&#34;Add-on animation&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This example contains the following steps:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Download an exemplary digital elevation model (DEM)&lt;/li&gt;
+&lt;li&gt;Extract the stream network from the DEM&lt;/li&gt;
+&lt;li&gt;Delineate major drainage basins&lt;/li&gt;
+&lt;li&gt;Crop data to a sub-basin&lt;/li&gt;
+&lt;li&gt;Calculate the sub-watersheds for each stream grid cell (&lt;em&gt;r.stream.watersheds&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Calculate contiguous stream-specific variables (&lt;em&gt;r.stream.variables&lt;/em&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The add-ons have been tested in the Linux environment. Microsoft Windows users: consider installing the OSGEO-Live Virtual machine that has GRASS GIS 7 already installed and is ready to use. Alternatively you can run the add-ons via QGIS.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;Download the script&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;cd ~
+wget &amp;quot;http://www.spatial-ecology.net/ost4sem/exercise/basic_adv_grass/stream_variables.sh&amp;quot;
+rstudio stream_variables.sh &amp;amp;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Create and enter the folder where the data will be stored:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;export INDIR=$HOME/grass_hydro
+mkdir $INDIR 
+cd $INDIR
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Download and unzip a DEM from &lt;a href=&#34;http://www.worldclim.org/tiles.php&#34; target=&#34;_blank&#34;&gt;WorldClim&lt;/a&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;wget -O  $INDIR/alt_16_tif.zip  &amp;quot;http://biogeo.ucdavis.edu/data/climate/worldclim/1_4/tiles/cur/alt_16_tif.zip&amp;quot;
+unzip  -o $INDIR/alt_16_tif.zip  -d  $INDIR/dem
+gdalinfo $INDIR/dem/alt_16.tif        # check data
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Create the GRASS GIS data base and enter GRASS:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;grass74  -text -c $INDIR/dem/alt_16.tif  $INDIR/grass_location
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Read data into GRASS:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;r.in.gdal input=$INDIR/dem/alt_16.tif    output=elevation
+r.info elevation # check data
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Open GUI and visualize the layers:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;g.gui wxpython
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Run hydrological conditioning:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;g.extension  extension=r.hydrodem # download extension
+# if you get an error run: sudo apt install grass-dev
+r.hydrodem  input=elevation  output=elevation_cond
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Extract drainage direction and stream network&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;r.watershed  --h  # see help regarding the options and flags
+r.watershed  elevation=elevation_cond  drainage=drainage   stream=stream  accumulation=accumulation  threshold=100  --o
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Get drainage basins (last downstream segment: -l flag)&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;g.extension  extension=r.stream.basins
+r.stream.basins  direction=drainage  stream_rast=stream  basins=basins_last  -l  --o
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Categorize the single basins:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;r.clump -d input=basins_last  output=basins_cat  --o
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Extract the data for one basin:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;r.mapcalc &amp;quot;drainage_sub = if (basins_cat==798, drainage, null() ) &amp;quot;  --o
+r.mapcalc &amp;quot;stream_sub = if (basins_cat==798, stream, null() ) &amp;quot;  --o
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Write files to disk:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;r.out.gdal  input=drainage_sub   output=$INDIR/drainage_sub.tif  type=Int32  nodata=-9999  --o  -c    createopt=&amp;quot;COMPRESS=LZW,ZLEVEL=9&amp;quot;
+r.out.gdal  input=stream_sub     output=$INDIR/stream_sub.tif    type=Int32  nodata=-9999  --o  -c    createopt=&amp;quot;COMPRESS=LZW,ZLEVEL=9&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Create stream-specific variables, and limit the calculation only to a single basin.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Download and install the GRASS add-ons:&lt;/p&gt;
+
+&lt;p&gt;Work-around (November 2018) for grass74:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;mkdir $HOME/.grass7/addons/scripts
+wget -O $HOME/.grass7/addons/scripts/r.stream.watersheds &amp;quot;http://www.spatial-ecology.net/ost4sem/exercise/basic_adv_grass/r.stream.watersheds&amp;quot;
+chmod 777  $HOME/.grass7/addons/scripts/r.stream.watersheds
+
+wget -O $HOME/.grass7/addons/scripts/r.stream.variables &amp;quot;http://www.spatial-ecology.net/ost4sem/exercise/basic_adv_grass/r.stream.watersheds&amp;quot;
+chmod 777  $HOME/.grass7/addons/scripts/r.stream.variables
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Add-on 1: Calculate the sub-watershed and sub-stream sections for each stream grid cell using 2 processors:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;r.stream.watersheds stream=stream_sub  drainage=drainage_sub  cpu=2
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Add-on 2: Create stream-specific variables based on elevation&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;r.stream.variables  variable=elevation  output=cells,min,max,range,mean,stddev,coeff_var,sum  area=watershed  scale=1  cpu=2
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Rename the “elevation_cells” to “flow_accumulation” and check variables:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;r.mapcalc &amp;quot;flow_accummulation = elevation_cells&amp;quot;  --o
+r.info  flow_accummulation
+r.info  elevation_range
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Get stream length (similar procedure as above):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;r.stream.variables  variable=elevation  output=cells  area=stream  scale=1  cpu=2
+r.mapcalc &amp;quot;stream_length = elevation_cells&amp;quot;  --o
+r.info  stream_length 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Calculate the amount of rainfall within the basin:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;wget -O  $INDIR/prec_16_tif.zip  &amp;quot;http://biogeo.ucdavis.edu/data/climate/worldclim/1_4/tiles/cur/prec_16_tif.zip&amp;quot;
+unzip -q  -o $INDIR/prec_16_tif.zip  -d  $INDIR/prec
+r.in.gdal input=$INDIR/prec/prec6_16.tif   output=prec6   # rainfall in June
+r.stream.variables  variable=prec6  output=sum  area=watershed  scale=1  cpu=2
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Run all 12 months in a loop:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;for var in $(seq 1 12); do
+r.in.gdal input=$INDIR/prec/prec${var}_16.tif   output=prec$var
+r.stream.variables  variable=prec$var  output=sum  area=watershed  scale=1  cpu=2
+done
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Other useful add-ons for hydrological applications: &lt;a href=&#34;http://grasswiki.osgeo.org/wiki/Hydrological_Sciences&#34; target=&#34;_blank&#34;&gt;http://grasswiki.osgeo.org/wiki/Hydrological_Sciences&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Other examples&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Get the stream order:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;r.stream.order  stream_rast=stream_sub   direction=drainage_sub   strahler=str_order  --o
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Get only streams and basins &amp;gt;=3rd order&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;r.mapcalc &amp;quot;str_order_3rd = if(str_order &amp;gt;=3, str_order, null() ) &amp;quot;  --o
+r.stream.basins  direction=drainage_sub  stream_rast=str_order_3rd  basins=basins_3rd_last   -l  --o
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Stream distance - Calculates distance to and elevation above streams and outlet&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;g.extension extension=r.stream.distance
+r.stream.distance   stream_rast=stream_sub   direction=drainage_sub   elevation=elevation_cond  method=downstream   distance=str_distance    difference=str_elevation_diff  --o
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Stream order statistics - Calculates Horton&amp;rsquo;s statistics for Strahler and Horton ordered networks created with r.stream.order Print only order statistics:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;r.stream.stats  stream_rast=stream_sub   direction=drainage_sub   elevation=elevation_cond  output=str_stats_o.txt    -o   
+more $INDIR/str_stats_o.txt
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Print only catchment statistics:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;r.stream.stats  stream_rast=stream_sub   direction=drainage_sub   elevation=elevation_cond  output=str_stats_c.txt    -c 
+more $INDIR/str_stats_c.txt
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;br/&gt;
+&lt;em&gt;See also these useful GRASS-GIS commands for hydrological applications:&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://grass.osgeo.org/grass74/manuals/topic_hydrology.html&#34; target=&#34;_blank&#34;&gt;https://grass.osgeo.org/grass74/manuals/topic_hydrology.html&lt;/a&gt;
+&lt;a href=&#34;https://grasswiki.osgeo.org/wiki/R.stream.*_modules&#34; target=&#34;_blank&#34;&gt;https://grasswiki.osgeo.org/wiki/R.stream.*_modules&lt;/a&gt; &lt;br/&gt;
+&lt;a href=&#34;https://grasswiki.osgeo.org/wiki/Hydrological_Sciences&#34; target=&#34;_blank&#34;&gt;https://grasswiki.osgeo.org/wiki/Hydrological_Sciences&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -39,7 +226,10 @@ This example contains the following steps:
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
       
       <guid>/data_code/open-source-gis/</guid>
-      <description>Here is a collection of open-source GIS tools, using the Linux command line. The code is maintained at GitHub and includes GDAL/OGR, GRASS, pktools, OpenForis, awk and R.</description>
+      <description>&lt;p&gt;Here is a &lt;a href=&#34;https://github.com/domisch/GIS_tools&#34; target=&#34;_blank&#34;&gt;collection of open-source GIS tools, using the Linux command line&lt;/a&gt;. The code is maintained at GitHub and includes GDAL/OGR, GRASS, pktools, OpenForis, awk and R.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/domisch/GIS_tools&#34; target=&#34;_blank&#34;&gt;&lt;img align=&#34;center&#34; src=&#34;/img/open_source.png&#34; width=&#34;600&#34; alt=&#34;Open-source logos&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -48,7 +238,10 @@ This example contains the following steps:
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
       
       <guid>/data_code/bayesian-species-distribution-models/</guid>
-      <description>Here is a tutorial of running a species distribution model in a Bayesian framework using the hSDM package in R, using a rangemap as a covariate. See also the associated paper in Ecography.</description>
+      <description>&lt;p&gt;Here is a tutorial of running a &lt;a href=&#34;https://github.com/domisch/species_distribution_models&#34; target=&#34;_blank&#34;&gt;species distribution model in a Bayesian framework&lt;/a&gt; using the hSDM package in R, using a rangemap as a covariate. See also the associated paper in &lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1111/ecog.01925/abstract&#34; target=&#34;_blank&#34;&gt;Ecography&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/domisch/species_distribution_models&#34; target=&#34;_blank&#34;&gt;&lt;img align=&#34;center&#34; src=&#34;/img/bayesian_SDMs.png&#34; width=&#34;600&#34; alt=&#34;Bayesian SDMs&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
