@@ -447,21 +447,12 @@ more $INDIR/str_stats_c.txt
     </item>
     
     <item>
-      <title>High-resolution stream network delineation using digital elevation models: assessing the spatial accuracy</title>
-      <link>/publication/pubs/2018-01-01_high-resolution_stream_network/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pubs/2018-01-01_high-resolution_stream_network/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Privacy policy and legal notes</title>
       <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0200</pubDate>
       
       <guid>/privacy/</guid>
-      <description>&lt;p&gt;Effective date: July 01, 2019&lt;/p&gt;
+      <description>&lt;p&gt;Effective date: August 02, 2019&lt;/p&gt;
 
 &lt;p&gt;&lt;br/&gt;&lt;/p&gt;
 
@@ -471,36 +462,11 @@ more $INDIR/str_stats_c.txt
 
 &lt;p&gt;We want to inform you of our policies regarding the collection and use of personal data when you use our website and the choices you have associated with that data. All data on this website are processed based on the current laws and regulations (General Data Protection Regulation; GDPR).&lt;/p&gt;
 
-&lt;p&gt;We use your data to provide and improve the website. By using the website, you agree to the collection and use of information in accordance with this policy.&lt;/p&gt;
+&lt;p&gt;By using the website, you agree to the collection and use of information in accordance with this policy.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Information collection and use&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;We collect anonymized information to provide and improve our website to you.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Analytics&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;We employ the third-party company &lt;a href=&#34;https://clicky.com&#34; target=&#34;_blank&#34;&gt;Clicky&lt;/a&gt; to assist us in analyzing how our website is used. Clicky is a web analytics service and you can read the Privacy Policy for Clicky here: &lt;a href=&#34;https://clicky.com/terms&#34; target=&#34;_blank&#34;&gt;https://clicky.com/terms&lt;/a&gt;. Such third parties have access to your personal data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.&lt;/p&gt;
-
-&lt;p&gt;Clicky uses Session Cookies to track the activity on our website and hold certain information.&lt;/p&gt;
-
-&lt;p&gt;Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our website.&lt;/p&gt;
-
-&lt;p&gt;Clicky values the privacy of visitors to web sites monitored by its service. By default, Clicky does not log any personal data, other than a tracking cookie containing a randomly generated Unique ID (&amp;ldquo;UID&amp;rdquo;); IP addresses are anonymized (the last number is replaced with a &amp;lsquo;0&amp;rsquo;), and global opt out cookies are honored.&lt;/p&gt;
-
-&lt;p&gt;You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our website.&lt;/p&gt;
-
-&lt;p&gt;We use the collected data for various purposes:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;To maintain the website&lt;/li&gt;
-&lt;li&gt;To allow you to participate in interactive features of our website when you choose to do so&lt;/li&gt;
-&lt;li&gt;To monitor the usage of the website&lt;/li&gt;
-&lt;li&gt;To detect, prevent and address technical issues&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;Storage of data&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;All collected and stored information is deleted automatically after 30 days.&lt;/p&gt;
+&lt;p&gt;We do not employ cookies or collect any personal information of visitors. We note that GitHub Pages, i.e. the hosting service of our site, may collect information which is however not managed and can not be accessed by us. Please see the &lt;a href=&#34;https://help.github.com/en/articles/github-privacy-statement&#34; target=&#34;_blank&#34;&gt;GitHub Privacy Statement&lt;/a&gt; for more information.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Links To Other Sites&lt;/em&gt;&lt;/p&gt;
 
@@ -542,6 +508,15 @@ Germany &lt;br/&gt;&lt;/p&gt;
 &lt;p&gt;E-mail: domisch@igb-berlin.de &lt;br/&gt;
 Phone: +49 (0) 30 6392 4079&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>High-resolution stream network delineation using digital elevation models: assessing the spatial accuracy</title>
+      <link>/publication/pubs/2018-01-01_high-resolution_stream_network/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/pubs/2018-01-01_high-resolution_stream_network/</guid>
+      <description></description>
     </item>
     
     <item>
