@@ -43,7 +43,7 @@
 
 &lt;figure&gt;
 
-&lt;img src=&#34;/authors/martin-friedrichs/avatar.jpg#floatleft&#34; alt=&#34;jaime&#34; width=&#34;150&#34; height=&#34;150&#34; &gt;
+&lt;img src=&#34;/authors/martin-friedrichs/avatar.jpg#floatleft&#34; alt=&#34;martin&#34; width=&#34;150&#34; height=&#34;150&#34; &gt;
 
 
 &lt;/figure&gt;
@@ -51,7 +51,19 @@
 
 &lt;p&gt;&lt;a href=&#34;https://martinfriedrichs.de/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Martin Friedrichs&lt;/strong&gt;&lt;/a&gt; is a PhD student working on fish distribution models, assessing scale-dependencies and model uncertainties for conservation (funded by the &lt;a href=&#34;http://www.glance-projects.eu/index.php/home.html&#34; target=&#34;_blank&#34;&gt;GLANCE project&lt;/a&gt; and co-supervised by Sami)&lt;/p&gt;
 
-&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/authors/xiling-deng/avatar.jpg#floatleft&#34; alt=&#34;xiling&#34; width=&#34;150&#34; height=&#34;150&#34; &gt;
+
+
+&lt;/figure&gt;
+ 
+
+&lt;p&gt;&lt;a href=&#34;https://www.senckenberg.de/de/institute/senckenberg-gesellschaft-fuer-naturforschung-frankfurt-main/abt-terrestrische-zoologie/sekt-entomologie-iii/entomologie-iii-team/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Xiling Deng&lt;/strong&gt;&lt;/a&gt; is a visiting PhD student from the Senckenberg Research Institute and Natural History Museum. She is working on the phylogeography of caddiesflies along elevational gradients.&lt;/p&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Collaborators&lt;/strong&gt;&lt;/p&gt;
 
@@ -398,7 +410,16 @@ more $INDIR/str_stats_c.txt
     </item>
     
     <item>
-      <title>From topography to hydrology - Exploring catchment-scale environmental filters in freshwater species distribution models</title>
+      <title>Climate model variability leads to uncertain predictions of future abundances of stream macroinvertebrates</title>
+      <link>/publication/pubs/2019-05-01_climate-model-variability/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/pubs/2019-05-01_climate-model-variability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From topography to hydrology - the modifiable area unit problem impacts freshwater species distribution models</title>
       <link>/publication/pubs/2019-05-01_from_topography_to_hydrology/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
