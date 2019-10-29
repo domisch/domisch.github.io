@@ -186,30 +186,30 @@ done
 
 &lt;p&gt;Get the stream order:&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;r.stream.order  stream_rast=stream_sub   direction=drainage_sub   strahler=str_order  --o
+&lt;pre&gt;&lt;code&gt;r.stream.order  stream_rast=stream   direction=drainage   strahler=str_order  --o
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;Get only streams and basins &amp;gt;=3rd order&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;r.mapcalc &amp;quot;str_order_3rd = if(str_order &amp;gt;=3, str_order, null() ) &amp;quot;  --o
-r.stream.basins  direction=drainage_sub  stream_rast=str_order_3rd  basins=basins_3rd_last   -l  --o
+r.stream.basins  direction=drainage  stream_rast=str_order_3rd  basins=basins_3rd_last   -l  --o
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;Stream distance - Calculates distance to and elevation above streams and outlet&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;g.extension extension=r.stream.distance
-r.stream.distance   stream_rast=stream_sub   direction=drainage_sub   elevation=elevation_cond  method=downstream   distance=str_distance    difference=str_elevation_diff  --o
+r.stream.distance   stream_rast=stream   direction=drainage   elevation=elevation_cond  method=downstream   distance=str_distance    difference=str_elevation_diff  --o
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;Stream order statistics - Calculates Horton&amp;rsquo;s statistics for Strahler and Horton ordered networks created with r.stream.order Print only order statistics:&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;r.stream.stats  stream_rast=stream_sub   direction=drainage_sub   elevation=elevation_cond  output=str_stats_o.txt    -o   
+&lt;pre&gt;&lt;code&gt;r.stream.stats  stream_rast=stream   direction=drainage   elevation=elevation_cond  output=str_stats_o.txt    -o   
 more $INDIR/str_stats_o.txt
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;Print only catchment statistics:&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;r.stream.stats  stream_rast=stream_sub   direction=drainage_sub   elevation=elevation_cond  output=str_stats_c.txt    -c 
+&lt;pre&gt;&lt;code&gt;r.stream.stats  stream_rast=stream   direction=drainage   elevation=elevation_cond  output=str_stats_c.txt    -c 
 more $INDIR/str_stats_c.txt
 &lt;/code&gt;&lt;/pre&gt;
 

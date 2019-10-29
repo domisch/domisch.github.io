@@ -126,7 +126,7 @@ This example contains the following steps:
   
   <meta property="article:published_time" content="2019-07-01T00:00:00&#43;02:00">
   
-  <meta property="article:modified_time" content="2019-10-29T11:48:19&#43;01:00">
+  <meta property="article:modified_time" content="2019-10-29T11:55:16&#43;01:00">
   
 
   
@@ -604,30 +604,30 @@ done
 
 <p>Get the stream order:</p>
 
-<pre><code>r.stream.order  stream_rast=stream_sub   direction=drainage_sub   strahler=str_order  --o
+<pre><code>r.stream.order  stream_rast=stream   direction=drainage   strahler=str_order  --o
 </code></pre>
 
 <p>Get only streams and basins &gt;=3rd order</p>
 
 <pre><code>r.mapcalc &quot;str_order_3rd = if(str_order &gt;=3, str_order, null() ) &quot;  --o
-r.stream.basins  direction=drainage_sub  stream_rast=str_order_3rd  basins=basins_3rd_last   -l  --o
+r.stream.basins  direction=drainage  stream_rast=str_order_3rd  basins=basins_3rd_last   -l  --o
 </code></pre>
 
 <p>Stream distance - Calculates distance to and elevation above streams and outlet</p>
 
 <pre><code>g.extension extension=r.stream.distance
-r.stream.distance   stream_rast=stream_sub   direction=drainage_sub   elevation=elevation_cond  method=downstream   distance=str_distance    difference=str_elevation_diff  --o
+r.stream.distance   stream_rast=stream   direction=drainage   elevation=elevation_cond  method=downstream   distance=str_distance    difference=str_elevation_diff  --o
 </code></pre>
 
 <p>Stream order statistics - Calculates Horton&rsquo;s statistics for Strahler and Horton ordered networks created with r.stream.order Print only order statistics:</p>
 
-<pre><code>r.stream.stats  stream_rast=stream_sub   direction=drainage_sub   elevation=elevation_cond  output=str_stats_o.txt    -o   
+<pre><code>r.stream.stats  stream_rast=stream   direction=drainage   elevation=elevation_cond  output=str_stats_o.txt    -o   
 more $INDIR/str_stats_o.txt
 </code></pre>
 
 <p>Print only catchment statistics:</p>
 
-<pre><code>r.stream.stats  stream_rast=stream_sub   direction=drainage_sub   elevation=elevation_cond  output=str_stats_c.txt    -c 
+<pre><code>r.stream.stats  stream_rast=stream   direction=drainage   elevation=elevation_cond  output=str_stats_c.txt    -c 
 more $INDIR/str_stats_c.txt
 </code></pre>
 
