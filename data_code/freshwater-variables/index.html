@@ -469,6 +469,13 @@ This example contains the following steps:
 
 <p><br/></p>
 
+<p>Create and enter the folder where the data will be stored:</p>
+
+<pre><code>export INDIR=$HOME/grass_hydro
+mkdir $INDIR 
+cd $INDIR
+</code></pre>
+
 <p>Download the script</p>
 
 <pre><code>cd ~
@@ -476,12 +483,7 @@ wget &quot;http://www.spatial-ecology.net/ost4sem/exercise/basic_adv_grass/strea
 rstudio stream_variables.sh &amp;
 </code></pre>
 
-<p>Create and enter the folder where the data will be stored:</p>
-
-<pre><code>export INDIR=$HOME/grass_hydro
-mkdir $INDIR 
-cd $INDIR
-</code></pre>
+<p><br/></p>
 
 <p>Download and unzip a DEM from <a href="http://www.worldclim.org/tiles.php" target="_blank">WorldClim</a>:</p>
 
@@ -563,7 +565,7 @@ chmod 777  $HOME/.grass7/addons/scripts/r.stream.variables
 
 <p>Add-on 2: Create stream-specific variables based on elevation</p>
 
-<pre><code>r.stream.variables  variable=elevation  output=cells,min,max,range,mean,stddev,coeff_var,sum  area=watershed  scale=1  cpu=2
+<pre><code>r.stream.variables  drainage=elevation  output=cells,min,max,range,mean,stddev,coeff_var,sum  area=watershed  scale=1  cpu=2
 </code></pre>
 
 <p>Rename the “elevation_cells” to “flow_accumulation” and check variables:</p>
@@ -575,7 +577,7 @@ r.info  elevation_range
 
 <p>Get stream length (similar procedure as above):</p>
 
-<pre><code>r.stream.variables  variable=elevation  output=cells  area=stream  scale=1  cpu=2
+<pre><code>r.stream.variables  drainage=elevation  output=cells  area=stream  scale=1  cpu=2
 r.mapcalc &quot;stream_length = elevation_cells&quot;  --o
 r.info  stream_length 
 </code></pre>
@@ -585,14 +587,14 @@ r.info  stream_length
 <pre><code>wget -O  $INDIR/prec_16_tif.zip  &quot;http://biogeo.ucdavis.edu/data/climate/worldclim/1_4/tiles/cur/prec_16_tif.zip&quot;
 unzip -q  -o $INDIR/prec_16_tif.zip  -d  $INDIR/prec
 r.in.gdal input=$INDIR/prec/prec6_16.tif   output=prec6   # rainfall in June
-r.stream.variables  variable=prec6  output=sum  area=watershed  scale=1  cpu=2
+r.stream.variables  drainage=prec6  output=sum  area=watershed  scale=1  cpu=2
 </code></pre>
 
 <p>Run all 12 months in a loop:</p>
 
 <pre><code>for var in $(seq 1 12); do
 r.in.gdal input=$INDIR/prec/prec${var}_16.tif   output=prec$var
-r.stream.variables  variable=prec$var  output=sum  area=watershed  scale=1  cpu=2
+r.stream.variables  drainage=prec$var  output=sum  area=watershed  scale=1  cpu=2
 done
 </code></pre>
 
