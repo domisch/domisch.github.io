@@ -126,7 +126,7 @@ This example contains the following steps:
   
   <meta property="article:published_time" content="2019-07-01T00:00:00&#43;02:00">
   
-  <meta property="article:modified_time" content="2019-07-10T13:16:17&#43;02:00">
+  <meta property="article:modified_time" content="2019-10-29T11:48:19&#43;01:00">
   
 
   
@@ -554,7 +554,7 @@ r.out.gdal  input=stream_sub     output=$INDIR/stream_sub.tif    type=Int32  nod
 wget -O $HOME/.grass7/addons/scripts/r.stream.watersheds &quot;http://www.spatial-ecology.net/ost4sem/exercise/basic_adv_grass/r.stream.watersheds&quot;
 chmod 777  $HOME/.grass7/addons/scripts/r.stream.watersheds
 
-wget -O $HOME/.grass7/addons/scripts/r.stream.variables &quot;http://www.spatial-ecology.net/ost4sem/exercise/basic_adv_grass/r.stream.watersheds&quot;
+wget -O $HOME/.grass7/addons/scripts/r.stream.variables &quot;http://www.spatial-ecology.net/ost4sem/exercise/basic_adv_grass/r.stream.variables&quot;
 chmod 777  $HOME/.grass7/addons/scripts/r.stream.variables
 </code></pre>
 
@@ -565,7 +565,7 @@ chmod 777  $HOME/.grass7/addons/scripts/r.stream.variables
 
 <p>Add-on 2: Create stream-specific variables based on elevation</p>
 
-<pre><code>r.stream.variables  drainage=elevation  output=cells,min,max,range,mean,stddev,coeff_var,sum  area=watershed  scale=1  cpu=2
+<pre><code>r.stream.variables  variable=elevation  output=cells,min,max,range,mean,stddev,coeff_var,sum  area=watershed  scale=1  cpu=2
 </code></pre>
 
 <p>Rename the “elevation_cells” to “flow_accumulation” and check variables:</p>
@@ -577,7 +577,7 @@ r.info  elevation_range
 
 <p>Get stream length (similar procedure as above):</p>
 
-<pre><code>r.stream.variables  drainage=elevation  output=cells  area=stream  scale=1  cpu=2
+<pre><code>r.stream.variables  variable=elevation  output=cells  area=stream  scale=1  cpu=2
 r.mapcalc &quot;stream_length = elevation_cells&quot;  --o
 r.info  stream_length 
 </code></pre>
@@ -587,14 +587,14 @@ r.info  stream_length
 <pre><code>wget -O  $INDIR/prec_16_tif.zip  &quot;http://biogeo.ucdavis.edu/data/climate/worldclim/1_4/tiles/cur/prec_16_tif.zip&quot;
 unzip -q  -o $INDIR/prec_16_tif.zip  -d  $INDIR/prec
 r.in.gdal input=$INDIR/prec/prec6_16.tif   output=prec6   # rainfall in June
-r.stream.variables  drainage=prec6  output=sum  area=watershed  scale=1  cpu=2
+r.stream.variables  variable=prec6  output=sum  area=watershed  scale=1  cpu=2
 </code></pre>
 
 <p>Run all 12 months in a loop:</p>
 
 <pre><code>for var in $(seq 1 12); do
 r.in.gdal input=$INDIR/prec/prec${var}_16.tif   output=prec$var
-r.stream.variables  drainage=prec$var  output=sum  area=watershed  scale=1  cpu=2
+r.stream.variables  variable=prec$var  output=sum  area=watershed  scale=1  cpu=2
 done
 </code></pre>
 
@@ -648,7 +648,7 @@ more $INDIR/str_stats_c.txt
         </div>
 
         <div class="body-footer">
-          <p>Last updated on Jul 10, 2019</p>
+          <p>Last updated on Oct 29, 2019</p>
 
           
         </div>
