@@ -126,7 +126,7 @@ This example contains the following steps:
   
   <meta property="article:published_time" content="2019-07-01T00:00:00&#43;02:00">
   
-  <meta property="article:modified_time" content="2019-10-29T11:55:16&#43;01:00">
+  <meta property="article:modified_time" content="2019-10-29T12:08:55&#43;01:00">
   
 
   
@@ -621,7 +621,8 @@ r.stream.distance   stream_rast=stream   direction=drainage   elevation=elevatio
 
 <p>Stream order statistics - Calculates Horton&rsquo;s statistics for Strahler and Horton ordered networks created with r.stream.order Print only order statistics:</p>
 
-<pre><code>r.stream.stats  stream_rast=stream   direction=drainage   elevation=elevation_cond  output=str_stats_o.txt    -o   
+<pre><code>g.extension extension=r.stream.stats
+r.stream.stats  stream_rast=stream   direction=drainage   elevation=elevation_cond  output=str_stats_o.txt    --o   
 more $INDIR/str_stats_o.txt
 </code></pre>
 

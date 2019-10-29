@@ -368,7 +368,8 @@ r.stream.distance   stream_rast=stream   direction=drainage   elevation=elevatio
 
 &lt;p&gt;Stream order statistics - Calculates Horton&amp;rsquo;s statistics for Strahler and Horton ordered networks created with r.stream.order Print only order statistics:&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;r.stream.stats  stream_rast=stream   direction=drainage   elevation=elevation_cond  output=str_stats_o.txt    -o   
+&lt;pre&gt;&lt;code&gt;g.extension extension=r.stream.stats
+r.stream.stats  stream_rast=stream   direction=drainage   elevation=elevation_cond  output=str_stats_o.txt    --o   
 more $INDIR/str_stats_o.txt
 &lt;/code&gt;&lt;/pre&gt;
 
