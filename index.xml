@@ -13,85 +13,6 @@
     
     
     <item>
-      <title>People</title>
-      <link>/authors/people/</link>
-      <pubDate>Mon, 05 Aug 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/authors/people/</guid>
-      <description>&lt;figure&gt;
-
-&lt;img src=&#34;/authors/admin/avatar.jpg#floatleft&#34; alt=&#34;sami&#34; width=&#34;150&#34; height=&#34;150&#34; &gt;
-
-
-&lt;/figure&gt;
-
-&lt;p&gt;&lt;a href=&#34;/authors/admin/&#34;&gt;&lt;strong&gt;Dr. Sami Domisch&lt;/strong&gt;&lt;/a&gt; is a Junior Research Group Leader and is interested in freshwater biodiversity and developing tools in spatial freshwater biodiversity science.&lt;/p&gt;
-
-&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;figure&gt;
-
-&lt;img src=&#34;/authors/jaime-garcia-marquez/avatar.jpg#floatleft&#34; alt=&#34;jaime&#34; width=&#34;150&#34; height=&#34;150&#34; &gt;
-
-
-&lt;/figure&gt;
- 
-
-&lt;p&gt;&lt;a href=&#34;/authors/jaime-garcia-marquez/&#34;&gt;&lt;strong&gt;Dr. Jaime Garcia Marquez&lt;/strong&gt;&lt;/a&gt; is a GIS Data Analyst with a strong emphasis in open-source methods &amp;amp; tools for analysing large biodiversity data sets using the Linux command-line.&lt;/p&gt;
-
-&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;figure&gt;
-
-&lt;img src=&#34;/authors/martin-friedrichs/avatar.jpg#floatleft&#34; alt=&#34;martin&#34; width=&#34;150&#34; height=&#34;150&#34; &gt;
-
-
-&lt;/figure&gt;
- 
-
-&lt;p&gt;&lt;a href=&#34;https://martinfriedrichs.de/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Martin Friedrichs&lt;/strong&gt;&lt;/a&gt; is a PhD student working on fish distribution models, assessing scale-dependencies and model uncertainties for conservation (funded by the &lt;a href=&#34;http://www.glance-projects.eu/index.php/home.html&#34; target=&#34;_blank&#34;&gt;GLANCE project&lt;/a&gt; and co-supervised by Sami)&lt;/p&gt;
-
-&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;figure&gt;
-
-&lt;img src=&#34;/authors/xiling-deng/avatar.jpg#floatleft&#34; alt=&#34;xiling&#34; width=&#34;150&#34; height=&#34;150&#34; &gt;
-
-
-&lt;/figure&gt;
- 
-
-&lt;p&gt;&lt;a href=&#34;https://www.senckenberg.de/de/institute/senckenberg-gesellschaft-fuer-naturforschung-frankfurt-main/abt-terrestrische-zoologie/sekt-entomologie-iii/entomologie-iii-team/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Xiling Deng&lt;/strong&gt;&lt;/a&gt; is a visiting PhD student from the Senckenberg Research Institute and Natural History Museum. She is working on the phylogeography of caddiesflies along elevational gradients.&lt;/p&gt;
-
-&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Collaborators&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://environment.yale.edu/profile/giuseppe-amatulli&#34; target=&#34;_blank&#34;&gt;Giuseppe Amatulli&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.igb-berlin.de/en/profile/jens-kiesel&#34; target=&#34;_blank&#34;&gt;Jens Kiesel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.conservation.cam.ac.uk/directory/dr-longzhu-shen&#34; target=&#34;_blank&#34;&gt;Longzhu Shen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://janiheino.weebly.com/&#34; target=&#34;_blank&#34;&gt;Jani Heino&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jetzlab.yale.edu/people/walter-jetz&#34; target=&#34;_blank&#34;&gt;Walter Jetz&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ctfc.cat/personal_det.php?id=168&#34; target=&#34;_blank&#34;&gt;Virgilio Hermoso&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=7ffWGfYAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34;&gt;Mathias Kuemmerlen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.bc3research.org/index.php?option=com_researcher&amp;amp;task=view&amp;amp;rese=133&amp;amp;Itemid=345&#34; target=&#34;_blank&#34;&gt;Simone Langhans&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.igb-berlin.de/en/profile/rita-adrian&#34; target=&#34;_blank&#34;&gt;Rita Adrian&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.igb-berlin.de/en/profile/sonja-jahnig&#34; target=&#34;_blank&#34;&gt;Sonja J&amp;auml;hnig&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.senckenberg.de/root/index.php?page_id=4350&amp;amp;PHPSESSID=clqiqvn5v5f6s16dci24nrgmu3&amp;amp;abteilungID=26&amp;amp;institutID=1&#34; target=&#34;_blank&#34;&gt;Peter Haase&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.uni-due.de/aquatic_ecology/staff/hering.shtml&#34; target=&#34;_blank&#34;&gt;Daniel Hering&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.researchgate.net/profile/Eren_Turak&#34; target=&#34;_blank&#34;&gt;Eren Turak&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.researchgate.net/profile/Francisco_Valente_Neto&#34; target=&#34;_blank&#34;&gt;Francisco Valente Neto&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.researchgate.net/profile/Leandro_Juen&#34; target=&#34;_blank&#34;&gt;Leandro Juen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://lattes.cnpq.br/6041546003155327&#34; target=&#34;_blank&#34;&gt;Ana Paula Justino de Faria&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.researchgate.net/profile/Karina_Dias-Silva2&#34; target=&#34;_blank&#34;&gt;Karina Dias Silva&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Contact</title>
       <link>/contact/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
@@ -132,387 +53,87 @@ Phone: +49 (0) 30 6392 4079&lt;/p&gt;
     </item>
     
     <item>
-      <title>The role of artificial intelligence in achieving the Sustainable Development Goals</title>
-      <link>/publication/pubs/2019-04-01_ai_sdgs/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <title>Authors</title>
+      <link>/authors/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0200</pubDate>
       
-      <guid>/publication/pubs/2019-04-01_ai_sdgs/</guid>
+      <guid>/authors/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Integrative species-delimitation: testing the efficacy of the multispecies coalescent model in the Greenthroat Darter complex (Etheostoma lepidum)</title>
-      <link>/publication/pubs/2019-08-01_integrative-species-delimitation/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <title>Data &amp; Code</title>
+      <link>/data_code/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0200</pubDate>
       
-      <guid>/publication/pubs/2019-08-01_integrative-species-delimitation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spatial conservation planning</title>
-      <link>/project/glowabio_conservation/</link>
-      <pubDate>Fri, 05 Jul 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/project/glowabio_conservation/</guid>
-      <description>&lt;p&gt;Current freshwater conservation efforts fall short in effectively protecting freshwater biodiversity. Acknowledging the challenge in freshwater conservation management, further assessments are needed regarding the efficiency of conservation planning. We aim to analyze global, systematic conservation planning networks given the key features habitat and biodiversity to (i) highlight areas of irreplaceability within freshwater ecosystems, and (ii) to compare the effectiveness of present-day conservation efforts vs. alternative, prioritized freshwater conservation planning solutions.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Freshwater habitat regionalization</title>
-      <link>/project/glowabio_habitats/</link>
-      <pubDate>Fri, 05 Jul 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/project/glowabio_habitats/</guid>
-      <description>&lt;p&gt;A first step towards global freshwater biodiversity assessments is a comprehensive quantification of the variety of habitat types. We aim to characterize the variety and distribution of global freshwater habitats at a high spatial resolution, to perfrom a regionalization analysis, and to provide environmental correlates of spatial biodiversity patterns.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Spatial freshwater biodiversity patterns</title>
-      <link>/project/glowabio_biodiversity/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/project/glowabio_biodiversity/</guid>
-      <description>&lt;p&gt;Global biodiversity is declining rapidly worldwide, and among terrestrial, marine and freshwater ecosystems, freshwaters are particularly vulnerable. These fragmented ecosystems cover less than 1% of the Earth’s surface, yet they harbour approximately 10% of all described species.
-Aquatic insects contribute to freshwater diversity by approximately 60% as the largest and most diverse taxa group, and given this substantial proportion, aquatic insects may be considered as a proxy for freshwater biodiversity and ecological state of a given habitat.
-We will use latest methods in species distribution modelling and spatial biodiversity science to analyze diversity patterns of this taxa group across the globe.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Extract raster values</title>
-      <link>/data_code/extract-variables/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/data_code/extract-variables/</guid>
-      <description>&lt;p&gt;Here are some useful commands to move point records to a stream network and to extract the values for each point. The code is maintained on GitHub at  &lt;a href=&#34;https://github.com/domisch/stream_layers&#34; target=&#34;_blank&#34;&gt;https://github.com/domisch/stream_layers&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Freshwater-specific environmental variables</title>
-      <link>/data_code/freshwater-variables/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/data_code/freshwater-variables/</guid>
-      <description>&lt;p&gt;This tutorial shows you how to calculate stream-specific freshwater variables by relating the upstream e.g. land cover to any given downstream location using the GRASS GIS add-ons &lt;em&gt;r.stream.watersheds&lt;/em&gt; &amp;amp; &lt;em&gt;r.stream.variables&lt;/em&gt;. The original 1km data and publication are available &lt;a href=&#34;http://www.earthenv.org/streams&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; - see also the original code from &lt;a href=&#34;http://spatial-ecology.net/dokuwiki/doku.php?id=wiki:grassrivarvariable&#34; target=&#34;_blank&#34;&gt;spatial-ecology.net&lt;/a&gt;.&lt;/p&gt;
+      <guid>/data_code/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/img/code.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.earthenv.org/streams&#34; target=&#34;_blank&#34;&gt;&lt;img align=&#34;center&#34; src=&#34;/img/Add-ons_for_GRASS_GIS.gif&#34; width=&#34;700&#34; alt=&#34;Add-on animation&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;This example contains the following steps:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Here is a collection of code and tutorials for spatial analyses in freshwater ecosystems, and we will be gradually adding more:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Download an exemplary digital elevation model (DEM)&lt;/li&gt;
-&lt;li&gt;Extract the stream network from the DEM&lt;/li&gt;
-&lt;li&gt;Delineate major drainage basins&lt;/li&gt;
-&lt;li&gt;Crop data to a sub-basin&lt;/li&gt;
-&lt;li&gt;Calculate the sub-watersheds for each stream grid cell (&lt;em&gt;r.stream.watersheds&lt;/em&gt;)&lt;/li&gt;
-&lt;li&gt;Calculate contiguous stream-specific variables (&lt;em&gt;r.stream.variables&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/data_code/freshwater-variables&#34;&gt;Create freshwater-specific environmental variables&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/data_code/extract-variables&#34;&gt;How to move point records to a stream network and extract the values&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/data_code/open-source-gis&#34;&gt;A quick guide of using open-source GIS tools using the Linux command-line&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/data_code/bayesian-species-distribution-models&#34;&gt;Bayesian hierarchical species distribution models&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    The add-ons have been tested in the Linux environment. Microsoft Windows users: consider installing the OSGEO-Live Virtual machine that has GRASS GIS 7 already installed and is ready to use. Alternatively you can run the add-ons via QGIS.
-  &lt;/div&gt;
-&lt;/div&gt;
+&lt;p&gt;If you have any questions or noticed any bugs in the code please &lt;a href=&#34;mailto:domisch@igb-berlin.de&#34; target=&#34;_blank&#34;&gt;drop us a line&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;Create and enter the folder where the data will be stored:&lt;/p&gt;
+&lt;p&gt;Some more useful tools and websites:&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;export INDIR=$HOME/grass_hydro
-mkdir $INDIR 
-cd $INDIR
-&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://geocompr.robinlovelace.net/&#34; target=&#34;_blank&#34;&gt;Geocomputation with R&lt;/a&gt; by Robin Lovelace, Jakub Nowosad, Jannes Muenchow&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rspatial.org/&#34; target=&#34;_blank&#34;&gt;Spatial Data Science with R&lt;/a&gt; by Robert J. Hijmans&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cran.r-project.org/web/packages/dismo/vignettes/sdm.pdf&#34; target=&#34;_blank&#34;&gt;Species distribution modeling in R&lt;/a&gt; using the &lt;a href=&#34;https://cran.r-project.org/web/packages/dismo/&#34; target=&#34;_blank&#34;&gt;dismo&lt;/a&gt; R-package (maintained by Robert J. Hijmans, Steven Phillips, John Leathwick and Jane Elith)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amnh.org/content/download/141368/2285424/file/LinC3_SpeciesDistModeling.pdf&#34; target=&#34;_blank&#34;&gt;Species’ Distribution Modeling for Conservation Educators and Practitioners&lt;/a&gt; by Richard G. Pearson&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://spatial-ecology.net/&#34; target=&#34;_blank&#34;&gt;Spatial-Ecology&lt;/a&gt; providing training in open-source software for geospatial data processing&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cran.r-project.org/web/packages/SSN/index.html&#34; target=&#34;_blank&#34;&gt;Spatial Modeling on Stream Networks (SSN)&lt;/a&gt; by Jay Ver Hoef and Erin Peterson&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cran.r-project.org/web/packages/openSTARS/index.html&#34; target=&#34;_blank&#34;&gt;openSTARS&lt;/a&gt;: the open-source version for preparing the data for the SSN-package by Mira Kattwinkel&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Global freshwater biodiversity, biogeography &amp; conservation (GLOWABIO)</title>
+      <link>/post/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/post/</guid>
+      <description>&lt;p&gt;Global biodiversity is declining across ecosystems, and freshwater organisms and habitats are among the most threatened. While finding appropriate countermeasures, a key challenge is first to gain a comprehensive picture of the current status of freshwater biodiversity. Compared to the terrestrial and marine realms, freshwater biodiversity remains understudied in terms of its ecological significance and distinctiveness, resulting in a lack of effective conservation at regional to global scales.&lt;/p&gt;
 
-&lt;p&gt;Download the script&lt;/p&gt;
+&lt;p&gt;The Leibniz-Junior Research Group aims to fill this gap by applying cutting-edge global geospatial analyses focusing on: (i) a new habitat type delineation using a newly developed, global hydrography at very high spatial resolution (90m); (ii) state-of-the-art Bayesian models to map freshwater biodiversity based on an extensive global dataset compiled over the past years on the occurrence of aquatic insects, the most diverse freshwater animal group; and (iii) applying novel systematic conservation network analyses to highlight potential gaps in the protection of underrepresented habitat types and taxa across national boundaries. The combined application of these core elements at the global scale, yet at high spatial resolution, will allow ground-breaking, standardised and comparative analyses in spatial freshwater biodiversity science. Importantly, uncertainties inherent in the data and analyses will be quantified to ensure transparency and robustness of the results.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;cd ~
-wget &amp;quot;http://www.spatial-ecology.net/ost4sem/exercise/basic_adv_grass/stream_variables.sh&amp;quot;
-rstudio stream_variables.sh &amp;amp;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;p&gt;Download and unzip a DEM from &lt;a href=&#34;http://www.worldclim.org/tiles.php&#34; target=&#34;_blank&#34;&gt;WorldClim&lt;/a&gt;:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;wget -O  $INDIR/alt_16_tif.zip  &amp;quot;http://biogeo.ucdavis.edu/data/climate/worldclim/1_4/tiles/cur/alt_16_tif.zip&amp;quot;
-unzip  -o $INDIR/alt_16_tif.zip  -d  $INDIR/dem
-gdalinfo $INDIR/dem/alt_16.tif        # check data
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Create the GRASS GIS data base and enter GRASS:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;grass74  -text -c $INDIR/dem/alt_16.tif  $INDIR/grass_location
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Read data into GRASS:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;r.in.gdal input=$INDIR/dem/alt_16.tif    output=elevation
-r.info elevation # check data
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Open GUI and visualize the layers:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;g.gui wxpython
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Run hydrological conditioning:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;g.extension  extension=r.hydrodem # download extension
-# if you get an error run: sudo apt install grass-dev
-r.hydrodem  input=elevation  output=elevation_cond
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Extract drainage direction and stream network&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;r.watershed  --h  # see help regarding the options and flags
-r.watershed  elevation=elevation_cond  drainage=drainage   stream=stream  accumulation=accumulation  threshold=100  --o
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Get drainage basins (last downstream segment: -l flag)&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;g.extension  extension=r.stream.basins
-r.stream.basins  direction=drainage  stream_rast=stream  basins=basins_last  -l  --o
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Categorize the single basins:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;r.clump -d input=basins_last  output=basins_cat  --o
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Extract the data for one basin:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;r.mapcalc &amp;quot;drainage_sub = if (basins_cat==798, drainage, null() ) &amp;quot;  --o
-r.mapcalc &amp;quot;stream_sub = if (basins_cat==798, stream, null() ) &amp;quot;  --o
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Write files to disk:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;r.out.gdal  input=drainage_sub   output=$INDIR/drainage_sub.tif  type=Int32  nodata=-9999  --o  -c    createopt=&amp;quot;COMPRESS=LZW,ZLEVEL=9&amp;quot;
-r.out.gdal  input=stream_sub     output=$INDIR/stream_sub.tif    type=Int32  nodata=-9999  --o  -c    createopt=&amp;quot;COMPRESS=LZW,ZLEVEL=9&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;strong&gt;Create stream-specific variables, and limit the calculation only to a single basin.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Download and install the GRASS add-ons:&lt;/p&gt;
-
-&lt;p&gt;Work-around (November 2018) for grass74:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;mkdir $HOME/.grass7/addons/scripts
-wget -O $HOME/.grass7/addons/scripts/r.stream.watersheds &amp;quot;http://www.spatial-ecology.net/ost4sem/exercise/basic_adv_grass/r.stream.watersheds&amp;quot;
-chmod 777  $HOME/.grass7/addons/scripts/r.stream.watersheds
-
-wget -O $HOME/.grass7/addons/scripts/r.stream.variables &amp;quot;http://www.spatial-ecology.net/ost4sem/exercise/basic_adv_grass/r.stream.variables&amp;quot;
-chmod 777  $HOME/.grass7/addons/scripts/r.stream.variables
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Add-on 1: Calculate the sub-watershed and sub-stream sections for each stream grid cell using 2 processors:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;r.stream.watersheds stream=stream_sub  drainage=drainage_sub  cpu=2
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Add-on 2: Create stream-specific variables based on elevation&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;r.stream.variables  variable=elevation  output=cells,min,max,range,mean,stddev,coeff_var,sum  area=watershed  scale=1  cpu=2
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Rename the “elevation_cells” to “flow_accumulation” and check variables:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;r.mapcalc &amp;quot;flow_accummulation = elevation_cells&amp;quot;  --o
-r.info  flow_accummulation
-r.info  elevation_range
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Get stream length (similar procedure as above):&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;r.stream.variables  variable=elevation  output=cells  area=stream  scale=1  cpu=2
-r.mapcalc &amp;quot;stream_length = elevation_cells&amp;quot;  --o
-r.info  stream_length 
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Calculate the amount of rainfall within the basin:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;wget -O  $INDIR/prec_16_tif.zip  &amp;quot;http://biogeo.ucdavis.edu/data/climate/worldclim/1_4/tiles/cur/prec_16_tif.zip&amp;quot;
-unzip -q  -o $INDIR/prec_16_tif.zip  -d  $INDIR/prec
-r.in.gdal input=$INDIR/prec/prec6_16.tif   output=prec6   # rainfall in June
-r.stream.variables  variable=prec6  output=sum  area=watershed  scale=1  cpu=2
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Run all 12 months in a loop:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;for var in $(seq 1 12); do
-r.in.gdal input=$INDIR/prec/prec${var}_16.tif   output=prec$var
-r.stream.variables  variable=prec$var  output=sum  area=watershed  scale=1  cpu=2
-done
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Other useful add-ons for hydrological applications: &lt;a href=&#34;http://grasswiki.osgeo.org/wiki/Hydrological_Sciences&#34; target=&#34;_blank&#34;&gt;http://grasswiki.osgeo.org/wiki/Hydrological_Sciences&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Other examples&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Get the stream order:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;r.stream.order  stream_rast=stream   direction=drainage   strahler=str_order  --o
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Get only streams and basins &amp;gt;=3rd order&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;r.mapcalc &amp;quot;str_order_3rd = if(str_order &amp;gt;=3, str_order, null() ) &amp;quot;  --o
-r.stream.basins  direction=drainage  stream_rast=str_order_3rd  basins=basins_3rd_last   -l  --o
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Stream distance - Calculates distance to and elevation above streams and outlet&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;g.extension extension=r.stream.distance
-r.stream.distance   stream_rast=stream   direction=drainage   elevation=elevation_cond  method=downstream   distance=str_distance    difference=str_elevation_diff  --o
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Stream order statistics - Calculates Horton&amp;rsquo;s statistics for Strahler and Horton ordered networks created with r.stream.order Print only order statistics:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;g.extension extension=r.stream.stats
-r.stream.stats  stream_rast=stream   direction=drainage   elevation=elevation_cond  output=str_stats_o.txt    --o   
-more $INDIR/str_stats_o.txt
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Print only catchment statistics:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;r.stream.stats  stream_rast=stream   direction=drainage   elevation=elevation_cond  output=str_stats_c.txt    -c 
-more $INDIR/str_stats_c.txt
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Key aspects in terms of feasibility and an open science strategy are: (i) all required data are already available, (ii) all analyses will be performed by using open-source geospatial tools, and (iii) all data layers and codes will be stored in public repositories to enable follow-up analyses by others. The project will promote national and international synergies, and inform global initiatives such as IPBES, Future Earth, and Freshwater-BON, to improve our understanding of the current status of freshwater biodiversity.&lt;/p&gt;
 
 &lt;p&gt;&lt;br/&gt;
-&lt;em&gt;See also these useful GRASS-GIS commands for hydrological applications:&lt;/em&gt;&lt;/p&gt;
+The Leibniz-Junior Research Group is co-funded by the Leibniz-Institute of Freshwater Ecology and Inland Fisheries in Berlin, Germany.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://grass.osgeo.org/grass74/manuals/topic_hydrology.html&#34; target=&#34;_blank&#34;&gt;https://grass.osgeo.org/grass74/manuals/topic_hydrology.html&lt;/a&gt;
-&lt;a href=&#34;https://grasswiki.osgeo.org/wiki/R.stream.*_modules&#34; target=&#34;_blank&#34;&gt;https://grasswiki.osgeo.org/wiki/R.stream.*_modules&lt;/a&gt; &lt;br/&gt;
-&lt;a href=&#34;https://grasswiki.osgeo.org/wiki/Hydrological_Sciences&#34; target=&#34;_blank&#34;&gt;https://grasswiki.osgeo.org/wiki/Hydrological_Sciences&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/about_logos.png&#34; width=&#34;80%&#34; alt=&#34;logos&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Open-source GIS</title>
-      <link>/data_code/open-source-gis/</link>
+      <title>Research</title>
+      <link>/project/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
       
-      <guid>/data_code/open-source-gis/</guid>
-      <description>&lt;p&gt;Here is a &lt;a href=&#34;https://github.com/domisch/GIS_tools&#34; target=&#34;_blank&#34;&gt;collection of open-source GIS tools, using the Linux command line&lt;/a&gt;. The code is maintained at GitHub and includes GDAL/OGR, GRASS, pktools, OpenForis, awk and R.&lt;/p&gt;
+      <guid>/project/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/img/habitats.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://github.com/domisch/GIS_tools&#34; target=&#34;_blank&#34;&gt;&lt;img align=&#34;center&#34; src=&#34;/img/open_source.png&#34; width=&#34;600&#34; alt=&#34;Open-source logos&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bayesian species distribution models</title>
-      <link>/data_code/bayesian-species-distribution-models/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/data_code/bayesian-species-distribution-models/</guid>
-      <description>&lt;p&gt;Here is a tutorial of running a &lt;a href=&#34;https://github.com/domisch/species_distribution_models&#34; target=&#34;_blank&#34;&gt;species distribution model in a Bayesian framework&lt;/a&gt; using the hSDM package in R, using a rangemap as a covariate. See also the associated paper in &lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1111/ecog.01925/abstract&#34; target=&#34;_blank&#34;&gt;Ecography&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We are currently focusing on several topics:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://github.com/domisch/species_distribution_models&#34; target=&#34;_blank&#34;&gt;&lt;img align=&#34;center&#34; src=&#34;/img/bayesian_SDMs.png&#34; width=&#34;600&#34; alt=&#34;Bayesian SDMs&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/project/glowabio_habitats&#34;&gt;Creating novel high-resolution freshwater ecoregions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/project/glowabio_biodiversity&#34;&gt;Analyzing spatial patterns in global freshwater biodiversity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/project//glowabio_conservation&#34;&gt;Spatial conservation planning given habitat and biodiversity features&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/publication/pubs/2019-05-01_from_topography_to_hydrology/&#34;&gt;Scale-dependencies in freshwater species distribution models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gepris.dfg.de/gepris/projekt/224580917?language=en&#34; target=&#34;_blank&#34;&gt;Niche evolution of Tibetan-Himalayan Rhyacophilidae (Trichoptera)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://allianceforfreshwaterlife.org/&#34; target=&#34;_blank&#34;&gt;Alliance for Freshwater Life&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Climate model variability leads to uncertain predictions of future abundances of stream macroinvertebrates</title>
-      <link>/publication/pubs/2019-05-01_climate-model-variability/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pubs/2019-05-01_climate-model-variability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>From topography to hydrology - the modifiable area unit problem impacts freshwater species distribution models</title>
-      <link>/publication/pubs/2019-05-01_from_topography_to_hydrology/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pubs/2019-05-01_from_topography_to_hydrology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Elevation, aspect, and local environment jointly determine diatom and macroinvertebrate diversity in the Hengduan Mountains region</title>
-      <link>/publication/pubs/2019-05-01_elevation-aspect/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pubs/2019-05-01_elevation-aspect/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How to make ecological models useful for environmental management</title>
-      <link>/publication/pubs/2019-05-01_useful_model/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pubs/2019-05-01_useful_model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The water-biodiversity nexus: a framework to assess the complex and adaptive dynamics of social-ecological aquatic systems</title>
-      <link>/publication/pubs/2019-07-01_the_water-biodiversity_nexus/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pubs/2019-07-01_the_water-biodiversity_nexus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Geomorpho90m - Global high-resolution geomorphometry layers: empirical evaluation and accuracy assessment</title>
-      <link>/publication/pubs/2019-03-01_geomorpho90m/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pubs/2019-03-01_geomorpho90m/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cost-effective restoration and conservation planning in Green and Blue Infrastructure designs. A case study on the Intercontinental Biosphere Reserve of the Mediterranean: Andalusia (Spain) – Morocco</title>
-      <link>/publication/pubs/2019-02-01_cost-effective_restoration/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pubs/2019-02-01_cost-effective_restoration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Combining eight research areas to foster the uptake of ecosystem-based management in fresh waters</title>
-      <link>/publication/pubs/2019-01-01_combining_eight/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pubs/2019-01-01_combining_eight/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Estimating nitrogen and phosphorus concentrations in streams and rivers across the contiguous United States: a machine learning framework</title>
-      <link>/publication/pubs/2019-01-01_estimating_nitrogen/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pubs/2019-01-01_estimating_nitrogen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spatially explicit species distribution models: A missed opportunity in conservation planning?</title>
-      <link>/publication/pubs/2019-01-01_spatially_explicit/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pubs/2019-01-01_spatially_explicit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Local environment and space drive multiple facets of stream macroinvertebrate beta diversity</title>
-      <link>/publication/pubs/2018-01-01_local_environment/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pubs/2018-01-01_local_environment/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -576,210 +197,23 @@ Phone: +49 (0) 30 6392 4079&lt;/p&gt;
     </item>
     
     <item>
-      <title>High-resolution stream network delineation using digital elevation models: assessing the spatial accuracy</title>
-      <link>/publication/pubs/2018-01-01_high-resolution_stream_network/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publication/pubs/2018-01-01_high-resolution_stream_network/</guid>
+      <guid></guid>
       <description></description>
     </item>
     
     <item>
-      <title>A high-resolution streamflow and hydrological metrics dataset for ecological modeling using a regression model</title>
-      <link>/publication/pubs/2018-01-01_a_high-resolution_streamflow/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <title>Publications</title>
+      <link>/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publication/pubs/2018-01-01_a_high-resolution_streamflow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A suite of global, cross-scale topographic variables for environmental and biodiversity modeling</title>
-      <link>/publication/pubs/2018-01-01_a_suite_of_global/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pubs/2018-01-01_a_suite_of_global/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projected effects of Climate-change-induced flow alterations on stream macroinvertebrate abundances</title>
-      <link>/publication/pubs/2018-01-01_projected_effects/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pubs/2018-01-01_projected_effects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social equity shapes zone-selection: Balancing aquatic biodiversity conservation and ecosystem services delivery in the transboundary Danube River Basin</title>
-      <link>/publication/pubs/2018-01-01_social_equity_shapes/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pubs/2018-01-01_social_equity_shapes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cross-taxa generalities in the relationship between population abundance and ambient temperatures</title>
-      <link>/publication/pubs/2017-01-01_cross-taxa_generalities/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pubs/2017-01-01_cross-taxa_generalities/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Using streamflow observations to estimate the impact of hydrological regimes and anthropogenic water use on European stream macroinvertebrate occurrences</title>
-      <link>/publication/pubs/2017-01-01_using_streamflow_observations/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pubs/2017-01-01_using_streamflow_observations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cross-realm assessment of climate change impacts on species’ abundance trends</title>
-      <link>/publication/pubs/2017-01-01_cross-realm_assessment/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pubs/2017-01-01_cross-realm_assessment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Severity Multipliers as a Methodology to Explore Potential Effects of Climate Change on Stream Bioassessment Programs</title>
-      <link>/publication/pubs/2017-01-01_severity_multipliers/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pubs/2017-01-01_severity_multipliers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Model-based integration of observed and expert-based information for assessing the geographic and environmental distribution of freshwater species</title>
-      <link>/publication/pubs/2016-01-01_model-based_integration/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pubs/2016-01-01_model-based_integration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Near-global freshwater-specific environmental variables for biodiversity analyses in 1 km resolution</title>
-      <link>/publication/pubs/2015-01-01_near-global_freshwater-specific/</link>
-      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pubs/2015-01-01_near-global_freshwater-specific/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Application of species distribution models in stream ecosystems: the challenges of spatial and temporal scale, environmental predictors and species occurrence data</title>
-      <link>/publication/pubs/2015-01-01_application_of_sdm/</link>
-      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pubs/2015-01-01_application_of_sdm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ecological models in freshwater ecosystems</title>
-      <link>/publication/pubs/2015-01-01_ecological_models_in_freshwater/</link>
-      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pubs/2015-01-01_ecological_models_in_freshwater/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Current and future latitudinal gradients in stream macroinvertebrates richness across North America.</title>
-      <link>/publication/pubs/2014-01-01_current_and_future_fws/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pubs/2014-01-01_current_and_future_fws/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Choice of study area and predictors affect habitat suitability projections, but not the performance of species distribution models of stream biota</title>
-      <link>/publication/pubs/2013-01-01_choice_of_study_area/</link>
-      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pubs/2013-01-01_choice_of_study_area/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Continental-scale conservation prioritization of African dragonflies</title>
-      <link>/publication/pubs/2013-01-01_continental-scale_conservation/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pubs/2013-01-01_continental-scale_conservation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modelling distribution in European stream macroinvertebrates under future climates</title>
-      <link>/publication/pubs/2013-01-01_modelling_distribution_gcb/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pubs/2013-01-01_modelling_distribution_gcb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modelling of riverine ecosystems by integrating models: conceptual approach, a case study and research agenda</title>
-      <link>/publication/pubs/2012-01-01_modelling_of_riverine/</link>
-      <pubDate>Tue, 20 Nov 2012 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pubs/2012-01-01_modelling_of_riverine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Integrierte Modellierung von aquatischen Ökosystemen in China: Arealbestimmung von Makrozoobenthos auf Einzugsgebietsebene - Integrated modelling of aquatic ecosystems in China: Distribution of benthic macroinvertebrates at catchment scale</title>
-      <link>/publication/pubs/2012-01-01_integrierte_modellierung/</link>
-      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pubs/2012-01-01_integrierte_modellierung/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Range shifts of a relict Himalayan dragonfly in the Hindu Kush Himalayan region under climate change scenarios</title>
-      <link>/publication/pubs/2012-01-01_range_shifts_of_a_relict/</link>
-      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pubs/2012-01-01_range_shifts_of_a_relict/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cryptic biodiversity loss linked to global climate change</title>
-      <link>/publication/pubs/2011-01-01_cryptic_biodiversity/</link>
-      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pubs/2011-01-01_cryptic_biodiversity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Low mountain ranges: summit traps for montane freshwater species under climate change</title>
-      <link>/publication/pubs/2011-01-01_low_mountain_ranges/</link>
-      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pubs/2011-01-01_low_mountain_ranges/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Climate-change winners and losers: stream macroinvertebrates of a submontane region in Central Europe</title>
-      <link>/publication/pubs/2011-01-01_climate-change_winne/</link>
-      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pubs/2011-01-01_climate-change_winne/</guid>
-      <description></description>
+      <guid>/publication/</guid>
+      <description>&lt;p&gt;Most publications are available as a pdf. If you do not have access to a specific publication please &lt;a href=&#34;mailto:domisch@igb-berlin.de?subject=Paper request&#34; target=&#34;_blank&#34;&gt;email us&lt;/a&gt; with the reference and we will send you a copy.
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
