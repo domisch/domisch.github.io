@@ -74,9 +74,17 @@ unzip  -o $INDIR/alt_16_tif.zip  -d  $INDIR/dem
 gdalinfo $INDIR/dem/alt_16.tif        # check data
 &lt;/code&gt;&lt;/pre&gt;
 
+&lt;p&gt;If needed, first install the latest GRASS GIS version:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;sudo add-apt-repository ppa:ubuntugis/ubuntugis-unstable
+sudo add-apt-repository ppa:grass/grass-devel
+sudo apt-get update
+sudo apt-get install  grass  grass-gui gdal-bin libgdal-grass grass-dev subversion
+&lt;/code&gt;&lt;/pre&gt;
+
 &lt;p&gt;Create the GRASS GIS data base and enter GRASS:&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;grass74  -text -c $INDIR/dem/alt_16.tif  $INDIR/grass_location
+&lt;pre&gt;&lt;code&gt;grass78  -text -c $INDIR/dem/alt_16.tif  $INDIR/grass_location
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;Read data into GRASS:&lt;/p&gt;
@@ -93,7 +101,7 @@ r.info elevation # check data
 &lt;p&gt;Run hydrological conditioning:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;g.extension  extension=r.hydrodem # download extension
-# if you get an error run: sudo apt install grass-dev
+# if you get an error run: sudo apt install grass-dev subversion
 r.hydrodem  input=elevation  output=elevation_cond
 &lt;/code&gt;&lt;/pre&gt;
 
@@ -130,13 +138,13 @@ r.out.gdal  input=stream_sub     output=$INDIR/stream_sub.tif    type=Int32  nod
 
 &lt;p&gt;Download and install the GRASS add-ons:&lt;/p&gt;
 
-&lt;p&gt;Work-around (November 2018) for grass74:&lt;/p&gt;
+&lt;p&gt;Work-around (December 2019) for grass78:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;mkdir $HOME/.grass7/addons/scripts
-wget -O $HOME/.grass7/addons/scripts/r.stream.watersheds &amp;quot;http://www.spatial-ecology.net/ost4sem/exercise/basic_adv_grass/r.stream.watersheds&amp;quot;
+wget -O $HOME/.grass7/addons/scripts/r.stream.watersheds &amp;quot;https://raw.githubusercontent.com/domisch/grass-addons/master/r.stream.watersheds&amp;quot;
 chmod 777  $HOME/.grass7/addons/scripts/r.stream.watersheds
 
-wget -O $HOME/.grass7/addons/scripts/r.stream.variables &amp;quot;http://www.spatial-ecology.net/ost4sem/exercise/basic_adv_grass/r.stream.variables&amp;quot;
+wget -O $HOME/.grass7/addons/scripts/r.stream.variables &amp;quot;https://raw.githubusercontent.com/domisch/grass-addons/master/r.stream.variables&amp;quot;
 chmod 777  $HOME/.grass7/addons/scripts/r.stream.variables
 &lt;/code&gt;&lt;/pre&gt;
 

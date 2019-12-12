@@ -492,9 +492,17 @@ unzip  -o $INDIR/alt_16_tif.zip  -d  $INDIR/dem
 gdalinfo $INDIR/dem/alt_16.tif        # check data
 </code></pre>
 
+<p>If needed, first install the latest GRASS GIS version:</p>
+
+<pre><code>sudo add-apt-repository ppa:ubuntugis/ubuntugis-unstable
+sudo add-apt-repository ppa:grass/grass-devel
+sudo apt-get update
+sudo apt-get install  grass  grass-gui gdal-bin libgdal-grass grass-dev subversion
+</code></pre>
+
 <p>Create the GRASS GIS data base and enter GRASS:</p>
 
-<pre><code>grass74  -text -c $INDIR/dem/alt_16.tif  $INDIR/grass_location
+<pre><code>grass78  -text -c $INDIR/dem/alt_16.tif  $INDIR/grass_location
 </code></pre>
 
 <p>Read data into GRASS:</p>
@@ -511,7 +519,7 @@ r.info elevation # check data
 <p>Run hydrological conditioning:</p>
 
 <pre><code>g.extension  extension=r.hydrodem # download extension
-# if you get an error run: sudo apt install grass-dev
+# if you get an error run: sudo apt install grass-dev subversion
 r.hydrodem  input=elevation  output=elevation_cond
 </code></pre>
 
@@ -548,13 +556,13 @@ r.out.gdal  input=stream_sub     output=$INDIR/stream_sub.tif    type=Int32  nod
 
 <p>Download and install the GRASS add-ons:</p>
 
-<p>Work-around (November 2018) for grass74:</p>
+<p>Work-around (December 2019) for grass78:</p>
 
 <pre><code>mkdir $HOME/.grass7/addons/scripts
-wget -O $HOME/.grass7/addons/scripts/r.stream.watersheds &quot;http://www.spatial-ecology.net/ost4sem/exercise/basic_adv_grass/r.stream.watersheds&quot;
+wget -O $HOME/.grass7/addons/scripts/r.stream.watersheds &quot;https://raw.githubusercontent.com/domisch/grass-addons/master/r.stream.watersheds&quot;
 chmod 777  $HOME/.grass7/addons/scripts/r.stream.watersheds
 
-wget -O $HOME/.grass7/addons/scripts/r.stream.variables &quot;http://www.spatial-ecology.net/ost4sem/exercise/basic_adv_grass/r.stream.variables&quot;
+wget -O $HOME/.grass7/addons/scripts/r.stream.variables &quot;https://raw.githubusercontent.com/domisch/grass-addons/master/r.stream.variables&quot;
 chmod 777  $HOME/.grass7/addons/scripts/r.stream.variables
 </code></pre>
 
