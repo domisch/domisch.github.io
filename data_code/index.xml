@@ -79,7 +79,7 @@ gdalinfo $INDIR/dem/alt_16.tif        # check data
 &lt;pre&gt;&lt;code&gt;sudo add-apt-repository ppa:ubuntugis/ubuntugis-unstable
 sudo add-apt-repository ppa:grass/grass-devel
 sudo apt-get update
-sudo apt-get install  grass  grass-gui gdal-bin libgdal-grass grass-dev subversion
+sudo apt-get install grass grass-gui grass-dev subversion gdal-bin libgdal-grass libalgorithms1 libbase1 libgdal-dev
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;Create the GRASS GIS data base and enter GRASS:&lt;/p&gt;
