@@ -18,16 +18,6 @@
   </url>
   
   <url>
-    <loc>/publication_types/3/</loc>
-    <lastmod>2020-01-13T11:13:24+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/pubs/2019-05-01_from_topography_to_hydrology/</loc>
-    <lastmod>2020-01-13T11:13:24+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/</loc>
     <lastmod>2020-01-13T13:40:45+01:00</lastmod>
   </url>
@@ -43,8 +33,33 @@
   </url>
   
   <url>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2020-01-13T11:13:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/pubs/2019-05-01_climate-model-variability/</loc>
+    <lastmod>2019-10-25T15:23:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/pubs/2019-05-01_from_topography_to_hydrology/</loc>
+    <lastmod>2020-01-13T11:13:24+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/pubs/2019-05-01_improving_edna_reliability/</loc>
     <lastmod>2019-11-08T23:06:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/pubs/2019-08-01_integrative-species-delimitation/</loc>
+    <lastmod>2019-08-30T19:14:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/pubs/2019-07-01_the_water-biodiversity_nexus/</loc>
+    <lastmod>2019-08-30T19:14:22+02:00</lastmod>
   </url>
   
   <url>
@@ -55,11 +70,6 @@
   <url>
     <loc>/data_code/</loc>
     <lastmod>2019-09-02T13:11:31+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/pubs/2019-08-01_integrative-species-delimitation/</loc>
-    <lastmod>2019-08-30T19:14:22+02:00</lastmod>
   </url>
   
   <url>
@@ -158,11 +168,6 @@
   </url>
   
   <url>
-    <loc>/publication/pubs/2019-05-01_climate-model-variability/</loc>
-    <lastmod>2019-10-25T15:23:52+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/pubs/2019-05-01_elevation-aspect/</loc>
     <lastmod>2019-09-17T10:49:25+02:00</lastmod>
   </url>
@@ -170,11 +175,6 @@
   <url>
     <loc>/publication/pubs/2019-05-01_useful_model/</loc>
     <lastmod>2020-01-13T13:40:45+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/pubs/2019-07-01_the_water-biodiversity_nexus/</loc>
-    <lastmod>2019-08-30T19:14:22+02:00</lastmod>
   </url>
   
   <url>
