@@ -4,7 +4,7 @@
   
   <url>
     <loc>/authors/people/</loc>
-    <lastmod>2020-01-09T10:18:08+01:00</lastmod>
+    <lastmod>2020-01-10T09:38:14+01:00</lastmod>
   </url>
   
   <url>
@@ -18,8 +18,18 @@
   </url>
   
   <url>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2019-11-08T23:06:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/pubs/2019-05-01_from_topography_to_hydrology/</loc>
+    <lastmod>2019-10-25T15:23:52+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2020-01-09T10:18:08+01:00</lastmod>
+    <lastmod>2020-01-10T09:38:14+01:00</lastmod>
   </url>
   
   <url>
@@ -33,18 +43,13 @@
   </url>
   
   <url>
-    <loc>/publication_types/3/</loc>
-    <lastmod>2019-11-08T23:06:26+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/pubs/2019-05-01_improving_edna_reliability/</loc>
     <lastmod>2019-11-08T23:06:26+01:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-01-09T10:18:08+01:00</lastmod>
+    <lastmod>2020-01-10T09:38:14+01:00</lastmod>
   </url>
   
   <url>
@@ -154,11 +159,6 @@
   
   <url>
     <loc>/publication/pubs/2019-05-01_climate-model-variability/</loc>
-    <lastmod>2019-10-25T15:23:52+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/pubs/2019-05-01_from_topography_to_hydrology/</loc>
     <lastmod>2019-10-25T15:23:52+02:00</lastmod>
   </url>
   
@@ -334,7 +334,7 @@
   
   <url>
     <loc>/authors/annika-brunner/</loc>
-    <lastmod>2020-01-09T10:18:08+01:00</lastmod>
+    <lastmod>2020-01-10T09:38:14+01:00</lastmod>
   </url>
   
   <url>
@@ -344,6 +344,7 @@
   
   <url>
     <loc>/authors/thomas-tomiczek/</loc>
+    <lastmod>2020-01-10T09:38:14+01:00</lastmod>
   </url>
   
   <url>
