@@ -136,9 +136,7 @@ r.out.gdal  input=stream_sub     output=$INDIR/stream_sub.tif    type=Int32  nod
 
 &lt;p&gt;&lt;strong&gt;Create stream-specific variables, and limit the calculation only to a single basin.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Download and install the GRASS add-ons:&lt;/p&gt;
-
-&lt;p&gt;Work-around (December 2019) for grass78:&lt;/p&gt;
+&lt;p&gt;Download and install the GRASS add-ons. Work-around (December 2019) for grass78:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;mkdir $HOME/.grass7/addons/scripts
 wget -O $HOME/.grass7/addons/scripts/r.stream.watersheds &amp;quot;https://raw.githubusercontent.com/domisch/grass-addons/master/r.stream.watersheds&amp;quot;
@@ -225,7 +223,7 @@ more $INDIR/str_stats_c.txt
 &lt;p&gt;&lt;br/&gt;
 &lt;em&gt;See also these useful GRASS-GIS commands for hydrological applications:&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://grass.osgeo.org/grass74/manuals/topic_hydrology.html&#34; target=&#34;_blank&#34;&gt;https://grass.osgeo.org/grass74/manuals/topic_hydrology.html&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;https://grass.osgeo.org/grass78/manuals/topic_hydrology.html&#34; target=&#34;_blank&#34;&gt;https://grass.osgeo.org/grass78/manuals/topic_hydrology.html&lt;/a&gt;
 &lt;a href=&#34;https://grasswiki.osgeo.org/wiki/R.stream.*_modules&#34; target=&#34;_blank&#34;&gt;https://grasswiki.osgeo.org/wiki/R.stream.*_modules&lt;/a&gt; &lt;br/&gt;
 &lt;a href=&#34;https://grasswiki.osgeo.org/wiki/Hydrological_Sciences&#34; target=&#34;_blank&#34;&gt;https://grasswiki.osgeo.org/wiki/Hydrological_Sciences&lt;/a&gt;&lt;/p&gt;
 </description>
