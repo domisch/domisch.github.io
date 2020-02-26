@@ -81,7 +81,7 @@ This example contains the following steps:
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.3a811a68f6aea8ec84e367064d123f04.css">
+  <link rel="stylesheet" href="/css/academic.min.357a6efae30b512d927708f185eb47d1.css">
 
   
     
@@ -446,12 +446,9 @@ This example contains the following steps:
           <h1 itemprop="name">Freshwater-specific environmental variables</h1>
 
           <div class="article-style" itemprop="articleBody">
-            <p>This tutorial shows you how to calculate stream-specific freshwater variables by relating the upstream e.g. land cover to any given downstream location using the GRASS GIS add-ons <em>r.stream.watersheds</em> &amp; <em>r.stream.variables</em>. The original 1km data and publication are available <a href="http://www.earthenv.org/streams" target="_blank">here</a> - see also the original code from <a href="http://spatial-ecology.net/dokuwiki/doku.php?id=wiki:grassrivarvariable" target="_blank">spatial-ecology.net</a>.</p>
-
-<p><a href="http://www.earthenv.org/streams" target="_blank"><img align="center" src="/img/Add-ons_for_GRASS_GIS.gif" width="700" alt="Add-on animation"></a></p>
-
+            <p>This tutorial shows you how to calculate stream-specific freshwater variables by relating the upstream e.g. land cover to any given downstream location using the GRASS GIS add-ons <em>r.stream.watersheds</em> &amp; <em>r.stream.variables</em>. The original 1km data and publication are available <a href="http://www.earthenv.org/streams">here</a> - see also the original code from <a href="http://spatial-ecology.net/dokuwiki/doku.php?id=wiki:grassrivarvariable">spatial-ecology.net</a>.</p>
+<p><a href="http://www.earthenv.org/streams"><!-- raw HTML omitted --></a></p>
 <p><strong>This example contains the following steps:</strong></p>
-
 <ul>
 <li>Download an exemplary digital elevation model (DEM)</li>
 <li>Extract the stream network from the DEM</li>
@@ -460,190 +457,102 @@ This example contains the following steps:
 <li>Calculate the sub-watersheds for each stream grid cell (<em>r.stream.watersheds</em>)</li>
 <li>Calculate contiguous stream-specific variables (<em>r.stream.variables</em>)</li>
 </ul>
-
-<div class="alert alert-note">
-  <div>
-    The add-ons have been tested in the Linux environment. Microsoft Windows users: consider installing the OSGEO-Live Virtual machine that has GRASS GIS 7 already installed and is ready to use. Alternatively you can run the add-ons via QGIS.
-  </div>
-</div>
-
-<p><br/></p>
-
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
 <p>Create and enter the folder where the data will be stored:</p>
-
 <pre><code>export INDIR=$HOME/grass_hydro
 mkdir $INDIR 
 cd $INDIR
-</code></pre>
-
-<p>Download the script</p>
-
+</code></pre><p>Download the script</p>
 <pre><code>cd ~
 wget &quot;http://www.spatial-ecology.net/ost4sem/exercise/basic_adv_grass/stream_variables.sh&quot;
 rstudio stream_variables.sh &amp;
-</code></pre>
-
-<p><br/></p>
-
-<p>Download and unzip a DEM from <a href="http://www.worldclim.org/tiles.php" target="_blank">WorldClim</a>:</p>
-
+</code></pre><!-- raw HTML omitted -->
+<p>Download and unzip a DEM from <a href="http://www.worldclim.org/tiles.php">WorldClim</a>:</p>
 <pre><code>wget -O  $INDIR/alt_16_tif.zip  &quot;http://biogeo.ucdavis.edu/data/climate/worldclim/1_4/tiles/cur/alt_16_tif.zip&quot;
 unzip  -o $INDIR/alt_16_tif.zip  -d  $INDIR/dem
 gdalinfo $INDIR/dem/alt_16.tif        # check data
-</code></pre>
-
-<p>If needed, first install the latest GRASS GIS version:</p>
-
+</code></pre><p>If needed, first install the latest GRASS GIS version:</p>
 <pre><code>sudo add-apt-repository ppa:ubuntugis/ubuntugis-unstable
 sudo add-apt-repository ppa:grass/grass-devel
 sudo apt-get update
 sudo apt-get install grass grass-gui grass-dev subversion gdal-bin libgdal-grass libalgorithms1 libbase1 libgdal-dev
-</code></pre>
-
-<p>Create the GRASS GIS data base and enter GRASS:</p>
-
+</code></pre><p>Create the GRASS GIS data base and enter GRASS:</p>
 <pre><code>grass78  -text -c $INDIR/dem/alt_16.tif  $INDIR/grass_location
-</code></pre>
-
-<p>Read data into GRASS:</p>
-
+</code></pre><p>Read data into GRASS:</p>
 <pre><code>r.in.gdal input=$INDIR/dem/alt_16.tif    output=elevation
 r.info elevation # check data
-</code></pre>
-
-<p>Open GUI and visualize the layers:</p>
-
+</code></pre><p>Open GUI and visualize the layers:</p>
 <pre><code>g.gui wxpython
-</code></pre>
-
-<p>Run hydrological conditioning:</p>
-
+</code></pre><p>Run hydrological conditioning:</p>
 <pre><code>g.extension  extension=r.hydrodem # download extension
 # if you get an error run: sudo apt install grass-dev subversion
 r.hydrodem  input=elevation  output=elevation_cond
-</code></pre>
-
-<p>Extract drainage direction and stream network</p>
-
+</code></pre><p>Extract drainage direction and stream network</p>
 <pre><code>r.watershed  --h  # see help regarding the options and flags
 r.watershed  elevation=elevation_cond  drainage=drainage   stream=stream  accumulation=accumulation  threshold=100  --o
-</code></pre>
-
-<p>Get drainage basins (last downstream segment: -l flag)</p>
-
+</code></pre><p>Get drainage basins (last downstream segment: -l flag)</p>
 <pre><code>g.extension  extension=r.stream.basins
 r.stream.basins  direction=drainage  stream_rast=stream  basins=basins_last  -l  --o
-</code></pre>
-
-<p>Categorize the single basins:</p>
-
+</code></pre><p>Categorize the single basins:</p>
 <pre><code>r.clump -d input=basins_last  output=basins_cat  --o
-</code></pre>
-
-<p>Extract the data for one basin:</p>
-
+</code></pre><p>Extract the data for one basin:</p>
 <pre><code>r.mapcalc &quot;drainage_sub = if (basins_cat==798, drainage, null() ) &quot;  --o
 r.mapcalc &quot;stream_sub = if (basins_cat==798, stream, null() ) &quot;  --o
-</code></pre>
-
-<p>Write files to disk:</p>
-
+</code></pre><p>Write files to disk:</p>
 <pre><code>r.out.gdal  input=drainage_sub   output=$INDIR/drainage_sub.tif  type=Int32  nodata=-9999  --o  -c    createopt=&quot;COMPRESS=LZW,ZLEVEL=9&quot;
 r.out.gdal  input=stream_sub     output=$INDIR/stream_sub.tif    type=Int32  nodata=-9999  --o  -c    createopt=&quot;COMPRESS=LZW,ZLEVEL=9&quot;
-</code></pre>
-
-<p><strong>Create stream-specific variables, and limit the calculation only to a single basin.</strong></p>
-
+</code></pre><p><strong>Create stream-specific variables, and limit the calculation only to a single basin.</strong></p>
 <p>Download and install the GRASS add-ons. Work-around (December 2019) for grass78:</p>
-
 <pre><code>mkdir $HOME/.grass7/addons/scripts
 wget -O $HOME/.grass7/addons/scripts/r.stream.watersheds &quot;https://raw.githubusercontent.com/domisch/grass-addons/master/r.stream.watersheds&quot;
 chmod 777  $HOME/.grass7/addons/scripts/r.stream.watersheds
 
 wget -O $HOME/.grass7/addons/scripts/r.stream.variables &quot;https://raw.githubusercontent.com/domisch/grass-addons/master/r.stream.variables&quot;
 chmod 777  $HOME/.grass7/addons/scripts/r.stream.variables
-</code></pre>
-
-<p>Add-on 1: Calculate the sub-watershed and sub-stream sections for each stream grid cell using 2 processors:</p>
-
+</code></pre><p>Add-on 1: Calculate the sub-watershed and sub-stream sections for each stream grid cell using 2 processors:</p>
 <pre><code>r.stream.watersheds stream=stream_sub  drainage=drainage_sub  cpu=2
-</code></pre>
-
-<p>Add-on 2: Create stream-specific variables based on elevation</p>
-
+</code></pre><p>Add-on 2: Create stream-specific variables based on elevation</p>
 <pre><code>r.stream.variables  variable=elevation  output=cells,min,max,range,mean,stddev,coeff_var,sum  area=watershed  scale=1  cpu=2
-</code></pre>
-
-<p>Rename the “elevation_cells” to “flow_accumulation” and check variables:</p>
-
+</code></pre><p>Rename the “elevation_cells” to “flow_accumulation” and check variables:</p>
 <pre><code>r.mapcalc &quot;flow_accummulation = elevation_cells&quot;  --o
 r.info  flow_accummulation
 r.info  elevation_range
-</code></pre>
-
-<p>Get stream length (similar procedure as above):</p>
-
+</code></pre><p>Get stream length (similar procedure as above):</p>
 <pre><code>r.stream.variables  variable=elevation  output=cells  area=stream  scale=1  cpu=2
 r.mapcalc &quot;stream_length = elevation_cells&quot;  --o
 r.info  stream_length 
-</code></pre>
-
-<p>Calculate the amount of rainfall within the basin:</p>
-
+</code></pre><p>Calculate the amount of rainfall within the basin:</p>
 <pre><code>wget -O  $INDIR/prec_16_tif.zip  &quot;http://biogeo.ucdavis.edu/data/climate/worldclim/1_4/tiles/cur/prec_16_tif.zip&quot;
 unzip -q  -o $INDIR/prec_16_tif.zip  -d  $INDIR/prec
 r.in.gdal input=$INDIR/prec/prec6_16.tif   output=prec6   # rainfall in June
 r.stream.variables  variable=prec6  output=sum  area=watershed  scale=1  cpu=2
-</code></pre>
-
-<p>Run all 12 months in a loop:</p>
-
+</code></pre><p>Run all 12 months in a loop:</p>
 <pre><code>for var in $(seq 1 12); do
 r.in.gdal input=$INDIR/prec/prec${var}_16.tif   output=prec$var
 r.stream.variables  variable=prec$var  output=sum  area=watershed  scale=1  cpu=2
 done
-</code></pre>
-
-<p>Other useful add-ons for hydrological applications: <a href="http://grasswiki.osgeo.org/wiki/Hydrological_Sciences" target="_blank">http://grasswiki.osgeo.org/wiki/Hydrological_Sciences</a></p>
-
+</code></pre><p>Other useful add-ons for hydrological applications: <a href="http://grasswiki.osgeo.org/wiki/Hydrological_Sciences">http://grasswiki.osgeo.org/wiki/Hydrological_Sciences</a></p>
 <p><strong>Other examples</strong></p>
-
 <p>Get the stream order:</p>
-
 <pre><code>r.stream.order  stream_rast=stream   direction=drainage   strahler=str_order  --o
-</code></pre>
-
-<p>Get only streams and basins &gt;=3rd order</p>
-
+</code></pre><p>Get only streams and basins &gt;=3rd order</p>
 <pre><code>r.mapcalc &quot;str_order_3rd = if(str_order &gt;=3, str_order, null() ) &quot;  --o
 r.stream.basins  direction=drainage  stream_rast=str_order_3rd  basins=basins_3rd_last   -l  --o
-</code></pre>
-
-<p>Stream distance - Calculates distance to and elevation above streams and outlet</p>
-
+</code></pre><p>Stream distance - Calculates distance to and elevation above streams and outlet</p>
 <pre><code>g.extension extension=r.stream.distance
 r.stream.distance   stream_rast=stream   direction=drainage   elevation=elevation_cond  method=downstream   distance=str_distance    difference=str_elevation_diff  --o
-</code></pre>
-
-<p>Stream order statistics - Calculates Horton&rsquo;s statistics for Strahler and Horton ordered networks created with r.stream.order Print only order statistics:</p>
-
+</code></pre><p>Stream order statistics - Calculates Horton&rsquo;s statistics for Strahler and Horton ordered networks created with r.stream.order Print only order statistics:</p>
 <pre><code>g.extension extension=r.stream.stats
 r.stream.stats  stream_rast=stream   direction=drainage   elevation=elevation_cond  output=str_stats_o.txt    --o   
 more $INDIR/str_stats_o.txt
-</code></pre>
-
-<p>Print only catchment statistics:</p>
-
+</code></pre><p>Print only catchment statistics:</p>
 <pre><code>r.stream.stats  stream_rast=stream   direction=drainage   elevation=elevation_cond  output=str_stats_c.txt    -c 
 more $INDIR/str_stats_c.txt
-</code></pre>
-
-<p><br/>
-<em>See also these useful GRASS-GIS commands for hydrological applications:</em></p>
-
-<p><a href="https://grass.osgeo.org/grass78/manuals/topic_hydrology.html" target="_blank">https://grass.osgeo.org/grass78/manuals/topic_hydrology.html</a>
-<a href="https://grasswiki.osgeo.org/wiki/R.stream.*_modules" target="_blank">https://grasswiki.osgeo.org/wiki/R.stream.*_modules</a> <br/>
-<a href="https://grasswiki.osgeo.org/wiki/Hydrological_Sciences" target="_blank">https://grasswiki.osgeo.org/wiki/Hydrological_Sciences</a></p>
+</code></pre><!-- raw HTML omitted -->
+<p><a href="https://grass.osgeo.org/grass78/manuals/topic_hydrology.html">https://grass.osgeo.org/grass78/manuals/topic_hydrology.html</a>
+<a href="https://grasswiki.osgeo.org/wiki/R.stream">https://grasswiki.osgeo.org/wiki/R.stream</a>.*_modules <!-- raw HTML omitted -->
+<a href="https://grasswiki.osgeo.org/wiki/Hydrological_Sciences">https://grasswiki.osgeo.org/wiki/Hydrological_Sciences</a></p>
 
           </div>
 
@@ -670,7 +579,7 @@ more $INDIR/str_stats_c.txt
   
 
   <p class="powered-by">
-    &copy; Sami Domisch 2020 &middot; 
+    © Sami Domisch 2020 &middot; 
 
   
   Design: 

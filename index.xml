@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Sami Domisch {year}</copyright>
-    <lastBuildDate>Sun, 02 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0200</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,31 +18,22 @@
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
       
       <guid>/contact/</guid>
-      <description>&lt;p&gt;We constantly seek possible collaborations regarding interesting projects, novel methods, data, and publications in spatial freshwater biodiversity science and beyond. Please do not hesitate to &lt;a href=&#34;mailto:domisch@igb-berlin.de&#34; target=&#34;_blank&#34;&gt;contact us&lt;/a&gt; to discuss further details.
-&lt;br/&gt;&lt;/p&gt;
-
+      <description>&lt;p&gt;We constantly seek possible collaborations regarding interesting projects, novel methods, data, and publications in spatial freshwater biodiversity science and beyond. Please do not hesitate to &lt;a href=&#34;mailto:domisch@igb-berlin.de&#34;&gt;contact us&lt;/a&gt; to discuss further details.
+&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Join the group?&lt;/strong&gt;&lt;/p&gt;
-
 &lt;p&gt;Are you interested in joining the group? We are looking for motivated candidates across the Master, PhD and Postdoc levels.
-If you are interested please &lt;a href=&#34;mailto:domisch@igb-berlin.de&#34; target=&#34;_blank&#34;&gt;drop us a line&lt;/a&gt; indicating your research interests &amp;amp; plans and we can discuss how to move things further and seek for possible funding opportunities.&lt;/p&gt;
-
-&lt;p&gt;&lt;br/&gt;
-We use, beside R, largely open-source (command-line) GIS tools within the Linux environment that facilitate handling and analyzing large datasets (see also some of the tools &lt;a href=&#34;/data_code/open-source-gis&#34;&gt;here&lt;/a&gt;). We consider a good understanding, or alternatively, a great motivation to learn such tools &amp;amp; techniques as a prerequisite to join the group.&lt;/p&gt;
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
+If you are interested please &lt;a href=&#34;mailto:domisch@igb-berlin.de&#34;&gt;drop us a line&lt;/a&gt; indicating your research interests &amp;amp; plans and we can discuss how to move things further and seek for possible funding opportunities.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;hr&gt;
 &lt;p&gt;&lt;em&gt;Contact information:&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Dr. Sami Domisch &lt;br/&gt;
-Leibniz-Institute of Freshwater Ecology and Inland Fisheries &lt;br/&gt;
-Department of Ecosystem Research &lt;br/&gt;
-Justus-von-Liebig-Str. 7 &lt;br/&gt;
-D-12489 Berlin &lt;br/&gt;
-Germany &lt;br/&gt;&lt;/p&gt;
-
-&lt;p&gt;E-mail: domisch@igb-berlin.de &lt;br/&gt;
+&lt;p&gt;Dr. Sami Domisch &lt;!-- raw HTML omitted --&gt;
+Leibniz-Institute of Freshwater Ecology and Inland Fisheries &lt;!-- raw HTML omitted --&gt;
+Department of Ecosystem Research &lt;!-- raw HTML omitted --&gt;
+Justus-von-Liebig-Str. 7 &lt;!-- raw HTML omitted --&gt;
+D-12489 Berlin &lt;!-- raw HTML omitted --&gt;
+Germany &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;E-mail: &lt;a href=&#34;mailto:domisch@igb-berlin.de&#34;&gt;domisch@igb-berlin.de&lt;/a&gt; &lt;!-- raw HTML omitted --&gt;
 Phone: +49 (0) 30 6392 4079&lt;/p&gt;
 </description>
     </item>
@@ -62,31 +53,25 @@ Phone: +49 (0) 30 6392 4079&lt;/p&gt;
       <pubDate>Fri, 02 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>/data_code/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/img/code.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
+      <description>&lt;p&gt;&lt;img src=&#34;/img/code.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Here is a collection of code and tutorials for spatial analyses in freshwater ecosystems, and we will be gradually adding more:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;/data_code/freshwater-variables&#34;&gt;Create freshwater-specific environmental variables&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/data_code/extract-variables&#34;&gt;How to move point records to a stream network and extract the values&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/data_code/open-source-gis&#34;&gt;A quick guide of using open-source GIS tools using the Linux command-line&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/data_code/bayesian-species-distribution-models&#34;&gt;Bayesian hierarchical species distribution models&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;If you have any questions or noticed any bugs in the code please &lt;a href=&#34;mailto:domisch@igb-berlin.de&#34; target=&#34;_blank&#34;&gt;drop us a line&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
+&lt;p&gt;If you have any questions or noticed any bugs in the code please &lt;a href=&#34;mailto:domisch@igb-berlin.de&#34;&gt;drop us a line&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
 &lt;p&gt;Some more useful tools and websites:&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://geocompr.robinlovelace.net/&#34; target=&#34;_blank&#34;&gt;Geocomputation with R&lt;/a&gt; by Robin Lovelace, Jakub Nowosad, Jannes Muenchow&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rspatial.org/&#34; target=&#34;_blank&#34;&gt;Spatial Data Science with R&lt;/a&gt; by Robert J. Hijmans&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cran.r-project.org/web/packages/dismo/vignettes/sdm.pdf&#34; target=&#34;_blank&#34;&gt;Species distribution modeling in R&lt;/a&gt; using the &lt;a href=&#34;https://cran.r-project.org/web/packages/dismo/&#34; target=&#34;_blank&#34;&gt;dismo&lt;/a&gt; R-package (maintained by Robert J. Hijmans, Steven Phillips, John Leathwick and Jane Elith)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.amnh.org/content/download/141368/2285424/file/LinC3_SpeciesDistModeling.pdf&#34; target=&#34;_blank&#34;&gt;Species’ Distribution Modeling for Conservation Educators and Practitioners&lt;/a&gt; by Richard G. Pearson&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://spatial-ecology.net/&#34; target=&#34;_blank&#34;&gt;Spatial-Ecology&lt;/a&gt; providing training in open-source software for geospatial data processing&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cran.r-project.org/web/packages/SSN/index.html&#34; target=&#34;_blank&#34;&gt;Spatial Modeling on Stream Networks (SSN)&lt;/a&gt; by Jay Ver Hoef and Erin Peterson&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cran.r-project.org/web/packages/openSTARS/index.html&#34; target=&#34;_blank&#34;&gt;openSTARS&lt;/a&gt;: the open-source version for preparing the data for the SSN-package by Mira Kattwinkel&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://geocompr.robinlovelace.net/&#34;&gt;Geocomputation with R&lt;/a&gt; by Robin Lovelace, Jakub Nowosad, Jannes Muenchow&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rspatial.org/&#34;&gt;Spatial Data Science with R&lt;/a&gt; by Robert J. Hijmans&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cran.r-project.org/web/packages/dismo/vignettes/sdm.pdf&#34;&gt;Species distribution modeling in R&lt;/a&gt; using the &lt;a href=&#34;https://cran.r-project.org/web/packages/dismo/&#34;&gt;dismo&lt;/a&gt; R-package (maintained by Robert J. Hijmans, Steven Phillips, John Leathwick and Jane Elith)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amnh.org/content/download/141368/2285424/file/LinC3_SpeciesDistModeling.pdf&#34;&gt;Species’ Distribution Modeling for Conservation Educators and Practitioners&lt;/a&gt; by Richard G. Pearson&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://spatial-ecology.net/&#34;&gt;Spatial-Ecology&lt;/a&gt; providing training in open-source software for geospatial data processing&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cran.r-project.org/web/packages/SSN/index.html&#34;&gt;Spatial Modeling on Stream Networks (SSN)&lt;/a&gt; by Jay Ver Hoef and Erin Peterson&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cran.r-project.org/web/packages/openSTARS/index.html&#34;&gt;openSTARS&lt;/a&gt;: the open-source version for preparing the data for the SSN-package by Mira Kattwinkel&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -98,15 +83,10 @@ Phone: +49 (0) 30 6392 4079&lt;/p&gt;
       
       <guid>/post/</guid>
       <description>&lt;p&gt;Global biodiversity is declining across ecosystems, and freshwater organisms and habitats are among the most threatened. While finding appropriate countermeasures, a key challenge is first to gain a comprehensive picture of the current status of freshwater biodiversity. Compared to the terrestrial and marine realms, freshwater biodiversity remains understudied in terms of its ecological significance and distinctiveness, resulting in a lack of effective conservation at regional to global scales.&lt;/p&gt;
-
 &lt;p&gt;The Leibniz-Junior Research Group aims to fill this gap by applying cutting-edge global geospatial analyses focusing on: (i) a new habitat type delineation using a newly developed, global hydrography at very high spatial resolution (90m); (ii) state-of-the-art Bayesian models to map freshwater biodiversity based on an extensive global dataset compiled over the past years on the occurrence of aquatic insects, the most diverse freshwater animal group; and (iii) applying novel systematic conservation network analyses to highlight potential gaps in the protection of underrepresented habitat types and taxa across national boundaries. The combined application of these core elements at the global scale, yet at high spatial resolution, will allow ground-breaking, standardised and comparative analyses in spatial freshwater biodiversity science. Importantly, uncertainties inherent in the data and analyses will be quantified to ensure transparency and robustness of the results.&lt;/p&gt;
-
 &lt;p&gt;Key aspects in terms of feasibility and an open science strategy are: (i) all required data are already available, (ii) all analyses will be performed by using open-source geospatial tools, and (iii) all data layers and codes will be stored in public repositories to enable follow-up analyses by others. The project will promote national and international synergies, and inform global initiatives such as IPBES, Future Earth, and Freshwater-BON, to improve our understanding of the current status of freshwater biodiversity.&lt;/p&gt;
-
-&lt;p&gt;&lt;br/&gt;
-The Leibniz-Junior Research Group is co-funded by the Leibniz-Institute of Freshwater Ecology and Inland Fisheries in Berlin, Germany.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/about_logos.png&#34; width=&#34;80%&#34; alt=&#34;GLOWABIO logos&#34;&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
@@ -116,17 +96,15 @@ The Leibniz-Junior Research Group is co-funded by the Leibniz-Institute of Fresh
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
       
       <guid>/project/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/img/habitats.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
+      <description>&lt;p&gt;&lt;img src=&#34;/img/habitats.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;We are currently focusing on several topics:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;/project/glowabio_habitats&#34;&gt;Creating novel high-resolution freshwater ecoregions&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/project/glowabio_biodiversity&#34;&gt;Analyzing spatial patterns in global freshwater biodiversity&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/project//glowabio_conservation&#34;&gt;Spatial conservation planning given habitat and biodiversity features&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/publication/pubs/2019-05-01_from_topography_to_hydrology/&#34;&gt;Scale-dependencies in freshwater species distribution models&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://gepris.dfg.de/gepris/projekt/224580917?language=en&#34; target=&#34;_blank&#34;&gt;Niche evolution of Tibetan-Himalayan Rhyacophilidae (Trichoptera)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://allianceforfreshwaterlife.org/&#34; target=&#34;_blank&#34;&gt;Alliance for Freshwater Life&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gepris.dfg.de/gepris/projekt/224580917?language=en&#34;&gt;Niche evolution of Tibetan-Himalayan Rhyacophilidae (Trichoptera)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://allianceforfreshwaterlife.org/&#34;&gt;Alliance for Freshwater Life&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -138,66 +116,35 @@ The Leibniz-Junior Research Group is co-funded by the Leibniz-Institute of Fresh
       
       <guid>/privacy/</guid>
       <description>&lt;p&gt;Effective date: August 02, 2019&lt;/p&gt;
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
+&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;This site provides information regarding the Privacy Policy and Legal Notes in compliance with § 6 TDG (&amp;ldquo;Telemediengesetz&amp;rdquo;).&lt;/p&gt;
-
-&lt;p&gt;The Leibniz Junior Research Group (Leibniz Competition grant number J45/2018), also named &amp;ldquo;us&amp;rdquo;, &amp;ldquo;we&amp;rdquo;, or &amp;ldquo;our&amp;rdquo; in this Privacy Policy, operates the &lt;a href=&#34;https://glowabio.org&#34; target=&#34;_blank&#34;&gt;https://glowabio.org&lt;/a&gt; website.&lt;/p&gt;
-
+&lt;p&gt;The Leibniz Junior Research Group (Leibniz Competition grant number J45/2018), also named &amp;ldquo;us&amp;rdquo;, &amp;ldquo;we&amp;rdquo;, or &amp;ldquo;our&amp;rdquo; in this Privacy Policy, operates the &lt;a href=&#34;https://glowabio.org&#34;&gt;https://glowabio.org&lt;/a&gt; website.&lt;/p&gt;
 &lt;p&gt;We want to inform you of our policies regarding the use of personal data when you visit our website and the choices you have associated with that data. All data on this website are processed based on the current laws and regulations (General Data Protection Regulation; GDPR).&lt;/p&gt;
-
 &lt;p&gt;By using the website, you agree to the collection and use of information in accordance with this policy.&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;Information collection and use&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;We do not employ cookies or collect any personal information of visitors, and we do not have access to the IP addresses or other server logfiles of visitors. We note, however, that GitHub Pages, i.e. the hosting service of our site with its headquarter in San Francisco, California, USA, may collect information about visitors. This information is however not managed by us, nor can it be accessed by us. Please see the &lt;a href=&#34;https://help.github.com/en/articles/github-privacy-statement&#34; target=&#34;_blank&#34;&gt;GitHub Privacy Statement&lt;/a&gt; for more information.&lt;/p&gt;
-
+&lt;p&gt;We do not employ cookies or collect any personal information of visitors, and we do not have access to the IP addresses or other server logfiles of visitors. We note, however, that GitHub Pages, i.e. the hosting service of our site with its headquarter in San Francisco, California, USA, may collect information about visitors. This information is however not managed by us, nor can it be accessed by us. Please see the &lt;a href=&#34;https://help.github.com/en/articles/github-privacy-statement&#34;&gt;GitHub Privacy Statement&lt;/a&gt; for more information.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Links To Other Sites&lt;/em&gt;&lt;/p&gt;
-
 &lt;p&gt;Our website may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party&amp;rsquo;s site. We strongly advise you to review the Privacy Policy of every site you visit. We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;Copyright&lt;/strong&gt;&lt;/p&gt;
-
 &lt;p&gt;This website contains links to material protected by copyright, trademark, and other proprietary rights and laws. By using our website, you acknowledge that the content and information – including but not limited to – texts, sounds, photographs, videos, graphics or other material, contained in this website, may be protected by copyrights, trademarks, service marks, patents or other proprietary rights and laws. Material and/or links on this website do not constitute legal advice, political advice, and/or other advice. Permission is granted to use materials contained on this website, in part or in full, for personal and educational purposes, but not commercial purposes, provided that you keep all copyright and other proprietary notices intact and provided that full credit is given to our website and the respective copyright, trademark, or other proprietary rights holder. You may not modify, copy, reproduce, republish, upload, post, transmit, or distribute in any way content available through this website, with the exception of public documents such as treaties and conventions.&lt;/p&gt;
-
-&lt;p&gt;Website favicon by George Star, licensed by the &lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34; target=&#34;_blank&#34;&gt;Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)&lt;/a&gt;.&lt;/p&gt;
-
+&lt;p&gt;Website favicon by George Star, licensed by the &lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Possible errors&lt;/em&gt;&lt;/p&gt;
-
 &lt;p&gt;While we strive for accuracy, we make no guarantees, warranties and / or other representations about the suitability, reliability, availability, timeliness, or accuracy of this website for any purpose. The website and information contained here are provided &amp;ldquo;as is&amp;rdquo; without warranty of any kind. We do not represent or warrant that this website will be uninterrupted or error-free, that defects will be corrected, or that the webpages or the server that makes it available, are free of viruses or other harmful components. Changes and / or improvements may be made to this website at any time.&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;Changes to this Privacy Policy and the Legal Notes&lt;/strong&gt;&lt;/p&gt;
-
 &lt;p&gt;We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. We will let you know via a prominent notice on our website, prior to the change becoming effective and update the &amp;ldquo;effective date&amp;rdquo; at the top of this Privacy Policy. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;Your rights&lt;/strong&gt;&lt;/p&gt;
-
 &lt;p&gt;You have the right to get information, ask for correction or request deletion of any of your personal data which we might have stored any time. You can contact us if you have questions concerning your personal data and our data privacy policy via the person and contact details named below.&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;Contact us&lt;/strong&gt;&lt;/p&gt;
-
 &lt;p&gt;If you have any questions about this Privacy Policy and the Legal Notes, please contact us:&lt;/p&gt;
-
-&lt;p&gt;Dr. Sami Domisch &lt;br/&gt;
-Leibniz-Institute of Freshwater Ecology and Inland Fisheries &lt;br/&gt;
-Department of Ecosystem Research &lt;br/&gt;
-Justus-von-Liebig-Str. 7 &lt;br/&gt;
-D-12489 Berlin &lt;br/&gt;
-Germany &lt;br/&gt;&lt;/p&gt;
-
-&lt;p&gt;E-mail: domisch@igb-berlin.de &lt;br/&gt;
+&lt;p&gt;Dr. Sami Domisch &lt;!-- raw HTML omitted --&gt;
+Leibniz-Institute of Freshwater Ecology and Inland Fisheries &lt;!-- raw HTML omitted --&gt;
+Department of Ecosystem Research &lt;!-- raw HTML omitted --&gt;
+Justus-von-Liebig-Str. 7 &lt;!-- raw HTML omitted --&gt;
+D-12489 Berlin &lt;!-- raw HTML omitted --&gt;
+Germany &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;E-mail: &lt;a href=&#34;mailto:domisch@igb-berlin.de&#34;&gt;domisch@igb-berlin.de&lt;/a&gt; &lt;!-- raw HTML omitted --&gt;
 Phone: +49 (0) 30 6392 4079&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid></guid>
-      <description></description>
     </item>
     
     <item>
@@ -206,8 +153,8 @@ Phone: +49 (0) 30 6392 4079&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/publication/</guid>
-      <description>&lt;p&gt;Most publications are available as a pdf. If you do not have access to a specific publication please &lt;a href=&#34;mailto:domisch@igb-berlin.de?subject=Paper request&#34; target=&#34;_blank&#34;&gt;email us&lt;/a&gt; with the reference and we will send you a copy.
-&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Most publications are available as a pdf. If you do not have access to a specific publication please [email us](mailto:domisch@igb-berlin.de?subject=Paper request&amp;rdquo;) with the reference and we will send you a copy.
+&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 </description>
     </item>
     
