@@ -29,7 +29,7 @@
       
       <guid>/data_code/freshwater-variables/</guid>
       <description>&lt;p&gt;This tutorial shows you how to calculate stream-specific freshwater variables by relating the upstream e.g. land cover to any given downstream location using the GRASS GIS add-ons &lt;em&gt;r.stream.watersheds&lt;/em&gt; &amp;amp; &lt;em&gt;r.stream.variables&lt;/em&gt;. The original 1km data and publication are available &lt;a href=&#34;http://www.earthenv.org/streams&#34;&gt;here&lt;/a&gt; - see also the original code from &lt;a href=&#34;http://spatial-ecology.net/dokuwiki/doku.php?id=wiki:grassrivarvariable&#34;&gt;spatial-ecology.net&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.earthenv.org/streams&#34;&gt;&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.earthenv.org/streams&#34;&gt;&lt;img src=&#34;/img/Add-ons_for_GRASS_GIS.gif&#34; alt=&#34;Add-on animation&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;This example contains the following steps:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Download an exemplary digital elevation model (DEM)&lt;/li&gt;
@@ -145,7 +145,7 @@ more $INDIR/str_stats_c.txt
       
       <guid>/data_code/open-source-gis/</guid>
       <description>&lt;p&gt;Here is a &lt;a href=&#34;https://github.com/domisch/GIS_tools&#34;&gt;collection of open-source GIS tools, using the Linux command line&lt;/a&gt;. The code is maintained at GitHub and includes GDAL/OGR, GRASS, pktools, OpenForis, awk and R.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/domisch/GIS_tools&#34;&gt;&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/domisch/GIS_tools&#34;&gt;&lt;img src=&#34;/img/open_source.png&#34; alt=&#34;&amp;ldquo;Open-source logos&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
