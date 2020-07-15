@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Sami Domisch {year}</copyright>
-    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0200</lastBuildDate>
     
 	    <atom:link href="/data_code/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Extract raster values</title>
       <link>/data_code/extract-variables/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0200</pubDate>
       
       <guid>/data_code/extract-variables/</guid>
       <description>&lt;p&gt;Here are some useful commands to move point records to a stream network and to extract the values for each point. The code is maintained on GitHub at  &lt;a href=&#34;https://github.com/domisch/stream_layers&#34;&gt;https://github.com/domisch/stream_layers&lt;/a&gt;.&lt;/p&gt;
@@ -25,7 +25,7 @@
     <item>
       <title>Freshwater-specific environmental variables</title>
       <link>/data_code/freshwater-variables/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0200</pubDate>
       
       <guid>/data_code/freshwater-variables/</guid>
       <description>&lt;p&gt;This tutorial shows you how to calculate stream-specific freshwater variables by relating the upstream e.g. land cover to any given downstream location using the GRASS GIS add-ons &lt;em&gt;r.stream.watersheds&lt;/em&gt; &amp;amp; &lt;em&gt;r.stream.variables&lt;/em&gt;. The original 1km data and publication are available &lt;a href=&#34;http://www.earthenv.org/streams&#34;&gt;here&lt;/a&gt; - see also the original code from &lt;a href=&#34;http://spatial-ecology.net/dokuwiki/doku.php?id=wiki:grassrivarvariable&#34;&gt;spatial-ecology.net&lt;/a&gt;.&lt;/p&gt;
@@ -141,7 +141,7 @@ more $INDIR/str_stats_c.txt
     <item>
       <title>Open-source GIS</title>
       <link>/data_code/open-source-gis/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0200</pubDate>
       
       <guid>/data_code/open-source-gis/</guid>
       <description>&lt;p&gt;Here is a &lt;a href=&#34;https://github.com/domisch/GIS_tools&#34;&gt;collection of open-source GIS tools, using the Linux command line&lt;/a&gt;. The code is maintained at GitHub and includes GDAL/OGR, GRASS, pktools, OpenForis, awk and R.&lt;/p&gt;
@@ -152,11 +152,11 @@ more $INDIR/str_stats_c.txt
     <item>
       <title>Bayesian species distribution models</title>
       <link>/data_code/bayesian-species-distribution-models/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0200</pubDate>
       
       <guid>/data_code/bayesian-species-distribution-models/</guid>
       <description>&lt;p&gt;Here is a tutorial of running a &lt;a href=&#34;https://github.com/domisch/species_distribution_models&#34;&gt;species distribution model in a Bayesian framework&lt;/a&gt; using the hSDM package in R, using a rangemap as a covariate. See also the associated paper in &lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1111/ecog.01925/abstract&#34;&gt;Ecography&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/domisch/species_distribution_models&#34;&gt;&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/domisch/species_distribution_models&#34;&gt;&lt;img src=&#34;/img/bayesian_SDMs.png&#34; alt=&#34;Bayesian SDMs&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
