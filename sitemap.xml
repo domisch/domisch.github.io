@@ -5,374 +5,517 @@
   <url>
     <loc>/authors/people/</loc>
     <lastmod>2020-07-07T16:05:32+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/contact/</loc>
     <lastmod>2020-02-26T21:19:30+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication_types/3/</loc>
     <lastmod>2020-05-28T20:41:34+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
     <lastmod>2020-06-16T12:52:33+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2020-08-01_safeguarding-freshwater/</loc>
     <lastmod>2020-05-28T20:41:34+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2020-05-01_improving_edna_reliability/</loc>
     <lastmod>2020-05-28T20:41:34+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2019-08-01_integrative-species-delimitation/</loc>
     <lastmod>2020-05-28T20:41:34+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/pubs/2020-08-01_the_water-biodiversity_nexus/</loc>
-    <lastmod>2020-05-28T20:41:34+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/maps/</loc>
-    <lastmod>2020-07-15T19:06:14+02:00</lastmod>
+    <lastmod>2020-07-16T22:27:47+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/data_code/</loc>
     <lastmod>2020-07-15T18:40:56+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/data_code/extract-variables/</loc>
     <lastmod>2020-07-15T18:40:56+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/data_code/freshwater-variables/</loc>
     <lastmod>2020-07-15T18:40:56+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/data_code/open-source-gis/</loc>
     <lastmod>2020-07-15T18:40:56+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/data_code/bayesian-species-distribution-models/</loc>
     <lastmod>2020-07-15T18:40:56+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication_types/2/</loc>
     <lastmod>2020-06-16T12:52:33+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2020-05-01_estimating_nitrogen/</loc>
     <lastmod>2020-05-28T21:02:13+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2019-03-01_geomorpho90m/</loc>
     <lastmod>2020-05-28T21:02:13+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2019-05-01_climate-model-variability/</loc>
     <lastmod>2020-05-28T21:02:13+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2019-05-01_-art-areal-modellierung/</loc>
     <lastmod>2020-06-16T12:52:33+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2019-05-01_from_topography_to_hydrology/</loc>
     <lastmod>2020-05-28T21:02:13+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2019-05-01_elevation-aspect/</loc>
     <lastmod>2020-01-17T22:44:04+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2019-04-01_ai_sdgs/</loc>
     <lastmod>2020-01-22T12:38:09+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/authors/</loc>
     <lastmod>2020-07-07T16:05:32+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/tags/clustering/</loc>
     <lastmod>2019-12-03T13:50:34+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/tags/conservation/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/project/glowabio_conservation/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/project/glowabio_habitats/</loc>
     <lastmod>2019-12-03T13:50:34+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/tags/integer-linear-programming/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/tags/marxan/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/tags/regionalization/</loc>
     <lastmod>2019-12-03T13:50:34+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
     <lastmod>2019-12-03T13:50:34+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/tags/bayesian/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/project/glowabio_biodiversity/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/</loc>
     <lastmod>2020-02-26T21:43:27+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
     <lastmod>2020-02-26T21:43:27+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/tags/machine-learning/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/project/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/tags/species-distribution-modeling/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/tags/uncertainty/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2019-05-01_useful_model/</loc>
     <lastmod>2020-01-13T13:40:45+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2019-02-01_cost-effective_restoration/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2019-01-01_combining_eight/</loc>
     <lastmod>2020-01-13T15:10:51+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2019-01-01_spatially_explicit/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2018-01-01_local_environment/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/privacy/</loc>
     <lastmod>2020-02-26T21:43:27+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2018-01-01_high-resolution_stream_network/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2018-01-01_a_high-resolution_streamflow/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2018-01-01_a_suite_of_global/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2018-01-01_projected_effects/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2018-01-01_social_equity_shapes/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2017-01-01_cross-taxa_generalities/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2017-01-01_using_streamflow_observations/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2017-01-01_cross-realm_assessment/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2017-01-01_severity_multipliers/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2016-01-01_model-based_integration/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2015-01-01_near-global_freshwater-specific/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2015-01-01_application_of_sdm/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2015-01-01_ecological_models_in_freshwater/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2014-01-01_current_and_future_fws/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2013-01-01_choice_of_study_area/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2013-01-01_continental-scale_conservation/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2013-01-01_modelling_distribution_gcb/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2012-01-01_modelling_of_riverine/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2012-01-01_integrierte_modellierung/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2012-01-01_range_shifts_of_a_relict/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2011-01-01_cryptic_biodiversity/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2011-01-01_low_mountain_ranges/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2011-01-01_climate-change_winne/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/authors/admin/</loc>
     <lastmod>2020-05-28T20:55:15+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/authors/annika-brunner/</loc>
     <lastmod>2020-07-07T16:05:32+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/authors/jaime-garcia-marquez/</loc>
     <lastmod>2019-08-08T16:34:56+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/authors/thomas-tomiczek/</loc>
     <lastmod>2020-01-10T09:38:14+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/</loc>
     <lastmod>2020-02-26T21:43:27+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/sami-domisch/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
