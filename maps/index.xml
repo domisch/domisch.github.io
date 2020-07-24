@@ -7,10 +7,53 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Sami Domisch {year}</copyright>
-    <lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0200</lastBuildDate>
     
 	    <atom:link href="/maps/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Freshwater-specific environmental variables at 1km resolution</title>
+      <link>/maps/1km_variables/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/maps/1km_variables/</guid>
+      <description>&lt;p&gt;Near-global freshwater-specific variables at 1km spatial resolution &lt;a href=&#34;https://www.nature.com/articles/sdata201573&#34;&gt;Domisch et al. 2015&lt;/a&gt;. Data download at &lt;a href=&#34;http://www.earthenv.org/streams&#34;&gt;earthenv.org/streams&lt;/a&gt;.&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://earthenv-dot-map-of-life.appspot.com/3/0.000/0.000?collections=streams&amp;amp;layers=Precipitation_seasonality_(avg)&#34; name=&#34;map&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;600&#34; class=&#34;extra-spacing&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;p&gt;
+  &lt;script type=&#34;text/javascript&#34; src=&#34;javascripts/jquery.ulslide-1.5.5.min.js?v=4&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Geomorpho90m dataset</title>
+      <link>/maps/geomorpho90m/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/maps/geomorpho90m/</guid>
+      <description>&lt;p&gt;Global high-resolution geomorphometric layers (Geomorpho90m dataset by &lt;a href=&#34;https://www.nature.com/articles/s41597-020-0479-6&#34;&gt;Amatulli et al. 2020&lt;/a&gt;). Below the global &amp;ldquo;roughness&amp;rdquo; layer as an example, aggregated to 250m resolution.&lt;/p&gt;
+&lt;p&gt;Data at 90m resolution available at &lt;a href=&#34;https://portal.opentopography.org/dataspace/dataset?opentopoID=OTDS.012020.4326.1&#34;&gt;OpenTopography&lt;/a&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://openlandmap.org/#/?base=Stamen%20(OpenStreetMap)&amp;center=42.1952,0.0417&amp;zoom=9&amp;opacity=80&amp;layer=dtm_roughness_merit.dem_m&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;GeoNode map&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Test data for freshwater distribution models</title>
+      <link>/maps/sdm_test_data/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/maps/sdm_test_data/</guid>
+      <description>&lt;p&gt;For illustration purpose: we use example stream networks, such as the one below that can be quickly generated in &lt;a href=&#34;https://grass.osgeo.org/&#34;&gt;GRASS-GIS&lt;/a&gt;, for testing various tools and techniques for routing, network modeling, point processing etc.&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://geo.igb-berlin.de/maps/92/embed&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;GeoNode map&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+</description>
+    </item>
     
   </channel>
 </rss>

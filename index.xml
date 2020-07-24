@@ -39,20 +39,6 @@ Phone: +49 (0) 30 6392 4079&lt;/p&gt;
     </item>
     
     <item>
-      <title>Maps &amp; predictions</title>
-      <link>/maps/</link>
-      <pubDate>Wed, 15 Jul 2020 00:00:00 +0200</pubDate>
-      
-      <guid>/maps/</guid>
-      <description>&lt;p&gt;Global high-resolution geomorphometric layers (Geomorpho90m dataset by &lt;a href=&#34;https://www.nature.com/articles/s41597-020-0479-6&#34;&gt;Amatulli et al. 2020&lt;/a&gt;). Below the global &amp;ldquo;roughness&amp;rdquo; layer as an example, aggregated to 250m resolution.&lt;/p&gt;
-&lt;p&gt;Data at 90m resolution available at &lt;a href=&#34;https://portal.opentopography.org/dataspace/dataset?opentopoID=OTDS.012020.4326.1&#34;&gt;OpenTopography&lt;/a&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://openlandmap.org/#/?base=Stamen%20(OpenStreetMap)&amp;center=42.1952,0.0417&amp;zoom=9&amp;opacity=80&amp;layer=dtm_roughness_merit.dem_m&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;GeoNode map&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Data &amp; Code</title>
       <link>/data_code/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0200</pubDate>
@@ -170,6 +156,22 @@ D-12489 Berlin&lt;br&gt;
 Germany&lt;/p&gt;
 &lt;p&gt;E-mail: &lt;a href=&#34;mailto:domisch@igb-berlin.de&#34;&gt;domisch@igb-berlin.de&lt;/a&gt;&lt;br&gt;
 Phone: +49 (0) 30 6392 4079&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Maps &amp; predictions</title>
+      <link>/maps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/maps/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/img/stream_network.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;We provide some interactive maps for browsing and will gradually add more:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/maps/1km_variables&#34;&gt;Freshwater-specific environmental variables at 1km resolution&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/maps/Geomorpho90m&#34;&gt;Globally standardized geomorphometry variables at 90m resolution&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/maps/SDM_test_data&#34;&gt;Test data set for freshwater modelling&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
