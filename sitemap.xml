@@ -60,14 +60,14 @@
   
   <url>
     <loc>/maps/geomorpho90m/</loc>
-    <lastmod>2020-07-24T23:19:43+02:00</lastmod>
+    <lastmod>2020-07-19T00:00:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/maps/sdm_test_data/</loc>
-    <lastmod>2020-07-24T23:19:43+02:00</lastmod>
+    <lastmod>2020-07-19T00:00:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

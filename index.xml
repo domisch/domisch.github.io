@@ -169,8 +169,8 @@ Phone: +49 (0) 30 6392 4079&lt;/p&gt;
 &lt;p&gt;We provide some interactive maps for browsing and will gradually add more:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;/maps/1km_variables&#34;&gt;Freshwater-specific environmental variables at 1km resolution&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/maps/Geomorpho90m&#34;&gt;Globally standardized geomorphometry variables at 90m resolution&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/maps/SDM_test_data&#34;&gt;Test data set for freshwater modelling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/maps/geomorpho90m&#34;&gt;Globally standardized geomorphometry variables at 90m resolution&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/maps/sdm_test_data&#34;&gt;Test data set for freshwater modelling&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
