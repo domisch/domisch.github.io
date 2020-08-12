@@ -17,7 +17,7 @@
       <pubDate>Sun, 19 Jul 2020 00:00:00 +0200</pubDate>
       
       <guid>/maps/1km_variables/</guid>
-      <description>&lt;p&gt;Near-global freshwater-specific variables at 1km spatial resolution &lt;a href=&#34;https://www.nature.com/articles/sdata201573&#34;&gt;Domisch et al. 2015&lt;/a&gt;. Data download at &lt;a href=&#34;http://www.earthenv.org/streams&#34;&gt;earthenv.org/streams&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Near-global freshwater-specific variables at 1km spatial resolution (&lt;a href=&#34;https://www.nature.com/articles/sdata201573&#34;&gt;Domisch et al. 2015&lt;/a&gt;). Data download at &lt;a href=&#34;http://www.earthenv.org/streams&#34;&gt;earthenv.org/streams&lt;/a&gt;.&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://earthenv-dot-map-of-life.appspot.com/3/0.000/0.000?collections=streams&amp;amp;layers=Precipitation_seasonality_(avg)&#34; name=&#34;map&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;600&#34; class=&#34;extra-spacing&#34;&gt;&lt;/iframe&gt;
  &lt;/div&gt;
