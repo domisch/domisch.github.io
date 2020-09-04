@@ -4,7 +4,7 @@
   
   <url>
     <loc>/authors/people/</loc>
-    <lastmod>2020-07-07T16:05:32+02:00</lastmod>
+    <lastmod>2020-09-04T20:04:02+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -53,7 +53,7 @@
   
   <url>
     <loc>/maps/1km_variables/</loc>
-    <lastmod>2020-07-24T23:19:43+02:00</lastmod>
+    <lastmod>2020-08-12T15:18:40+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -165,7 +165,7 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-07-07T16:05:32+02:00</lastmod>
+    <lastmod>2020-09-04T20:04:02+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -507,6 +507,13 @@
   </url>
   
   <url>
+    <loc>/authors/lydia-nass/</loc>
+    <lastmod>2020-09-04T20:04:02+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/authors/thomas-tomiczek/</loc>
     <lastmod>2020-01-10T09:38:14+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -528,7 +535,7 @@
   
   <url>
     <loc>/publication/</loc>
-    <lastmod>2020-07-19T19:17:37+02:00</lastmod>
+    <lastmod>2020-08-12T15:18:40+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
