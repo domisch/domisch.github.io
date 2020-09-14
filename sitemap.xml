@@ -521,6 +521,12 @@
   </url>
   
   <url>
+    <loc>/authors/maria-ueblacker/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/authors/thomas-tomiczek/</loc>
     <lastmod>2020-01-10T09:38:14+01:00</lastmod>
     <changefreq>monthly</changefreq>
