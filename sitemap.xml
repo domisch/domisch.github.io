@@ -4,7 +4,7 @@
   
   <url>
     <loc>/authors/people/</loc>
-    <lastmod>2020-09-04T20:04:02+02:00</lastmod>
+    <lastmod>2020-09-14T10:42:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -19,6 +19,13 @@
   <url>
     <loc>/publication_types/3/</loc>
     <lastmod>2020-05-28T20:41:34+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-09-14T10:42:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -165,7 +172,7 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-09-04T20:04:02+02:00</lastmod>
+    <lastmod>2020-09-14T10:42:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -236,13 +243,6 @@
   <url>
     <loc>/project/glowabio_biodiversity/</loc>
     <lastmod>2019-07-10T13:16:17+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-07-19T19:17:37+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -494,6 +494,7 @@
   
   <url>
     <loc>/authors/afroditi-grigoropoulou/</loc>
+    <lastmod>2020-09-14T10:42:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
