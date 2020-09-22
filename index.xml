@@ -15,7 +15,7 @@
     <item>
       <title>Contact</title>
       <link>/contact/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0200</pubDate>
       
       <guid>/contact/</guid>
       <description>&lt;p&gt;We constantly seek possible collaborations regarding interesting projects, novel methods, data, and publications in spatial freshwater biodiversity science and beyond. Please do not hesitate to &lt;a href=&#34;mailto:domisch@igb-berlin.de?subject=%5Bglowabio%5D%20contact&#34;&gt;contact us&lt;/a&gt; to discuss further details.
@@ -24,9 +24,10 @@
 &lt;p&gt;Are you interested in joining the group? We are looking for motivated candidates across the Master, PhD and Postdoc levels.
 If you are interested please &lt;a href=&#34;mailto:domisch@igb-berlin.de?subject=%5Bglowabio%5D%20contact&#34;&gt;drop us a line&lt;/a&gt; indicating your research interests &amp;amp; plans and we can discuss how to move things further and seek for possible funding opportunities.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;We use, beside R, largely open-source (command-line) GIS tools within the Linux environment that facilitate handling and analyzing large datasets (see also some of the tools &lt;a href=&#34;/data_code/open-source-gis&#34;&gt;here&lt;/a&gt;). We consider a good understanding, or alternatively, a great motivation to learn such tools &amp;amp; techniques as a prerequisite to join the group.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;Contact information:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Contact information:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Dr. Sami Domisch&lt;br&gt;
 Leibniz-Institute of Freshwater Ecology and Inland Fisheries&lt;br&gt;
 Department of Ecosystem Research&lt;br&gt;
