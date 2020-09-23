@@ -4,7 +4,7 @@
   
   <url>
     <loc>/authors/people/</loc>
-    <lastmod>2020-09-22T22:27:47+02:00</lastmod>
+    <lastmod>2020-09-23T10:37:02+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -25,7 +25,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-09-22T22:27:47+02:00</lastmod>
+    <lastmod>2020-09-23T10:37:02+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -445,7 +445,7 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-09-22T22:27:47+02:00</lastmod>
+    <lastmod>2020-09-23T10:37:02+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -516,6 +516,13 @@
   <url>
     <loc>/authors/lydia-nass/</loc>
     <lastmod>2020-09-04T20:04:02+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/maria-ueblacker/</loc>
+    <lastmod>2020-09-23T10:37:02+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
