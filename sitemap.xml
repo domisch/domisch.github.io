@@ -18,28 +18,28 @@
   
   <url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2020-06-16T12:52:33+02:00</lastmod>
+    <lastmod>2020-10-12T11:59:31+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-09-28T12:58:09+02:00</lastmod>
+    <lastmod>2020-10-12T11:59:31+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2020-06-16T12:52:33+02:00</lastmod>
+    <lastmod>2020-10-12T11:59:31+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2020-08-01_safeguarding-freshwater/</loc>
-    <lastmod>2020-05-28T20:41:34+02:00</lastmod>
+    <lastmod>2020-10-12T11:59:31+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -509,6 +509,12 @@
   <url>
     <loc>/authors/jaime-garcia-marquez/</loc>
     <lastmod>2019-08-08T16:34:56+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/longzhu-shen/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

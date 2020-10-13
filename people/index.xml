@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Global freshwater biodiversity research</title>
-    <link>/authors/</link>
-    <description>Recent content in Authors on Global freshwater biodiversity research</description>
+    <title>Peoples on Global freshwater biodiversity research</title>
+    <link>/people/</link>
+    <description>Recent content in Peoples on Global freshwater biodiversity research</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Sami Domisch {year}</copyright>
     <lastBuildDate>Wed, 05 Sep 2012 00:00:00 +0200</lastBuildDate>
     
-	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/people/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>People</title>
-      <link>/authors/people/</link>
+      <link>/people/people/</link>
       <pubDate>Wed, 05 Sep 2012 00:00:00 +0200</pubDate>
       
-      <guid>/authors/people/</guid>
+      <guid>/people/people/</guid>
       <description>&lt;p&gt;
 
 
@@ -47,21 +47,6 @@
 &lt;/figure&gt;
  
 &lt;a href=&#34;/authors/jaime-garcia-marquez/&#34;&gt;&lt;strong&gt;Dr. Jaime Garcia Marquez&lt;/strong&gt;&lt;/a&gt; is a GIS Data Analyst with a strong emphasis in open-source methods &amp;amp; tools for analysing large biodiversity data sets using the Linux command-line and the High Performance Computing cluster.&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;/authors/longzhu-shen/avatar.jpg#floatleft&#34; alt=&#34;longzhu&#34; width=&#34;130&#34; height=&#34;130&#34; &gt;
-
-
-&lt;/figure&gt;
- 
-&lt;a href=&#34;/authors/longzhu-shen/&#34;&gt;&lt;strong&gt;Dr. Longzhu Shen&lt;/strong&gt;&lt;/a&gt; is a postdoc woth a strong mathematical background, focusing on machine learning and GIS methods to optimize predictions of discharge and nutrients in stream networks.&lt;/p&gt;
 &lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;
 
@@ -202,10 +187,10 @@
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>/people/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/authors/admin/</guid>
+      <guid>/people/admin/</guid>
       <description>&lt;p&gt;Sami Domisch is a Leibniz Junior Research Group Leader at the &lt;a href=&#34;https://www.igb-berlin.de/en/profile/sami-domisch&#34;&gt;Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)&lt;/a&gt;. Sami is interested in freshwater biodiversity with an emphasis on spatial biodiversity patterns, macroecology, and developing tools to assess freshwater biodiversity across large spatial scales.&lt;/p&gt;
 &lt;p&gt;The group uses a wide array of open-source tools for spatial biodiversity informatics such as R, GRASS, GDAL/OGR, pktools, OpenForis within the Linux environment.&lt;/p&gt;
 &lt;hr&gt;
@@ -240,10 +225,10 @@
     
     <item>
       <title></title>
-      <link>/authors/afroditi-grigoropoulou/</link>
+      <link>/people/afroditi-grigoropoulou/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/authors/afroditi-grigoropoulou/</guid>
+      <guid>/people/afroditi-grigoropoulou/</guid>
       <description>&lt;h2 id=&#34;afroditi-grigoropoulou-is-a-phd-student-at-the-leibniz-institute-of-freshwater-ecology-and-inland-fisheries-igbhttpswwwigb-berlindeen-she-is-working-on-global-patterns-of-freshwater-macroinvertebrate-diversity-across-multiple-spatial-scales&#34;&gt;Afroditi Grigoropoulou is a PhD student at the &lt;a href=&#34;https://www.igb-berlin.de/en/&#34;&gt;Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)&lt;/a&gt;. She is working on global patterns of freshwater macroinvertebrate diversity across multiple spatial scales.&lt;/h2&gt;
 &lt;h5 id=&#34;__career__-br&#34;&gt;&lt;strong&gt;Career&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;/h5&gt;
 &lt;ul&gt;
@@ -257,10 +242,10 @@
     
     <item>
       <title></title>
-      <link>/authors/annika-brunner/</link>
+      <link>/people/annika-brunner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/authors/annika-brunner/</guid>
+      <guid>/people/annika-brunner/</guid>
       <description>&lt;p&gt;Annika Brunner is a master student at Freie Universität Berlin and writes her master thesis at the &lt;a href=&#34;https://www.igb-berlin.de/en/&#34;&gt;Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)&lt;/a&gt;. Annika is integrating Shared Socioeconomic Pathways (SSPs) into freshwater biodiversity projections in South America.&lt;/p&gt;
 &lt;hr&gt;
 </description>
@@ -268,10 +253,10 @@
     
     <item>
       <title></title>
-      <link>/authors/jaime-garcia-marquez/</link>
+      <link>/people/jaime-garcia-marquez/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/authors/jaime-garcia-marquez/</guid>
+      <guid>/people/jaime-garcia-marquez/</guid>
       <description>&lt;p&gt;Jaime Garcia Marquez is a GIS and Data Analyst at the &lt;a href=&#34;https://www.igb-berlin.de/en/&#34;&gt;Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)&lt;/a&gt;. Jaime has a long expertise on the use of ecological spatial methods which he has applied in research and consulting on biodiversity and ecosystem services conservation and landscape planning.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h5 id=&#34;__career__-br&#34;&gt;&lt;strong&gt;Career&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;/h5&gt;
@@ -293,34 +278,10 @@
     
     <item>
       <title></title>
-      <link>/authors/longzhu-shen/</link>
+      <link>/people/lydia-nass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/authors/longzhu-shen/</guid>
-      <description>&lt;p&gt;Dr. Longzhu Shen is a GIS modeller at the &lt;a href=&#34;https://www.igb-berlin.de/en/&#34;&gt;Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)&lt;/a&gt;. Dr. Shen&amp;rsquo;s technical background was quantum chemistry with broad applications, especially in areas related to ecology, environment and public health. After Ph.D. training, he migrated further into machine learning oriented modellings and often crafted unique solutions via coupling the physical principles and data-driven approaches. He has built predictive models to estimate the distributions of nitrogen and phosphorus in their various forms in the streams around the globe.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h5 id=&#34;__career__-br&#34;&gt;&lt;strong&gt;Career&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;since Oct. 2020 - GIS modeller at Leibniz-Institute of Freshwater Ecology and Inland Fisheries &lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;2019-2020 - Independent modelling consultant&lt;/li&gt;
-&lt;li&gt;2017-2019 - Department of Zoology, University of Cambridge, UK (Postdoc)  &lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;2014-2018 - School of the Environment, Yale University, USA (Postdoc)  &lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h5 id=&#34;__reviewer-activities__-br&#34;&gt;&lt;strong&gt;Reviewer activities&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;Journal referee: Global Biogeochemical Cycles, Science of the Total Environment, Resources, Conservation &amp;amp; Recycling, Journal of Agriculture and Food Chemistry Chemosphere, International Journal Polymer Science, Journal of Coordination Chemistry &lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/lydia-nass/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/lydia-nass/</guid>
+      <guid>/people/lydia-nass/</guid>
       <description>&lt;p&gt;Lydia Nass is a Master student at the Free University of Berlin working as an intern at the &lt;a href=&#34;https://www.igb-berlin.de/en/&#34;&gt;Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)&lt;/a&gt;. Her work addresses the biodiversity in freshwaters across europe.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h5 id=&#34;__career__-br&#34;&gt;&lt;strong&gt;Career&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;/h5&gt;
@@ -335,20 +296,20 @@
     
     <item>
       <title></title>
-      <link>/authors/maria-ueblacker/</link>
+      <link>/people/maria-ueblacker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/authors/maria-ueblacker/</guid>
+      <guid>/people/maria-ueblacker/</guid>
       <description>&lt;p&gt;Marlene Üblacker is a PhD student at the &lt;a href=&#34;https://www.igb-berlin.de/en/&#34;&gt;Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)&lt;/a&gt;. She is working on a high-resolution freshwater habitat characterization and is conducting analyses across spatial scales to highlight distinct patterns of aquatic insects and potential gaps in the global network of protected areas.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/thomas-tomiczek/</link>
+      <link>/people/thomas-tomiczek/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/authors/thomas-tomiczek/</guid>
+      <guid>/people/thomas-tomiczek/</guid>
       <description>&lt;p&gt;Thomas Tomiczek is a Master student from the Humboldt University working on his Master thesis at the &lt;a href=&#34;https://www.igb-berlin.de/en/&#34;&gt;Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)&lt;/a&gt;. His thesis addresses integrating freshwater biodiversity in large scale conservation planning in Colombia.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h5 id=&#34;__career__-br&#34;&gt;&lt;strong&gt;Career&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;/h5&gt;
