@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Sami Domisch {year}</copyright>
-    <lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Dec 2020 00:00:00 +0200</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -36,6 +36,35 @@ D-12489 Berlin&lt;br&gt;
 Germany&lt;/p&gt;
 &lt;p&gt;E-mail: &lt;a href=&#34;mailto:domisch@igb-berlin.de&#34;&gt;domisch@igb-berlin.de&lt;/a&gt;&lt;br&gt;
 Phone: +49 (0) 30 6392 4079&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/project/</link>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/project/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/img/habitats.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;We are currently focusing on several topics:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/project/glowabio_habitats&#34;&gt;Creating novel high-resolution freshwater ecoregions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/project/glowabio_biodiversity&#34;&gt;Analyzing spatial patterns in global freshwater biodiversity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/project//glowabio_conservation&#34;&gt;Spatial conservation planning given habitat and biodiversity features&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;.. and are part of the following collaborations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.largescaleecologylab.net/&#34;&gt;Global taxonomic, functional and phylogenetic diversity of stream macroinvertebrate communities&lt;/a&gt; - lead by Jani Heino&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gepris.dfg.de/gepris/projekt/224580917?language=en&#34;&gt;Niche evolution of Tibetan-Himalayan Rhyacophilidae (Trichoptera)&lt;/a&gt; - lead by Steffen Pauls&lt;/li&gt;
+&lt;li&gt;Protecting the future of freshwater biodiversity and ecosystem services across Cuba - lead by Yusdiel Torres-Cambas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;.. and larger research projects and networks:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecorisk2050.eu/&#34;&gt;Environmental risk of chemicals in the future&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://allianceforfreshwaterlife.org/&#34;&gt;Alliance for Freshwater Life&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://geobon.org/bons/thematic-bon/freshwater-bon/&#34;&gt;Freshwater Biodiversity Observation Network&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ipcc.ch/report/sixth-assessment-report-working-group-ii/&#34;&gt;IPCC WGII Sixth Assessment Report&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -91,25 +120,6 @@ Phone: +49 (0) 30 6392 4079&lt;/p&gt;
 
 &lt;/figure&gt;
 
-</description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>/project/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/project/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/img/habitats.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;We are currently focusing on several topics:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/project/glowabio_habitats&#34;&gt;Creating novel high-resolution freshwater ecoregions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/project/glowabio_biodiversity&#34;&gt;Analyzing spatial patterns in global freshwater biodiversity&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/project//glowabio_conservation&#34;&gt;Spatial conservation planning given habitat and biodiversity features&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/publication/pubs/2019-05-01_from_topography_to_hydrology/&#34;&gt;Scale-dependencies in freshwater species distribution models&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://gepris.dfg.de/gepris/projekt/224580917?language=en&#34;&gt;Niche evolution of Tibetan-Himalayan Rhyacophilidae (Trichoptera)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://allianceforfreshwaterlife.org/&#34;&gt;Alliance for Freshwater Life&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
