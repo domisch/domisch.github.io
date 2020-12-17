@@ -18,28 +18,35 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-12-16T14:55:27+01:00</lastmod>
+    <lastmod>2020-12-17T10:45:29+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/project/</loc>
-    <lastmod>2019-07-10T13:16:17+02:00</lastmod>
+    <lastmod>2020-12-17T10:45:29+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2020-10-12T11:59:31+02:00</lastmod>
+    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2020-10-12T11:59:31+02:00</lastmod>
+    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/pubs/2020-12-01_insect-decline-reply/</loc>
+    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
