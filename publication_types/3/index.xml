@@ -7,15 +7,24 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Sami Domisch {year}</copyright>
-    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Assessing whether artificial intelligence is an enabler or an inhibitor of sustainability</title>
+      <link>/publication/pubs/2021-01-01_assessing-whether-artificial/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/pubs/2021-01-01_assessing-whether-artificial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Improving the reliability of eDNA data interpretation</title>
       <link>/publication/pubs/2021-01-01_improving_edna_reliability/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>/publication/pubs/2021-01-01_improving_edna_reliability/</guid>
       <description></description>
@@ -24,7 +33,7 @@
     <item>
       <title>Integrative species-delimitation: testing the efficacy of the multispecies coalescent model in the Greenthroat Darter complex (Etheostoma lepidum)</title>
       <link>/publication/pubs/2021-01-01_integrative-species-delimitation/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>/publication/pubs/2021-01-01_integrative-species-delimitation/</guid>
       <description></description>
@@ -33,18 +42,9 @@
     <item>
       <title>Twenty-five essential research questions to inform the protection and restoration of freshwater biodiversity</title>
       <link>/publication/pubs/2021-01-01_twenty-five_essential/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>/publication/pubs/2021-01-01_twenty-five_essential/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Assessing whether artificial intelligence is an enabler or an inhibitor of sustainability</title>
-      <link>/publication/pubs/2020-12-02_assessing-whether-artificial/</link>
-      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pubs/2020-12-02_assessing-whether-artificial/</guid>
       <description></description>
     </item>
     
