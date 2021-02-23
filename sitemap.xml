@@ -4,7 +4,7 @@
   
   <url>
     <loc>/authors/people/</loc>
-    <lastmod>2021-01-26T13:06:07+01:00</lastmod>
+    <lastmod>2021-02-17T13:44:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -18,20 +18,34 @@
   
   <url>
     <loc>/publication_types/3/</loc>
-    <lastmod>2021-02-05T16:59:06+01:00</lastmod>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/publication/pubs/2021-01-01_assessing-whether-artificial/</loc>
-    <lastmod>2021-02-05T16:59:06+01:00</lastmod>
+    <loc>/publication/pubs/2021-01-01_a-global-agenda-for/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/pubs/2021-01-01_assessing-whether-artificial/</loc>
     <lastmod>2021-02-05T16:59:06+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -46,13 +60,6 @@
   
   <url>
     <loc>/publication/pubs/2021-01-01_integrative-species-delimitation/</loc>
-    <lastmod>2021-02-05T16:59:06+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
     <lastmod>2021-02-05T16:59:06+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -473,7 +480,7 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2021-02-05T16:59:06+01:00</lastmod>
+    <lastmod>2021-02-17T13:44:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -592,6 +599,7 @@
   
   <url>
     <loc>/authors/yusdiel-torres-cambas/</loc>
+    <lastmod>2021-02-17T13:44:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
