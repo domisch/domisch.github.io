@@ -17,8 +17,22 @@
   </url>
   
   <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/publication_types/3/</loc>
     <lastmod>2021-03-03T10:37:43+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/pubs/2021-01-01_300_years_of_change/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -32,28 +46,21 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2021-03-03T10:37:43+01:00</lastmod>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2021-03-03T10:37:43+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2021-03-03T10:37:43+01:00</lastmod>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/publication/pubs/2021-01-01_assessing-whether-artificial/</loc>
-    <lastmod>2021-02-05T16:59:06+01:00</lastmod>
+    <lastmod>2021-03-19T20:39:58+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -480,7 +487,7 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2021-03-03T10:37:43+01:00</lastmod>
+    <lastmod>2021-03-19T20:39:58+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -522,7 +529,7 @@
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2021-02-05T16:59:06+01:00</lastmod>
+    <lastmod>2021-03-19T20:39:58+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

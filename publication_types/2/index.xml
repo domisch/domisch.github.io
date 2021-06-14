@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Sami Domisch {year}</copyright>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>300 years of change for native fish species in the upper Danube River Basin – historical flow alterations versus future climate change</title>
+      <link>/publication/pubs/2021-01-01_300_years_of_change/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/pubs/2021-01-01_300_years_of_change/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Assessing whether artificial intelligence is an enabler or an inhibitor of sustainability</title>
@@ -18,6 +27,15 @@
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>/publication/pubs/2021-01-01_assessing-whether-artificial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrative species delimitation: testing the efficacy of the multispecies coalescent model in the Greenthroat Darter complex (Percidae: Etheostomatinae)</title>
+      <link>/publication/pubs/2021-01-01_integrative-species-delimitation/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/pubs/2021-01-01_integrative-species-delimitation/</guid>
       <description></description>
     </item>
     
