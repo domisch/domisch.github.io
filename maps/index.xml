@@ -12,6 +12,20 @@
     
     
     <item>
+      <title>Hydrography90m dataset</title>
+      <link>/maps/hydrography90m/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0200</pubDate>
+      
+      <guid>/maps/hydrography90m/</guid>
+      <description>&lt;p&gt;A new global, high-resolution hydrographic dataset (see preprint by &lt;a href=&#34;https://essd.copernicus.org/preprints/essd-2022-9/&#34;&gt;Amatulli et al. 2022&lt;/a&gt;). Below the global &amp;ldquo;Strahler stream order&amp;rdquo; layer as an example.&lt;/p&gt;
+&lt;p&gt;Data at 90m resolution available at the &lt;a href=&#34;https://public.igb-berlin.de/index.php/s/agciopgzXjWswF4&#34;&gt;IGB download repository&lt;/a&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://geo.igb-berlin.de/maps/new?layer=geonode:hydrography90m_v1_stream_order_strahler_cog&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;GeoNode map&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Freshwater-specific environmental variables at 1km resolution</title>
       <link>/maps/1km_variables/</link>
       <pubDate>Sun, 19 Jul 2020 00:00:00 +0200</pubDate>

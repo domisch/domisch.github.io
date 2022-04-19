@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Sami Domisch {year}</copyright>
-    <lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Invasion impacts and dynamics of a European-wide introduced species</title>
+      <link>/publication/pubs/2022-04-01_invasion_curve/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/pubs/2022-04-01_invasion_curve/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>300 years of change for native fish species in the upper Danube River Basin – historical flow alterations versus future climate change</title>
@@ -45,6 +54,15 @@
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>/publication/pubs/2021-01-01_integrative-species-delimitation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twenty-five essential research questions to inform the protection and restoration of freshwater biodiversity</title>
+      <link>/publication/pubs/2021-01-01_twenty-five_essential/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/pubs/2021-01-01_twenty-five_essential/</guid>
       <description></description>
     </item>
     
