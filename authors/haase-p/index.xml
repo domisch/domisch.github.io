@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haase, P. | Global freshwater biodiversity research</title>
+    <link>/authors/haase-p./</link>
+      <atom:link href="/authors/haase-p./index.xml" rel="self" type="application/rss+xml" />
+    <description>Haase, P.</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <title>Haase, P.</title>
+      <link>/authors/haase-p./</link>
+    </image>
+    
+    <item>
+      <title>Climate-change winners and losers: stream macroinvertebrates of a submontane region in Central Europe</title>
+      <link>/publication/2011_domisch_climate-change_winners/2011-01-01_climate-change_winne/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/2011_domisch_climate-change_winners/2011-01-01_climate-change_winne/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
