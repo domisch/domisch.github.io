@@ -12,15 +12,37 @@
   <url>
     <loc>/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/project/glowabio_biodiversity/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/authors/afroditi-grigoropoulou/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/tag/climate-change/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/tag/clustering/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/tag/conservation/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>/tag/conservation-planning/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>/tag/discharge/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>/authors/giuseppe-amatulli/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/jaime-garcia-marquez/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/jens-kiesel/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/longzhu-shen/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/admin/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/yusdiel-torres-cambas/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/tag/ecosystem-services/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>/tag/freshwater-biodiversity/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/project/glowabio_biodiversity/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/project/glowabio_habitats/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -36,11 +58,15 @@
   <url>
     <loc>/tag/machine-learning/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>/authors/maria-ueblacker/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>/tag/marxan/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/tag/open-source-gis/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/project/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/project/cuba_biodiversity/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/tag/regionalization/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -53,6 +79,8 @@
     <loc>/tags/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/tag/uncertainty/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/data_code/</loc><lastmod>2022-05-27T00:00:00+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/data_code/freshwater-variables/</loc><lastmod>2022-05-27T00:00:00+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -73,8 +101,6 @@
     <loc>/authors/a.-ramirez/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/authors/a.-schmidt-kloiber/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/authors/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/authors/b.-kohlmann/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -260,8 +286,6 @@
   <url>
     <loc>/authors/z.-hogan/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/data_code/</loc><lastmod>2020-07-02T00:00:00+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>/data_code/extract-variables/</loc><lastmod>2020-07-01T00:00:00+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/data_code/open-source-gis/</loc><lastmod>2020-07-01T00:00:00+02:00</lastmod><changefreq>weekly</changefreq></url>
@@ -272,35 +296,19 @@
   <url>
     <loc>/people/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/afroditi-grigoropoulou/</loc><changefreq>weekly</changefreq></url>
-  <url>
     <loc>/authors/annika-brunner/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>/categories/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/giuseppe-amatulli/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/authors/jaime-garcia-marquez/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/authors/jens-kiesel/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/authors/longzhu-shen/</loc><changefreq>weekly</changefreq></url>
-  <url>
     <loc>/authors/martin-friedrichs-manthay/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>/authors/mathieu-floury/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/authors/admin/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/authors/yusdiel-torres-cambas/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>/authors/francesco-polazzo/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>/authors/gabriela-spriestersbach/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>/authors/lydia-nass/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/authors/maria-ueblacker/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>/authors/q.-cai./</loc><changefreq>weekly</changefreq></url>
   <url>
