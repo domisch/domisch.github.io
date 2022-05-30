@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Global freshwater biodiversity research</title>
+    <title>Francesco Polazzo | Global freshwater biodiversity research</title>
     <link>/authors/francesco-polazzo/</link>
-    <description>Recent content on Global freshwater biodiversity research</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Sami Domisch {year}</copyright>
-    
-	    <atom:link href="/authors/francesco-polazzo/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/francesco-polazzo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Francesco Polazzo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/authors/francesco-polazzo/avatar_hu7c68502657da73ca9347ed8106b913f3_148189_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Francesco Polazzo</title>
+      <link>/authors/francesco-polazzo/</link>
+    </image>
     
   </channel>
 </rss>

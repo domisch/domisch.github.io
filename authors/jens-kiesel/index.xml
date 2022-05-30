@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Global freshwater biodiversity research</title>
+    <title>Dr. Jens Kiesel | Global freshwater biodiversity research</title>
     <link>/authors/jens-kiesel/</link>
-    <description>Recent content on Global freshwater biodiversity research</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Sami Domisch {year}</copyright>
-    
-	    <atom:link href="/authors/jens-kiesel/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/jens-kiesel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dr. Jens Kiesel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/authors/jens-kiesel/avatar_hu3cff26f5c3b07bb8c9aebddd97ab7efc_7354_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Dr. Jens Kiesel</title>
+      <link>/authors/jens-kiesel/</link>
+    </image>
     
   </channel>
 </rss>

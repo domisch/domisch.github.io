@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Global freshwater biodiversity research</title>
+    <title>Dr. Longzhu Shen | Global freshwater biodiversity research</title>
     <link>/authors/longzhu-shen/</link>
-    <description>Recent content on Global freshwater biodiversity research</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Sami Domisch {year}</copyright>
-    
-	    <atom:link href="/authors/longzhu-shen/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/longzhu-shen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dr. Longzhu Shen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/authors/longzhu-shen/avatar_hue41fc83e430127747d9ecb8a1919c96a_28985_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Dr. Longzhu Shen</title>
+      <link>/authors/longzhu-shen/</link>
+    </image>
     
   </channel>
 </rss>

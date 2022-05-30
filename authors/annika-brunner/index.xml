@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Global freshwater biodiversity research</title>
+    <title>Annika Brunner | Global freshwater biodiversity research</title>
     <link>/authors/annika-brunner/</link>
-    <description>Recent content on Global freshwater biodiversity research</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Sami Domisch {year}</copyright>
-    
-	    <atom:link href="/authors/annika-brunner/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/annika-brunner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Annika Brunner</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/authors/annika-brunner/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Annika Brunner</title>
+      <link>/authors/annika-brunner/</link>
+    </image>
     
   </channel>
 </rss>

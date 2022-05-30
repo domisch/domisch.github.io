@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Global freshwater biodiversity research</title>
+    <title>Afroditi Grigoropoulou | Global freshwater biodiversity research</title>
     <link>/authors/afroditi-grigoropoulou/</link>
-    <description>Recent content on Global freshwater biodiversity research</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Sami Domisch {year}</copyright>
-    
-	    <atom:link href="/authors/afroditi-grigoropoulou/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/afroditi-grigoropoulou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Afroditi Grigoropoulou</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/authors/afroditi-grigoropoulou/avatar_hua82c9518859f91578f0943e72bb2d11a_88676_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Afroditi Grigoropoulou</title>
+      <link>/authors/afroditi-grigoropoulou/</link>
+    </image>
     
   </channel>
 </rss>

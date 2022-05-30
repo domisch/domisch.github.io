@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Global freshwater biodiversity research</title>
+    <title>Dr. Sami Domisch | Global freshwater biodiversity research</title>
     <link>/authors/admin/</link>
-    <description>Recent content on Global freshwater biodiversity research</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Sami Domisch {year}</copyright>
-    
-	    <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dr. Sami Domisch</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/authors/admin/avatar_hu07165238e7dcc72c98d15d70bd18f0fb_32119_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Dr. Sami Domisch</title>
+      <link>/authors/admin/</link>
+    </image>
     
   </channel>
 </rss>

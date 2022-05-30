@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P.A. Mvogo Ndongo | Global freshwater biodiversity research</title>
+    <link>/authors/p.a.-mvogo-ndongo/</link>
+      <atom:link href="/authors/p.a.-mvogo-ndongo/index.xml" rel="self" type="application/rss+xml" />
+    <description>P.A. Mvogo Ndongo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <title>P.A. Mvogo Ndongo</title>
+      <link>/authors/p.a.-mvogo-ndongo/</link>
+    </image>
+    
+    <item>
+      <title>A global agenda for advancing freshwater biodiversity research</title>
+      <link>/publication/2022_maasri_global_agenda/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022_maasri_global_agenda/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

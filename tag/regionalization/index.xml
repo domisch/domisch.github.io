@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regionalization | Global freshwater biodiversity research</title>
+    <link>/tag/regionalization/</link>
+      <atom:link href="/tag/regionalization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Regionalization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <title>Regionalization</title>
+      <link>/tag/regionalization/</link>
+    </image>
+    
+    <item>
+      <title>Freshwater habitat regionalization</title>
+      <link>/project/glowabio_habitats/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>/project/glowabio_habitats/</guid>
+      <description>&lt;p&gt;A first step towards global freshwater biodiversity assessments is a comprehensive quantification of the variety of habitat types. We aim to characterize the variety and distribution of global freshwater habitats at a high spatial resolution, to perfrom a regionalization analysis, and to provide environmental correlates of spatial biodiversity patterns.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Global freshwater biodiversity research</title>
+    <title>Maria Magdalena (Marlene) Üblacker | Global freshwater biodiversity research</title>
     <link>/authors/maria-ueblacker/</link>
-    <description>Recent content on Global freshwater biodiversity research</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Sami Domisch {year}</copyright>
-    
-	    <atom:link href="/authors/maria-ueblacker/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/maria-ueblacker/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maria Magdalena (Marlene) Üblacker</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/authors/maria-ueblacker/avatar_hubde9764a8ebee8f1a8438db3b6237cc0_20823_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Maria Magdalena (Marlene) Üblacker</title>
+      <link>/authors/maria-ueblacker/</link>
+    </image>
     
   </channel>
 </rss>

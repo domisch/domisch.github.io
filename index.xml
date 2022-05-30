@@ -3,127 +3,372 @@
   <channel>
     <title>Global freshwater biodiversity research</title>
     <link>/</link>
-    <description>Recent content on Global freshwater biodiversity research</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Sami Domisch {year}</copyright>
-    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Global freshwater biodiversity research</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <title>Global freshwater biodiversity research</title>
+      <link>/</link>
+    </image>
     
     <item>
       <title>Contact</title>
       <link>/contact/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0200</pubDate>
-      
+      <pubDate>Fri, 27 May 2022 00:00:00 +0200</pubDate>
       <guid>/contact/</guid>
-      <description>&lt;p&gt;We constantly seek possible collaborations regarding interesting projects, novel methods, data, and publications in spatial freshwater biodiversity science and beyond. Please do not hesitate to &lt;a href=&#34;mailto:domisch@igb-berlin.de?subject=%5Bglowabio%5D%20contact&#34;&gt;contact us&lt;/a&gt; to discuss further details.
-&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+      <description>&lt;p&gt;We constantly seek possible collaborations regarding interesting projects, novel methods, data, and publications in spatial freshwater biodiversity science and beyond. Please do not hesitate to &lt;a href=&#34;mailto:sami.domisch@igb-berlin.de?subject=[glowabio]%20contact&#34;&gt;contact us&lt;/a&gt; to discuss further details.
+&lt;br/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Join the group?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Are you interested in joining the group? We are looking for motivated candidates across the Master, PhD and Postdoc levels.
-If you are interested please &lt;a href=&#34;mailto:domisch@igb-berlin.de?subject=%5Bglowabio%5D%20contact&#34;&gt;drop us a line&lt;/a&gt; indicating your research interests &amp;amp; plans and we can discuss how to move things further and seek for possible funding opportunities.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+If you are interested please &lt;a href=&#34;mailto:sami.domisch@igb-berlin.de?subject=[glowabio]%20contact&#34;&gt;drop us a line&lt;/a&gt; indicating your research interests &amp;amp; plans and we can discuss how to move things further and seek for possible funding opportunities.&lt;/p&gt;
+&lt;br/&gt;
 &lt;p&gt;We use, beside R, largely open-source (command-line) GIS tools within the Linux environment that facilitate handling and analyzing large datasets (see also some of the tools &lt;a href=&#34;/data_code/open-source-gis&#34;&gt;here&lt;/a&gt;). We consider a good understanding, or alternatively, a great motivation to learn such tools &amp;amp; techniques as a prerequisite to join the group.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;br/&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;Contact information:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Dr. Sami Domisch&lt;br&gt;
 Leibniz Institute of Freshwater Ecology and Inland Fisheries&lt;br&gt;
-Department of Ecosystem Research&lt;br&gt;
+Department of Community and Ecosystem Ecology &lt;br/&gt;
 Justus-von-Liebig-Str. 7&lt;br&gt;
 D-12489 Berlin&lt;br&gt;
 Germany&lt;/p&gt;
-&lt;p&gt;E-mail: &lt;a href=&#34;mailto:domisch@igb-berlin.de&#34;&gt;domisch@igb-berlin.de&lt;/a&gt;&lt;br&gt;
+&lt;p&gt;E-mail: &lt;a href=&#34;mailto:sami.domisch@igb-berlin.de&#34;&gt;sami.domisch@igb-berlin.de&lt;/a&gt;&lt;br&gt;
 Phone: +49 (0) 30 6392 4079&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Research</title>
-      <link>/project/</link>
-      <pubDate>Thu, 17 Dec 2020 00:00:00 +0200</pubDate>
-      
-      <guid>/project/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/img/habitats.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;We are currently focusing on several topics:&lt;/p&gt;
+      <title>Example Talk</title>
+      <link>/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/project/glowabio_habitats&#34;&gt;Creating novel high-resolution freshwater ecoregions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/project/glowabio_biodiversity&#34;&gt;Analyzing spatial patterns in global freshwater biodiversity&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/project//glowabio_conservation&#34;&gt;Spatial conservation planning given habitat and biodiversity features&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;.. and are part of the following collaborations:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.largescaleecologylab.net/&#34;&gt;Global taxonomic, functional and phylogenetic diversity of stream macroinvertebrate communities&lt;/a&gt; - lead by Jani Heino&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://gepris.dfg.de/gepris/projekt/224580917?language=en&#34;&gt;Niche evolution of Tibetan-Himalayan Rhyacophilidae (Trichoptera)&lt;/a&gt; - lead by Steffen Pauls&lt;/li&gt;
-&lt;li&gt;Protecting the future of freshwater biodiversity and ecosystem services across Cuba - lead by Yusdiel Torres-Cambas&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;.. and larger research projects and networks:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ecorisk2050.eu/&#34;&gt;Environmental risk of chemicals in the future&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://allianceforfreshwaterlife.org/&#34;&gt;Alliance for Freshwater Life&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://geobon.org/bons/thematic-bon/freshwater-bon/&#34;&gt;Freshwater Biodiversity Observation Network&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ipcc.ch/report/sixth-assessment-report-working-group-ii/&#34;&gt;IPCC WGII Sixth Assessment Report&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Data &amp; Code</title>
-      <link>/data_code/</link>
-      <pubDate>Thu, 02 Jul 2020 00:00:00 +0200</pubDate>
-      
-      <guid>/data_code/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/img/code.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Here is a collection of code and tutorials for spatial analyses in freshwater ecosystems, and we will be gradually adding more:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/data_code/freshwater-variables&#34;&gt;Create freshwater-specific environmental variables&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/data_code/extract-variables&#34;&gt;How to move point records to a stream network and extract the values&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/data_code/open-source-gis&#34;&gt;A quick guide of using open-source GIS tools using the Linux command-line&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/data_code/bayesian-species-distribution-models&#34;&gt;Bayesian hierarchical species distribution models&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;If you have any questions or noticed any bugs in the code please &lt;a href=&#34;mailto:domisch@igb-berlin.de?subject=%5Bglowabio%5D%20Data%20%26%20code&#34;&gt;drop us a line&lt;/a&gt;.&lt;/p&gt;
+      <title>Biodiversity patterns</title>
+      <link>/project/glowabio_biodiversity/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>/project/glowabio_biodiversity/</guid>
+      <description>&lt;p&gt;Global biodiversity is declining rapidly worldwide, and among terrestrial, marine and freshwater ecosystems, freshwaters are particularly vulnerable. These fragmented ecosystems cover less than 1% of the Earth’s surface, yet they harbour approximately 10% of all described species.
+Aquatic insects contribute to freshwater diversity by approximately 60% as the largest and most diverse taxa group, and given this substantial proportion, aquatic insects may be considered as a proxy for freshwater biodiversity and ecological state of a given habitat.
+We will use latest methods in species distribution modelling and spatial biodiversity science to analyze diversity patterns of this taxa group across the globe.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;Some more useful tools and websites:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://geocompr.robinlovelace.net/&#34;&gt;Geocomputation with R&lt;/a&gt; by Robin Lovelace, Jakub Nowosad, Jannes Muenchow&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rspatial.org/&#34;&gt;Spatial Data Science with R&lt;/a&gt; by Robert J. Hijmans&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cran.r-project.org/web/packages/dismo/vignettes/sdm.pdf&#34;&gt;Species distribution modeling in R&lt;/a&gt; using the &lt;a href=&#34;https://cran.r-project.org/web/packages/dismo/&#34;&gt;dismo&lt;/a&gt; R-package (maintained by Robert J. Hijmans, Steven Phillips, John Leathwick and Jane Elith)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.amnh.org/content/download/141368/2285424/file/LinC3_SpeciesDistModeling.pdf&#34;&gt;Species’ Distribution Modeling for Conservation Educators and Practitioners&lt;/a&gt; by Richard G. Pearson&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://spatial-ecology.net/&#34;&gt;Spatial-Ecology&lt;/a&gt; providing training in open-source software for geospatial data processing&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cran.r-project.org/web/packages/SSN/index.html&#34;&gt;Spatial Modeling on Stream Networks (SSN)&lt;/a&gt; by Jay Ver Hoef and Erin Peterson&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cran.r-project.org/web/packages/openSTARS/index.html&#34;&gt;openSTARS&lt;/a&gt;: the open-source version for preparing the data for the SSN-package by Mira Kattwinkel&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;TEST&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;img src=&#34;https://global-surface-water.appspot.com/gsw/images/water-occurrence-map.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;We have collated, together with nearly 100 co-authors, a global database of Ephemeroptera, Plecoptera, Trichoptera and Odatanata (EPTO) occurrences comprising more than 8 million records. The data can be downloaded &lt;a href=&#34;https://fred.igb-berlin.de/data/package/725&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and visualized &lt;a href=&#34;https://geo.igb-berlin.de/maps/562/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://geo.igb-berlin.de/maps/562/view&#34; min-width : 900px ; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;EPTO database&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;p&gt;Below we show a summary of the database: the number of observation records (a) and genera (b) for all orders, aggregated in a 10 km regular grid.  Number of observation records (c) and genera (d) for all orders per drainage basin. Number of observation records (e) and genera (f) per drainage basin for each order individually.
+E: Ephemeroptera, P: Plecoptera, T: Trichoptera, O: Odonata. White and grey areas lack information.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&amp;amp;ldquo;Fig. 1&amp;amp;rdquo;&#34; srcset=&#34;
+               /media/EPTO_Fig1_huba033007e31876f418732d2706fb7bc1_547895_de5cbe0d3c75243b5de60c33e3bb1a5a.webp 400w,
+               /media/EPTO_Fig1_huba033007e31876f418732d2706fb7bc1_547895_71d63037faa7ea8cb82331c729397562.webp 760w,
+               /media/EPTO_Fig1_huba033007e31876f418732d2706fb7bc1_547895_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/media/EPTO_Fig1_huba033007e31876f418732d2706fb7bc1_547895_de5cbe0d3c75243b5de60c33e3bb1a5a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;614&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Global freshwater biodiversity, biogeography &amp; conservation (GLOWABIO)</title>
-      <link>/post/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/post/</guid>
-      <description>&lt;p&gt;Global biodiversity is declining across ecosystems, and freshwater organisms and habitats are among the most threatened. While finding appropriate countermeasures, a key challenge is first to gain a comprehensive picture of the current status of freshwater biodiversity. Compared to the terrestrial and marine realms, freshwater biodiversity remains understudied in terms of its ecological significance and distinctiveness, resulting in a lack of effective conservation at regional to global scales.&lt;/p&gt;
-&lt;p&gt;The Leibniz Junior Research Group aims to fill this gap by applying cutting-edge global geospatial analyses focusing on: (i) a new habitat type delineation using a newly developed, global hydrography at very high spatial resolution (90m); (ii) state-of-the-art Bayesian models to map freshwater biodiversity based on an extensive global dataset compiled over the past years on the occurrence of aquatic insects, the most diverse freshwater animal group; and (iii) applying novel systematic conservation network analyses to highlight potential gaps in the protection of underrepresented habitat types and taxa across national boundaries. The combined application of these core elements at the global scale, yet at high spatial resolution, will allow ground-breaking, standardised and comparative analyses in spatial freshwater biodiversity science. Importantly, uncertainties inherent in the data and analyses will be quantified to ensure transparency and robustness of the results.&lt;/p&gt;
-&lt;p&gt;Key aspects in terms of feasibility and an open science strategy are: (i) all required data are already available, (ii) all analyses will be performed by using open-source geospatial tools, and (iii) all data layers and codes will be stored in public repositories to enable follow-up analyses by others. The project will promote national and international synergies, and inform global initiatives such as IPBES, Future Earth, and Freshwater-BON, to improve our understanding of the current status of freshwater biodiversity.&lt;/p&gt;
-&lt;p&gt;The Leibniz Junior Research Group is co-funded by the Leibniz Institute of Freshwater Ecology and Inland Fisheries in Berlin, Germany.&lt;/p&gt;
+      <title>Freshwater habitat regionalization</title>
+      <link>/project/glowabio_habitats/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>/project/glowabio_habitats/</guid>
+      <description>&lt;p&gt;A first step towards global freshwater biodiversity assessments is a comprehensive quantification of the variety of habitat types. We aim to characterize the variety and distribution of global freshwater habitats at a high spatial resolution, to perfrom a regionalization analysis, and to provide environmental correlates of spatial biodiversity patterns.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>High-resolution hydrography</title>
+      <link>/project/glowabio_hydrography/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>/project/glowabio_hydrography/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Hydography90m&lt;/strong&gt; dataset&lt;/p&gt;
+&lt;p&gt;We used the MERIT Hydro Digital Elevation Model at 3 arc-sec (∼90 m at the equator) to derive a globally seamless, standardised hydrographic network, the &amp;ldquo;Hydrography90m&amp;rdquo;, with corresponding stream topographic and topologicalinformation. A central feature of the network is the minimal upstream contributing area, i.e. flow accumulation,of 0.05 km2 (or 5 ha) to initiate a stream channel, which allowed us to extract headwater stream channels ingreat detail. By employing a suite of GRASS GIS hydrological modules, we calculated the range-wide upstreamflow accumulation and flow direction to delineate a total of 1.6 million drainage basins, and extracted globallya total of 726 million unique stream segments with their corresponding sub-catchments. In addition, we computed stream topographic variables comprising stream slope, gradient, length, and curvature attributes, as wellas stream topological variables to allow for network routing and various stream order classifications. We validated the spatial accuracy and flow accumulation of Hydrography90m against NHDPlus HR, an independent,national high-resolution hydrographic network dataset of the United States. Our validation shows that the newly developed Hydrography90m has the highest spatial precision, and contains more headwater stream channels compared to three other global hydrographic datasets. This inclusive approach provides a vital, and long-overdue baseline for assessing actual streamflow in headwaters, and opens new research avenues for high-resolution studies of surface water worldwide. Hydrography90m thus offers significant potential to facilitate the assessment offreshwater quantity and quality, inundation risk, biodiversity and conservation, as well as resource managementobjectives in a globally comprehensive and standardised manner. We provide all the computed layers for visualisation and download in 20° × 20° tiles.&lt;/p&gt;
+&lt;p&gt;Check out the pre-print at &lt;a href=&#34;https://essd.copernicus.org/preprints/essd-2022-9/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Earth System Science Data&lt;/em&gt;&lt;/a&gt;. The data can be downloaded &lt;a href=&#34;https://public.igb-berlin.de/index.php/s/agciopgzXjWswF4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and visualized &lt;a href=&#34;https://essd.copernicus.org/preprints/essd-2022-9/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://geo.igb-berlin.de/maps/351/view&#34; min-width : 900px ; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;Hydrography90m&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spatial conservation planning</title>
+      <link>/project/glowabio_conservation/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>/project/glowabio_conservation/</guid>
+      <description>&lt;p&gt;Current freshwater conservation efforts fall short in effectively protecting freshwater biodiversity. Acknowledging the challenge in freshwater conservation management, further assessments are needed regarding the efficiency of conservation planning. We aim to analyze global, systematic conservation planning networks given the key features habitat and biodiversity to (i) highlight areas of irreplaceability within freshwater ecosystems, and (ii) to compare the effectiveness of present-day conservation efforts vs. alternative, prioritized freshwater conservation planning solutions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Freshwater-specific environmental variables</title>
+      <link>/data_code/freshwater-variables/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0200</pubDate>
+      <guid>/data_code/freshwater-variables/</guid>
+      <description>&lt;p&gt;This tutorial shows you how to calculate stream-specific freshwater variables by relating the upstream e.g. land cover to any given downstream location using the GRASS GIS add-ons &lt;em&gt;r.stream.watersheds&lt;/em&gt; &amp;amp; &lt;em&gt;r.stream.variables&lt;/em&gt;. The original 1km data and publication are available &lt;a href=&#34;http://www.earthenv.org/streams&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; - see also the original code from &lt;a href=&#34;http://spatial-ecology.net/dokuwiki/doku.php?id=wiki:grassrivarvariable&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;spatial-ecology.net&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.earthenv.org/streams&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
 
 
 
 
 
 
-&lt;figure&gt;
-
-&lt;img src=&#34;/img/about_logos.png&#34; alt=&#34;GLOWABIO logos&#34; width=&#34;80%&#34; &gt;
 
 
-&lt;/figure&gt;
 
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Add-on animation&#34;
+           src=&#34;/media/Add-ons_for_GRASS_GIS.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This example contains the following steps:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Download an exemplary digital elevation model (DEM)&lt;/li&gt;
+&lt;li&gt;Extract the stream network from the DEM&lt;/li&gt;
+&lt;li&gt;Delineate major drainage basins&lt;/li&gt;
+&lt;li&gt;Crop data to a sub-basin&lt;/li&gt;
+&lt;li&gt;Calculate the sub-watersheds for each stream grid cell (&lt;em&gt;r.stream.watersheds&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Calculate contiguous stream-specific variables (&lt;em&gt;r.stream.variables&lt;/em&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The add-ons have been tested in the Linux environment. Microsoft Windows users: consider installing the OSGEO-Live Virtual machine that has GRASS GIS 7 already installed and is ready to use. Alternatively you can run the add-ons via QGIS.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;br/&gt;
+&lt;p&gt;Create and enter the folder where the data will be stored:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;export INDIR=$HOME/grass_hydro
+mkdir $INDIR 
+cd $INDIR
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Download the script&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;cd ~
+wget &amp;#34;http://www.spatial-ecology.net/ost4sem/exercise/basic_adv_grass/stream_variables.sh&amp;#34;
+rstudio stream_variables.sh &amp;amp;
+&lt;/code&gt;&lt;/pre&gt;&lt;br/&gt;
+&lt;p&gt;Download and unzip a DEM from &lt;a href=&#34;http://www.worldclim.org/tiles.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WorldClim&lt;/a&gt;:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;wget -O  $INDIR/alt_16_tif.zip  &amp;#34;http://biogeo.ucdavis.edu/data/climate/worldclim/1_4/tiles/cur/alt_16_tif.zip&amp;#34;
+unzip  -o $INDIR/alt_16_tif.zip  -d  $INDIR/dem
+gdalinfo $INDIR/dem/alt_16.tif        # check data
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;If needed, first install the latest GRASS GIS version:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo add-apt-repository ppa:ubuntugis/ubuntugis-unstable
+sudo add-apt-repository ppa:grass/grass-devel
+sudo apt-get update
+sudo apt-get install grass grass-gui grass-dev subversion gdal-bin libgdal-grass libalgorithms1 libbase1 libgdal-dev
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Create the GRASS GIS data base and enter GRASS:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;grass78  -text -c $INDIR/dem/alt_16.tif  $INDIR/grass_location
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Read data into GRASS:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.in.gdal input=$INDIR/dem/alt_16.tif    output=elevation
+r.info elevation # check data
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Open GUI and visualize the layers:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;g.gui wxpython
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Run hydrological conditioning:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;g.extension  extension=r.hydrodem # download extension
+# if you get an error run: sudo apt install grass-dev subversion
+r.hydrodem  input=elevation  output=elevation_cond
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Extract drainage direction and stream network&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.watershed  --h  # see help regarding the options and flags
+r.watershed  elevation=elevation_cond  drainage=drainage   stream=stream  accumulation=accumulation  threshold=100  --o
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Get drainage basins (last downstream segment: -l flag)&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;g.extension  extension=r.stream.basins
+r.stream.basins  direction=drainage  stream_rast=stream  basins=basins_last  -l  --o
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Categorize the single basins:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.clump -d input=basins_last  output=basins_cat  --o
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Extract the data for one basin:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.mapcalc &amp;#34;drainage_sub = if (basins_cat==798, drainage, null() ) &amp;#34;  --o
+r.mapcalc &amp;#34;stream_sub = if (basins_cat==798, stream, null() ) &amp;#34;  --o
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Write files to disk:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.out.gdal  input=drainage_sub   output=$INDIR/drainage_sub.tif  type=Int32  nodata=-9999  --o  -c    createopt=&amp;#34;COMPRESS=LZW,ZLEVEL=9&amp;#34;
+r.out.gdal  input=stream_sub     output=$INDIR/stream_sub.tif    type=Int32  nodata=-9999  --o  -c    createopt=&amp;#34;COMPRESS=LZW,ZLEVEL=9&amp;#34;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;Create stream-specific variables, and limit the calculation only to a single basin.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Download and install the GRASS add-ons. Work-around (December 2019) for grass78:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;mkdir $HOME/.grass7/addons/scripts
+wget -O $HOME/.grass7/addons/scripts/r.stream.watersheds &amp;#34;https://raw.githubusercontent.com/domisch/grass-addons/master/r.stream.watersheds&amp;#34;
+chmod 777  $HOME/.grass7/addons/scripts/r.stream.watersheds
+
+wget -O $HOME/.grass7/addons/scripts/r.stream.variables &amp;#34;https://raw.githubusercontent.com/domisch/grass-addons/master/r.stream.variables&amp;#34;
+chmod 777  $HOME/.grass7/addons/scripts/r.stream.variables
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Add-on 1: Calculate the sub-watershed and sub-stream sections for each stream grid cell using 2 processors:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.stream.watersheds stream=stream_sub  drainage=drainage_sub  cpu=2
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Add-on 2: Create stream-specific variables based on elevation&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.stream.variables  variable=elevation  output=cells,min,max,range,mean,stddev,coeff_var,sum  area=watershed  scale=1  cpu=2
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Rename the “elevation_cells” to “flow_accumulation” and check variables:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.mapcalc &amp;#34;flow_accummulation = elevation_cells&amp;#34;  --o
+r.info  flow_accummulation
+r.info  elevation_range
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Get stream length (similar procedure as above):&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.stream.variables  variable=elevation  output=cells  area=stream  scale=1  cpu=2
+r.mapcalc &amp;#34;stream_length = elevation_cells&amp;#34;  --o
+r.info  stream_length 
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Calculate the amount of rainfall within the basin:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;wget -O  $INDIR/prec_16_tif.zip  &amp;#34;http://biogeo.ucdavis.edu/data/climate/worldclim/1_4/tiles/cur/prec_16_tif.zip&amp;#34;
+unzip -q  -o $INDIR/prec_16_tif.zip  -d  $INDIR/prec
+r.in.gdal input=$INDIR/prec/prec6_16.tif   output=prec6   # rainfall in June
+r.stream.variables  variable=prec6  output=sum  area=watershed  scale=1  cpu=2
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Run all 12 months in a loop:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;for var in $(seq 1 12); do
+r.in.gdal input=$INDIR/prec/prec${var}_16.tif   output=prec$var
+r.stream.variables  variable=prec$var  output=sum  area=watershed  scale=1  cpu=2
+done
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Other useful add-ons for hydrological applications: &lt;a href=&#34;http://grasswiki.osgeo.org/wiki/Hydrological_Sciences&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://grasswiki.osgeo.org/wiki/Hydrological_Sciences&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Other examples&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Get the stream order:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.stream.order  stream_rast=stream   direction=drainage   strahler=str_order  --o
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Get only streams and basins &amp;gt;=3rd order&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.mapcalc &amp;#34;str_order_3rd = if(str_order &amp;gt;=3, str_order, null() ) &amp;#34;  --o
+r.stream.basins  direction=drainage  stream_rast=str_order_3rd  basins=basins_3rd_last   -l  --o
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Stream distance - Calculates distance to and elevation above streams and outlet&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;g.extension extension=r.stream.distance
+r.stream.distance   stream_rast=stream   direction=drainage   elevation=elevation_cond  method=downstream   distance=str_distance    difference=str_elevation_diff  --o
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Stream order statistics - Calculates Horton&amp;rsquo;s statistics for Strahler and Horton ordered networks created with r.stream.order Print only order statistics:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;g.extension extension=r.stream.stats
+r.stream.stats  stream_rast=stream   direction=drainage   elevation=elevation_cond  output=str_stats_o.txt    --o   
+more $INDIR/str_stats_o.txt
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Print only catchment statistics:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.stream.stats  stream_rast=stream   direction=drainage   elevation=elevation_cond  output=str_stats_c.txt    -c 
+more $INDIR/str_stats_c.txt
+&lt;/code&gt;&lt;/pre&gt;&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;See also these useful GRASS-GIS commands for hydrological applications:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://grass.osgeo.org/grass78/manuals/topic_hydrology.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://grass.osgeo.org/grass78/manuals/topic_hydrology.html&lt;/a&gt;
+&lt;a href=&#34;https://grasswiki.osgeo.org/wiki/R.stream&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://grasswiki.osgeo.org/wiki/R.stream&lt;/a&gt;.*_modules &lt;br/&gt;
+&lt;a href=&#34;https://grasswiki.osgeo.org/wiki/Hydrological_Sciences&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://grasswiki.osgeo.org/wiki/Hydrological_Sciences&lt;/a&gt;&lt;/p&gt;
+&lt;br/&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bayesian species distribution models</title>
+      <link>/data_code/bayesian-species-distribution-models/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0200</pubDate>
+      <guid>/data_code/bayesian-species-distribution-models/</guid>
+      <description>&lt;p&gt;Here is a tutorial of running a &lt;a href=&#34;https://github.com/domisch/species_distribution_models&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;species distribution model in a Bayesian framework&lt;/a&gt; using the hSDM package in R, using a rangemap as a covariate. See also the associated paper in &lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1111/ecog.01925/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ecography&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/domisch/species_distribution_models&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Bayesian SDMs&#34; srcset=&#34;
+               /media/bayesian_SDMs_hu65c47ba3bb45951a0fd7155bf8b2839f_200795_4e5a97927a726dac4958bc9feefd1902.webp 400w,
+               /media/bayesian_SDMs_hu65c47ba3bb45951a0fd7155bf8b2839f_200795_1c017a60436019d793eea9fe6f95bdbe.webp 760w,
+               /media/bayesian_SDMs_hu65c47ba3bb45951a0fd7155bf8b2839f_200795_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/media/bayesian_SDMs_hu65c47ba3bb45951a0fd7155bf8b2839f_200795_4e5a97927a726dac4958bc9feefd1902.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;417&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A global agenda for advancing freshwater biodiversity research</title>
+      <link>/publication/2022_maasri_global_agenda/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022_maasri_global_agenda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extract raster values</title>
+      <link>/data_code/extract-variables/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0200</pubDate>
+      <guid>/data_code/extract-variables/</guid>
+      <description>&lt;p&gt;Here are some useful commands to move point records to a stream network and to extract the values for each point. The code is maintained on GitHub at  &lt;a href=&#34;https://github.com/domisch/stream_layers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/domisch/stream_layers&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open-source GIS</title>
+      <link>/data_code/open-source-gis/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0200</pubDate>
+      <guid>/data_code/open-source-gis/</guid>
+      <description>&lt;p&gt;Here is a &lt;a href=&#34;https://github.com/domisch/GIS_tools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;collection of open-source GIS tools, using the Linux command line&lt;/a&gt;. The code is maintained at GitHub and includes GDAL/OGR, GRASS, pktools, OpenForis, awk and R.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/domisch/GIS_tools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&amp;amp;ldquo;Open-source logos&#34; srcset=&#34;
+               /media/open_source_hucdbbdb3d688cfa4ae7428dcc0605f13d_183349_1bde270aa5b6b5971c989fcc9840e72c.webp 400w,
+               /media/open_source_hucdbbdb3d688cfa4ae7428dcc0605f13d_183349_d9f57ca9b54d31d19d3f04f81d1da8eb.webp 760w,
+               /media/open_source_hucdbbdb3d688cfa4ae7428dcc0605f13d_183349_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/media/open_source_hucdbbdb3d688cfa4ae7428dcc0605f13d_183349_1bde270aa5b6b5971c989fcc9840e72c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;349&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -131,21 +376,20 @@ Phone: +49 (0) 30 6392 4079&lt;/p&gt;
       <title>Privacy policy and legal notes</title>
       <link>/privacy/</link>
       <pubDate>Thu, 02 Aug 2018 00:00:00 +0200</pubDate>
-      
       <guid>/privacy/</guid>
       <description>&lt;p&gt;Effective date: August 02, 2019&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;br/&gt;
 &lt;p&gt;This site provides information regarding the Privacy Policy and Legal Notes in compliance with § 6 TDG (&amp;ldquo;Telemediengesetz&amp;rdquo;).&lt;/p&gt;
-&lt;p&gt;The Leibniz Junior Research Group (Leibniz Competition grant number J45/2018), also named &amp;ldquo;us&amp;rdquo;, &amp;ldquo;we&amp;rdquo;, or &amp;ldquo;our&amp;rdquo; in this Privacy Policy, operates the &lt;a href=&#34;https://glowabio.org&#34;&gt;https://glowabio.org&lt;/a&gt; website.&lt;/p&gt;
+&lt;p&gt;The Leibniz Junior Research Group (Leibniz Competition grant number J45/2018), also named &amp;ldquo;us&amp;rdquo;, &amp;ldquo;we&amp;rdquo;, or &amp;ldquo;our&amp;rdquo; in this Privacy Policy, operates the &lt;a href=&#34;https://glowabio.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://glowabio.org&lt;/a&gt; website.&lt;/p&gt;
 &lt;p&gt;We want to inform you of our policies regarding the use of personal data when you visit our website and the choices you have associated with that data. All data on this website are processed based on the current laws and regulations (General Data Protection Regulation; GDPR).&lt;/p&gt;
 &lt;p&gt;By using the website, you agree to the collection and use of information in accordance with this policy.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Information collection and use&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;We do not employ cookies or collect any personal information of visitors, and we do not have access to the IP addresses or other server logfiles of visitors. We note, however, that GitHub Pages, i.e. the hosting service of our site with its headquarter in San Francisco, California, USA, may collect information about visitors. This information is however not managed by us, nor can it be accessed by us. Please see the &lt;a href=&#34;https://help.github.com/en/articles/github-privacy-statement&#34;&gt;GitHub Privacy Statement&lt;/a&gt; for more information.&lt;/p&gt;
+&lt;p&gt;We do not employ cookies or collect any personal information of visitors, and we do not have access to the IP addresses or other server logfiles of visitors. We note, however, that GitHub Pages, i.e. the hosting service of our site with its headquarter in San Francisco, California, USA, may collect information about visitors. This information is however not managed by us, nor can it be accessed by us. Please see the &lt;a href=&#34;https://help.github.com/en/articles/github-privacy-statement&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Privacy Statement&lt;/a&gt; for more information.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Links To Other Sites&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Our website may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party&amp;rsquo;s site. We strongly advise you to review the Privacy Policy of every site you visit. We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Copyright&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This website contains links to material protected by copyright, trademark, and other proprietary rights and laws. By using our website, you acknowledge that the content and information – including but not limited to – texts, sounds, photographs, videos, graphics or other material, contained in this website, may be protected by copyrights, trademarks, service marks, patents or other proprietary rights and laws. Material and/or links on this website do not constitute legal advice, political advice, and/or other advice. Permission is granted to use materials contained on this website, in part or in full, for personal and educational purposes, but not commercial purposes, provided that you keep all copyright and other proprietary notices intact and provided that full credit is given to our website and the respective copyright, trademark, or other proprietary rights holder. You may not modify, copy, reproduce, republish, upload, post, transmit, or distribute in any way content available through this website, with the exception of public documents such as treaties and conventions.&lt;/p&gt;
-&lt;p&gt;Website favicon by George Star, licensed by the &lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Website favicon by George Star, licensed by the &lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Possible errors&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;While we strive for accuracy, we make no guarantees, warranties and / or other representations about the suitability, reliability, availability, timeliness, or accuracy of this website for any purpose. The website and information contained here are provided &amp;ldquo;as is&amp;rdquo; without warranty of any kind. We do not represent or warrant that this website will be uninterrupted or error-free, that defects will be corrected, or that the webpages or the server that makes it available, are free of viruses or other harmful components. Changes and / or improvements may be made to this website at any time.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Changes to this Privacy Policy and the Legal Notes&lt;/strong&gt;&lt;/p&gt;
@@ -166,40 +410,19 @@ Phone: +49 (0) 30 6392 4079&lt;/p&gt;
     </item>
     
     <item>
-      <title>Authors</title>
-      <link>/authors/</link>
-      <pubDate>Wed, 05 Sep 2012 00:00:00 +0200</pubDate>
-      
-      <guid>/authors/</guid>
+      <title></title>
+      <link>/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/admin/config.yml</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Maps &amp; predictions</title>
-      <link>/maps/</link>
+      <title></title>
+      <link>/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/maps/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/img/stream_network.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;We provide some interactive maps for browsing and will gradually add more:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/maps/hydrography90m&#34;&gt;Global high-resolution hydrographic layers at 90m resolution&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/maps/geomorpho90m&#34;&gt;Globally standardized geomorphometry variables at 90m resolution&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/maps/1km_variables&#34;&gt;Freshwater-specific environmental variables at 1km resolution&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/maps/sdm_test_data&#34;&gt;Test data set for freshwater modelling&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>/publication/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/</guid>
-      <description>&lt;p&gt;Most publications are available as a pdf. If you do not have access to a specific publication please &lt;a href=&#34;mailto:domisch@igb-berlin.de?subject=%5Bglowabio%5D%20Paper%20request&#34;&gt;email us&lt;/a&gt; with the reference and we will send you a copy.
-&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-</description>
+      <guid>/people/</guid>
+      <description></description>
     </item>
     
   </channel>
