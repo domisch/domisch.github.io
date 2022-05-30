@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Global freshwater biodiversity research</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>Global freshwater biodiversity research</title>
@@ -35,26 +35,6 @@ D-12489 Berlin&lt;br&gt;
 Germany&lt;/p&gt;
 &lt;p&gt;E-mail: &lt;a href=&#34;mailto:sami.domisch@igb-berlin.de&#34;&gt;sami.domisch@igb-berlin.de&lt;/a&gt;&lt;br&gt;
 Phone: +49 (0) 30 6392 4079&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Example Talk</title>
-      <link>/talk/example-talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>/talk/example-talk/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
 </description>
     </item>
     
@@ -93,10 +73,10 @@ E: Ephemeroptera, P: Plecoptera, T: Trichoptera, O: Odonata. White and grey area
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&amp;amp;ldquo;Fig. 1&amp;amp;rdquo;&#34; srcset=&#34;
-               /media/EPTO_Fig1_huba033007e31876f418732d2706fb7bc1_547895_de5cbe0d3c75243b5de60c33e3bb1a5a.webp 400w,
+               /media/EPTO_Fig1_huba033007e31876f418732d2706fb7bc1_547895_c570cb9dbb573960502fce77447d1d8f.webp 400w,
                /media/EPTO_Fig1_huba033007e31876f418732d2706fb7bc1_547895_71d63037faa7ea8cb82331c729397562.webp 760w,
                /media/EPTO_Fig1_huba033007e31876f418732d2706fb7bc1_547895_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;/media/EPTO_Fig1_huba033007e31876f418732d2706fb7bc1_547895_de5cbe0d3c75243b5de60c33e3bb1a5a.webp&#34;
+               src=&#34;/media/EPTO_Fig1_huba033007e31876f418732d2706fb7bc1_547895_c570cb9dbb573960502fce77447d1d8f.webp&#34;
                width=&#34;760&#34;
                height=&#34;614&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -316,10 +296,10 @@ more $INDIR/str_stats_c.txt
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Bayesian SDMs&#34; srcset=&#34;
-               /media/bayesian_SDMs_hu65c47ba3bb45951a0fd7155bf8b2839f_200795_4e5a97927a726dac4958bc9feefd1902.webp 400w,
+               /media/bayesian_SDMs_hu65c47ba3bb45951a0fd7155bf8b2839f_200795_80fe2eecde982381cbd5671fd0b84886.webp 400w,
                /media/bayesian_SDMs_hu65c47ba3bb45951a0fd7155bf8b2839f_200795_1c017a60436019d793eea9fe6f95bdbe.webp 760w,
                /media/bayesian_SDMs_hu65c47ba3bb45951a0fd7155bf8b2839f_200795_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;/media/bayesian_SDMs_hu65c47ba3bb45951a0fd7155bf8b2839f_200795_4e5a97927a726dac4958bc9feefd1902.webp&#34;
+               src=&#34;/media/bayesian_SDMs_hu65c47ba3bb45951a0fd7155bf8b2839f_200795_80fe2eecde982381cbd5671fd0b84886.webp&#34;
                width=&#34;760&#34;
                height=&#34;417&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -370,10 +350,10 @@ more $INDIR/str_stats_c.txt
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&amp;amp;ldquo;Open-source logos&#34; srcset=&#34;
-               /media/open_source_hucdbbdb3d688cfa4ae7428dcc0605f13d_183349_1bde270aa5b6b5971c989fcc9840e72c.webp 400w,
+               /media/open_source_hucdbbdb3d688cfa4ae7428dcc0605f13d_183349_4cf8d6a2e1ef561a906979991545f70c.webp 400w,
                /media/open_source_hucdbbdb3d688cfa4ae7428dcc0605f13d_183349_d9f57ca9b54d31d19d3f04f81d1da8eb.webp 760w,
                /media/open_source_hucdbbdb3d688cfa4ae7428dcc0605f13d_183349_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;/media/open_source_hucdbbdb3d688cfa4ae7428dcc0605f13d_183349_1bde270aa5b6b5971c989fcc9840e72c.webp&#34;
+               src=&#34;/media/open_source_hucdbbdb3d688cfa4ae7428dcc0605f13d_183349_4cf8d6a2e1ef561a906979991545f70c.webp&#34;
                width=&#34;760&#34;
                height=&#34;349&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -421,9 +401,9 @@ Phone: +49 (0) 30 6392 4079&lt;/p&gt;
     
     <item>
       <title>Choice of study area and predictors affect habitat suitability projections, but not the performance of species distribution models of stream biota</title>
-      <link>/publication/2012_domisch_choice_of_study_area/</link>
+      <link>/publication/2013_domisch_choice_of_study_area/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/2012_domisch_choice_of_study_area/</guid>
+      <guid>/publication/2013_domisch_choice_of_study_area/</guid>
       <description>&lt;p&gt;+++
 title = &amp;ldquo;Choice of study area and predictors affect habitat suitability projections, but not the performance of species distribution models of stream biota&amp;rdquo;
 date = &amp;ldquo;2013-05-01&amp;rdquo;

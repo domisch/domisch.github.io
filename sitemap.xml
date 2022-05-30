@@ -6,12 +6,6 @@
   <url>
     <loc>/contact/</loc><lastmod>2022-05-27T00:00:00+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>/authors/afroditi-grigoropoulou/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/authors/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -47,6 +41,8 @@
     <loc>/project/glowabio_habitats/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/tag/geo-informatics/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/tag/gurobi/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -292,7 +288,7 @@
   <url>
     <loc>/privacy/</loc><lastmod>2018-08-02T00:00:00+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/2012_domisch_choice_of_study_area/</loc><lastmod>2013-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/publication/2013_domisch_choice_of_study_area/</loc><lastmod>2013-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/authors/c.-nowak/</loc><lastmod>2012-11-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
