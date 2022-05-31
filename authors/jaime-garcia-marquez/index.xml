@@ -47,10 +47,10 @@ E: Ephemeroptera, P: Plecoptera, T: Trichoptera, O: Odonata. White and grey area
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&amp;amp;ldquo;Fig. 1&amp;amp;rdquo;&#34; srcset=&#34;
-               /media/EPTO_Fig1_huba033007e31876f418732d2706fb7bc1_547895_c570cb9dbb573960502fce77447d1d8f.webp 400w,
+               /media/EPTO_Fig1_huba033007e31876f418732d2706fb7bc1_547895_de5cbe0d3c75243b5de60c33e3bb1a5a.webp 400w,
                /media/EPTO_Fig1_huba033007e31876f418732d2706fb7bc1_547895_71d63037faa7ea8cb82331c729397562.webp 760w,
                /media/EPTO_Fig1_huba033007e31876f418732d2706fb7bc1_547895_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;/media/EPTO_Fig1_huba033007e31876f418732d2706fb7bc1_547895_c570cb9dbb573960502fce77447d1d8f.webp&#34;
+               src=&#34;/media/EPTO_Fig1_huba033007e31876f418732d2706fb7bc1_547895_de5cbe0d3c75243b5de60c33e3bb1a5a.webp&#34;
                width=&#34;760&#34;
                height=&#34;614&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -69,13 +69,13 @@ E: Ephemeroptera, P: Plecoptera, T: Trichoptera, O: Odonata. White and grey area
     </item>
     
     <item>
-      <title>High-resolution hydrography</title>
-      <link>/project/glowabio_hydrography/</link>
+      <title>Hydrography90m</title>
+      <link>/project/hydrography90m/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>/project/glowabio_hydrography/</guid>
+      <guid>/project/hydrography90m/</guid>
       <description>&lt;p&gt;The &lt;strong&gt;Hydography90m&lt;/strong&gt; dataset&lt;/p&gt;
 &lt;p&gt;We used the MERIT Hydro Digital Elevation Model at 3 arc-sec (∼90 m at the equator) to derive a globally seamless, standardised hydrographic network, the &amp;ldquo;Hydrography90m&amp;rdquo;, with corresponding stream topographic and topologicalinformation. A central feature of the network is the minimal upstream contributing area, i.e. flow accumulation,of 0.05 km2 (or 5 ha) to initiate a stream channel, which allowed us to extract headwater stream channels ingreat detail. By employing a suite of GRASS GIS hydrological modules, we calculated the range-wide upstreamflow accumulation and flow direction to delineate a total of 1.6 million drainage basins, and extracted globallya total of 726 million unique stream segments with their corresponding sub-catchments. In addition, we computed stream topographic variables comprising stream slope, gradient, length, and curvature attributes, as wellas stream topological variables to allow for network routing and various stream order classifications. We validated the spatial accuracy and flow accumulation of Hydrography90m against NHDPlus HR, an independent,national high-resolution hydrographic network dataset of the United States. Our validation shows that the newly developed Hydrography90m has the highest spatial precision, and contains more headwater stream channels compared to three other global hydrographic datasets. This inclusive approach provides a vital, and long-overdue baseline for assessing actual streamflow in headwaters, and opens new research avenues for high-resolution studies of surface water worldwide. Hydrography90m thus offers significant potential to facilitate the assessment offreshwater quantity and quality, inundation risk, biodiversity and conservation, as well as resource managementobjectives in a globally comprehensive and standardised manner. We provide all the computed layers for visualisation and download in 20° × 20° tiles.&lt;/p&gt;
-&lt;p&gt;Check out the pre-print at &lt;a href=&#34;https://essd.copernicus.org/preprints/essd-2022-9/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Earth System Science Data&lt;/em&gt;&lt;/a&gt;. The data can be downloaded &lt;a href=&#34;https://public.igb-berlin.de/index.php/s/agciopgzXjWswF4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and visualized &lt;a href=&#34;https://essd.copernicus.org/preprints/essd-2022-9/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Check out the pre-print at &lt;a href=&#34;https://essd.copernicus.org/preprints/essd-2022-9/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Earth System Science Data&lt;/em&gt;&lt;/a&gt;. The data can be downloaded &lt;a href=&#34;https://public.igb-berlin.de/index.php/s/agciopgzXjWswF4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and visualized &lt;a href=&#34;https://geo.igb-berlin.de/maps/351/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;hr&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://geo.igb-berlin.de/maps/351/view&#34; min-width : 900px ; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;Hydrography90m&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;

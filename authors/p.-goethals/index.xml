@@ -5,12 +5,20 @@
     <link>/authors/p.-goethals/</link>
       <atom:link href="/authors/p.-goethals/index.xml" rel="self" type="application/rss+xml" />
     <description>P. Goethals</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>P. Goethals</title>
       <link>/authors/p.-goethals/</link>
     </image>
+    
+    <item>
+      <title>Invasion impacts and dynamics of a European-wide introduced species</title>
+      <link>/publication/2022_haubrock_invasion_impacts/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022_haubrock_invasion_impacts/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A global agenda for advancing freshwater biodiversity research</title>
