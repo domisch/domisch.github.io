@@ -6,7 +6,7 @@
   <url>
     <loc>/contact/</loc><lastmod>2022-05-27T00:00:00+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication-type/2/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/publication-type/3/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/authors/a.-grigoropoulou/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -109,6 +109,8 @@
     <loc>/about/</loc><lastmod>2022-05-27T00:00:00+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/data_code/bayesian-species-distribution-models/</loc><lastmod>2022-05-27T00:00:00+02:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/publication-type/2/</loc><lastmod>2022-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/authors/a.-beidas/</loc><lastmod>2022-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -338,7 +340,7 @@
   <url>
     <loc>/authors/s.d.-langhans/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/s.j.-cooke/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/authors/s.j.-cooke./</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/authors/s.s.-matsuzaki/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -357,6 +359,50 @@
     <loc>/authors/v.t.-do/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/authors/z.-hogan/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/a.-dell/</loc><lastmod>2021-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/a.j.-lynch/</loc><lastmod>2021-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/a.j.-reid/</loc><lastmod>2021-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/d.-longert/</loc><lastmod>2021-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/e.-turak/</loc><lastmod>2021-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/h.m.r.-meredith/</loc><lastmod>2021-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/h.s.-mejbel/</loc><lastmod>2021-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/i.-harrison/</loc><lastmod>2021-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/j.d.-olden/</loc><lastmod>2021-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/j.r.-bennett/</loc><lastmod>2021-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/k.a.-hughes/</loc><lastmod>2021-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/m.-harper/</loc><lastmod>2021-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/m.-lintermans/</loc><lastmod>2021-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/m.-thieme/</loc><lastmod>2021-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/o.l.f.-weyl/</loc><lastmod>2021-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/r.-abell/</loc><lastmod>2021-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/s.-molur/</loc><lastmod>2021-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/s.j.-ormerod/</loc><lastmod>2021-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/s.m.-carlson/</loc><lastmod>2021-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/t.d.-beard/</loc><lastmod>2021-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/publication/2021_harper_twenty-five_essential/</loc><lastmod>2021-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/w.-darwall/</loc><lastmod>2021-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/data_code/extract-variables/</loc><lastmod>2020-07-01T00:00:00+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -403,6 +449,8 @@
     <loc>/authors/annika-brunner/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>/categories/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/collaborators/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>/authors/martin-friedrichs-manthay/</loc><changefreq>weekly</changefreq></url>
   <url>

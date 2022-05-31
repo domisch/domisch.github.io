@@ -352,6 +352,14 @@ more $INDIR/str_stats_c.txt
     </item>
     
     <item>
+      <title>Twenty-five essential research questions to inform the protection and restoration of freshwater biodiversity</title>
+      <link>/publication/2021_harper_twenty-five_essential/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021_harper_twenty-five_essential/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Extract raster values</title>
       <link>/data_code/extract-variables/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0200</pubDate>
@@ -439,35 +447,7 @@ Phone: +49 (0) 30 6392 4079&lt;/p&gt;
       <link>/publication/2013_domisch_choice_of_study_area/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
       <guid>/publication/2013_domisch_choice_of_study_area/</guid>
-      <description>&lt;p&gt;+++
-title = &amp;ldquo;Choice of study area and predictors affect habitat suitability projections, but not the performance of species distribution models of stream biota&amp;rdquo;
-date = &amp;ldquo;2013-05-01&amp;rdquo;
-authors = [&amp;quot;&lt;strong&gt;Domisch, S.&lt;/strong&gt;&amp;quot;, &amp;ldquo;Kuemmerlen, M.&amp;rdquo;, &amp;ldquo;Jähnig, S.C.&amp;rdquo;, &amp;ldquo;Haase, P.&amp;rdquo;]
-publication_types = [&amp;ldquo;2&amp;rdquo;]
-publication = &amp;ldquo;Ecological Modelling, (257), &lt;em&gt;pp. 1-10&lt;/em&gt;, &lt;a href=&#34;https://doi.org/10.1016/j.ecolmodel.2013.02.019%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.ecolmodel.2013.02.019&#34;&lt;/a&gt;
-publication_short = &amp;ldquo;&lt;em&gt;Ecological Modelling&lt;/em&gt; (257), 1-10&amp;rdquo;
-abstract = &amp;ldquo;Species distribution models (SDMs) that provide extrapolations of species habitat suitability are increasingly being used in stream ecosystems, however the effects of different modelling techniques on model projections remain unknown. We tested how different study areas and predictors affect SDMs by using consensus projections of a fixed set of 224 stream macroinvertebrate species and five algorithms implemented in BIOMOD/R. Four modelling designs were applied: (1) a landscape as a continuous study area without any discrimination between terrestrial and aquatic realms, (2) a stream network masked a posteriori from the previous design, (3) a stream network as the study area during the model-building stage, and (4) same as (3) but with a hydrologically corrected set of predictors. The true skill statistic (TSS) and accuracy of the consensus projections were not influenced by the different designs (TSS ranged from 0.80 to 1.00, accuracy ranged from 0.70 to 0.96). The projections of design (4) yielded a strong reduction in false positive predictions compared to (1) (on average by 56%), (2) (11%) or (3) (8%). Our results show how SDMs with equally high accuracy may differ widely in habitat suitability projections for benthic macroinvertebrates. As model performance and output are not necessarily congruent, habitat suitability projections of stream biota need to be carefully assessed.&amp;rdquo;
-abstract_short = &amp;quot;&amp;rdquo;
-image_preview = &amp;quot;&amp;quot;
-selected = false
-projects = []
-tags = []
-url_pdf = &amp;ldquo;&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0304380013001063/pdfft?md5=e9e7894559f2480a255631c942f651c7&amp;amp;pid=1-s2.0-S0304380013001063-main.pdf%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.sciencedirect.com/science/article/pii/S0304380013001063/pdfft?md5=e9e7894559f2480a255631c942f651c7&amp;pid=1-s2.0-S0304380013001063-main.pdf&#34;&lt;/a&gt;
-url_preprint = &amp;quot;&amp;rdquo;
-url_code = &amp;quot;&amp;quot;
-url_dataset = &amp;quot;&amp;quot;
-url_project = &amp;quot;&amp;quot;
-url_slides = &amp;quot;&amp;quot;
-url_video = &amp;quot;&amp;quot;
-url_poster = &amp;quot;&amp;quot;
-url_source = &amp;quot;&amp;quot;
-math = true
-highlight = true
-[header]
-image = &amp;quot;&amp;quot;
-caption = &amp;quot;&amp;quot;
-+++&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
