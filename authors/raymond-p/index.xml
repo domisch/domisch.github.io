@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raymond, P. | Global freshwater biodiversity research</title>
+    <link>/authors/raymond-p./</link>
+      <atom:link href="/authors/raymond-p./index.xml" rel="self" type="application/rss+xml" />
+    <description>Raymond, P.</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <title>Raymond, P.</title>
+      <link>/authors/raymond-p./</link>
+    </image>
+    
+    <item>
+      <title>Estimating nitrogen and phosphorus concentrations in streams and rivers, within a machine learning framework</title>
+      <link>/publication/2020_shen_estimating_nitrogen/2020-05-01_estimating_nitrogen/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_shen_estimating_nitrogen/2020-05-01_estimating_nitrogen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

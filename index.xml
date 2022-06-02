@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Global freshwater biodiversity research</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>Global freshwater biodiversity research</title>
@@ -39,6 +39,14 @@ Phone: +49 (0) 30 6392 4079&lt;/p&gt;
     </item>
     
     <item>
+      <title>300 years of change for native fish species in the upper Danube River Basin – historical flow alterations versus future climate change</title>
+      <link>/publication/2022_friedrichs-manthay_300_years_of_change/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022_friedrichs-manthay_300_years_of_change/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hydrography90m: A new high-resolution global hydrographic dataset</title>
       <link>/publication/2022_amatulli_hydrography90m/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
@@ -47,20 +55,19 @@ Phone: +49 (0) 30 6392 4079&lt;/p&gt;
     </item>
     
     <item>
-      <title>Freshwater biodiversity patterns</title>
-      <link>/project/glowabio_biodiversity/</link>
+      <title>EPTO database</title>
+      <link>/project/epto_database/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>/project/glowabio_biodiversity/</guid>
+      <guid>/project/epto_database/</guid>
       <description>&lt;p&gt;Global biodiversity is declining rapidly worldwide, and among terrestrial, marine and freshwater ecosystems, freshwaters are particularly vulnerable. These fragmented ecosystems cover less than 1% of the Earth’s surface, yet they harbour approximately 10% of all described species.
-Aquatic insects contribute to freshwater diversity by approximately 60% as the largest and most diverse taxa group, and given this substantial proportion, aquatic insects may be considered as a proxy for freshwater biodiversity and ecological state of a given habitat.
-We will use latest methods in species distribution modelling and spatial biodiversity science to analyze diversity patterns of this taxa group across the globe.&lt;/p&gt;
+Aquatic insects contribute to freshwater diversity by approximately 60% as the largest and most diverse taxa group, and given this substantial proportion, aquatic insects may be considered as a proxy for freshwater biodiversity and ecological state of a given habitat.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;We have collated, together with nearly 100 co-authors, a global database of Ephemeroptera, Plecoptera, Trichoptera and Odatanata (EPTO) occurrences comprising more than 8 million records. The data can be downloaded &lt;a href=&#34;https://fred.igb-berlin.de/data/package/725&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and visualized &lt;a href=&#34;https://geo.igb-berlin.de/maps/562/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://geo.igb-berlin.de/maps/562/embed&#34; min-width : 900px ; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;EPTO database&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 &lt;hr&gt;
-&lt;p&gt;Below we show a summary of the database: the number of observation records (a) and genera (b) for all orders, aggregated in a 10 km regular grid.  Number of observation records (c) and genera (d) for all orders per drainage basin. Number of observation records (e) and genera (f) per drainage basin for each order individually.
+&lt;p&gt;Below is a summary of the database: the number of observation records (a) and genera (b) for all orders, aggregated in a 10 km regular grid.  Number of observation records (c) and genera (d) for all orders per drainage basin. Number of observation records (e) and genera (f) per drainage basin for each order individually.
 E: Ephemeroptera, P: Plecoptera, T: Trichoptera, O: Odonata. White and grey areas lack information.
 
 
@@ -392,6 +399,14 @@ authors = [&amp;ldquo;van Rees, C.B.&amp;rdquo;, &amp;ldquo;Waylen, K.&amp;rdquo
     </item>
     
     <item>
+      <title>Revisiting global trends in freshwater insect biodiversity</title>
+      <link>/publication/2020_revisiting-global-trends/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_revisiting-global-trends/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Extract raster values</title>
       <link>/data_code/extract-variables/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0200</pubDate>
@@ -435,6 +450,46 @@ authors = [&amp;ldquo;van Rees, C.B.&amp;rdquo;, &amp;ldquo;Waylen, K.&amp;rdquo
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Estimating nitrogen and phosphorus concentrations in streams and rivers, within a machine learning framework</title>
+      <link>/publication/2020_shen_estimating_nitrogen/2020-05-01_estimating_nitrogen/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_shen_estimating_nitrogen/2020-05-01_estimating_nitrogen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From topography to hydrology - the modifiable area unit problem impacts freshwater species distribution models</title>
+      <link>/publication/2019_friedrichs-manthay_from_topography_to_hydrology/2019-05-01_from_topography_to_hydrology/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_friedrichs-manthay_from_topography_to_hydrology/2019-05-01_from_topography_to_hydrology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elevation, aspect, and local environment jointly determine diatom and macroinvertebrate diversity in the Hengduan Mountains region</title>
+      <link>/publication/2019_he_elevation_aspect/2019-05-01_elevation-aspect/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_he_elevation_aspect/2019-05-01_elevation-aspect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of artificial intelligence in achieving the Sustainable Development Goals</title>
+      <link>/publication/2019_vinuesa_assessing_whether_artificial/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_vinuesa_assessing_whether_artificial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to make ecological models useful for environmental management</title>
+      <link>/publication/2019_schuwirth_useful_model/2019-05-01_useful_model/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_schuwirth_useful_model/2019-05-01_useful_model/</guid>
+      <description></description>
     </item>
     
     <item>

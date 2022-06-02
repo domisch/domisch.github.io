@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>He, F. | Global freshwater biodiversity research</title>
+    <link>/authors/he-f./</link>
+      <atom:link href="/authors/he-f./index.xml" rel="self" type="application/rss+xml" />
+    <description>He, F.</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <title>He, F.</title>
+      <link>/authors/he-f./</link>
+    </image>
+    
+    <item>
+      <title>Elevation, aspect, and local environment jointly determine diatom and macroinvertebrate diversity in the Hengduan Mountains region</title>
+      <link>/publication/2019_he_elevation_aspect/2019-05-01_elevation-aspect/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_he_elevation_aspect/2019-05-01_elevation-aspect/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

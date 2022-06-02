@@ -5,12 +5,20 @@
     <link>/authors/s.-domisch/</link>
       <atom:link href="/authors/s.-domisch/index.xml" rel="self" type="application/rss+xml" />
     <description>S. Domisch</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>S. Domisch</title>
       <link>/authors/s.-domisch/</link>
     </image>
+    
+    <item>
+      <title>300 years of change for native fish species in the upper Danube River Basin – historical flow alterations versus future climate change</title>
+      <link>/publication/2022_friedrichs-manthay_300_years_of_change/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022_friedrichs-manthay_300_years_of_change/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hydrography90m: A new high-resolution global hydrographic dataset</title>
@@ -78,6 +86,22 @@ title = &amp;ldquo;Safeguarding freshwater life beyond 2020: Recommendations for
 date = &amp;ldquo;2021-02-01&amp;rdquo;
 authors = [&amp;ldquo;van Rees, C.B.&amp;rdquo;, &amp;ldquo;Waylen, K.&amp;rdquo; , &amp;ldquo;Schmidt-Kloiber, A.&amp;rdquo;, &amp;ldquo;Thackeray, S.&amp;rdquo; , &amp;ldquo;Kalinkat, G.&amp;rdquo;, &amp;ldquo;Martens, K.&amp;rdquo;, &amp;ldquo;&lt;strong&gt;Domisch, S.&lt;/strong&gt;&amp;rdquo;, &amp;ldquo;Lillebø, A.I.&amp;rdquo;, &amp;ldquo;Hermoso, V.&amp;rdquo;,  &amp;ldquo;Grossart, H.-P.&amp;rdquo;, &amp;ldquo;Schinegger, R.&amp;rdquo;, &amp;ldquo;Decleer, K.&amp;rdquo;, &amp;ldquo;Adriaens, T.&amp;rdquo;, &amp;ldquo;Denys, L.&amp;rdquo;, &amp;ldquo;Jarić, I.&amp;rdquo;, &amp;ldquo;Monaghan, M.T.&amp;rdquo;, &amp;ldquo;Janse, J.&amp;rdquo;, &amp;ldquo;De Wever, A.&amp;rdquo;, &amp;ldquo;Geijzendorffer, I.&amp;rdquo;, &amp;ldquo;Adamescu, M.&amp;rdquo;, &amp;ldquo;Jähnig, S.C&amp;rdquo;]&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Revisiting global trends in freshwater insect biodiversity</title>
+      <link>/publication/2020_revisiting-global-trends/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_revisiting-global-trends/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of artificial intelligence in achieving the Sustainable Development Goals</title>
+      <link>/publication/2019_vinuesa_assessing_whether_artificial/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_vinuesa_assessing_whether_artificial/</guid>
+      <description></description>
     </item>
     
     <item>
