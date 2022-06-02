@@ -5,7 +5,7 @@
     <link>/authors/g.-amatulli/</link>
       <atom:link href="/authors/g.-amatulli/index.xml" rel="self" type="application/rss+xml" />
     <description>G. Amatulli</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>G. Amatulli</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>The Global EPTO Database: worldwide occurrences of aquatic insects</title>
+      <link>/publication/2022_grigoropoulou_the_epto_database/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022_grigoropoulou_the_epto_database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hydrography90m: A new high-resolution global hydrographic dataset</title>
       <link>/publication/2022_amatulli_hydrography90m/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       <guid>/publication/2022_amatulli_hydrography90m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracking a voracious killer: Dikerogammarus villosus invasion dynamics across Europe</title>
+      <link>/publication/2022_soto_tracking_a_voracious/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022_soto_tracking_a_voracious/</guid>
       <description></description>
     </item>
     

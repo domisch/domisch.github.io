@@ -5,12 +5,20 @@
     <link>/authors/f.-he/</link>
       <atom:link href="/authors/f.-he/index.xml" rel="self" type="application/rss+xml" />
     <description>F. He</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>F. He</title>
       <link>/authors/f.-he/</link>
     </image>
+    
+    <item>
+      <title>The Global EPTO Database: worldwide occurrences of aquatic insects</title>
+      <link>/publication/2022_grigoropoulou_the_epto_database/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022_grigoropoulou_the_epto_database/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A global agenda for advancing freshwater biodiversity research</title>
