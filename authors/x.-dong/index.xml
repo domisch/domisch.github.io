@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>X. Dong | Global freshwater biodiversity research</title>
+    <link>/authors/x.-dong/</link>
+      <atom:link href="/authors/x.-dong/index.xml" rel="self" type="application/rss+xml" />
+    <description>X. Dong</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <title>X. Dong</title>
+      <link>/authors/x.-dong/</link>
+    </image>
+    
+    <item>
+      <title>Elevation, aspect, and local environment jointly determine diatom and macroinvertebrate diversity in the Hengduan Mountains region</title>
+      <link>/publication/2019_he_elevation_aspect/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_he_elevation_aspect/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

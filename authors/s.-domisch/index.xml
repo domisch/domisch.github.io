@@ -98,9 +98,57 @@ authors = [&amp;ldquo;van Rees, C.B.&amp;rdquo;, &amp;ldquo;Waylen, K.&amp;rdquo
     
     <item>
       <title>Revisiting global trends in freshwater insect biodiversity</title>
-      <link>/publication/2020_revisiting-global-trends/</link>
+      <link>/publication/2020_jahnig_revisiting-global-trends/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2020_revisiting-global-trends/</guid>
+      <guid>/publication/2020_jahnig_revisiting-global-trends/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating nitrogen and phosphorus concentrations in streams and rivers, within a machine learning framework</title>
+      <link>/publication/2020_shen_estimating_nitrogen/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_shen_estimating_nitrogen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geomorpho90m, empirical evaluation and accuracy assessment of global high-resolution geomorphometric layers</title>
+      <link>/publication/2019_amatulli_geomorpho90m/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_amatulli_geomorpho90m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate model variability leads to uncertain predictions of the future abundance of stream macroinvertebrates</title>
+      <link>/publication/2019_kakouei_climate_model_variability/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_kakouei_climate_model_variability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Art-Areal-Modellierung für Fischarten im Einzugsgebiet der oberen Donau: Aspekte zur Interpretation der Projektionen</title>
+      <link>/publication/2019_friedrichs_mathay_-art-areal-modellierung/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_friedrichs_mathay_-art-areal-modellierung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From topography to hydrology - the modifiable area unit problem impacts freshwater species distribution models</title>
+      <link>/publication/2019_friedrichs-manthay_from_topography_to_hydrology/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_friedrichs-manthay_from_topography_to_hydrology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elevation, aspect, and local environment jointly determine diatom and macroinvertebrate diversity in the Hengduan Mountains region</title>
+      <link>/publication/2019_he_elevation_aspect/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_he_elevation_aspect/</guid>
       <description></description>
     </item>
     
@@ -109,6 +157,14 @@ authors = [&amp;ldquo;van Rees, C.B.&amp;rdquo;, &amp;ldquo;Waylen, K.&amp;rdquo
       <link>/publication/2019_vinuesa_assessing_whether_artificial/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/2019_vinuesa_assessing_whether_artificial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to make ecological models useful for environmental management</title>
+      <link>/publication/2019_schuwirth_useful_model/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_schuwirth_useful_model/</guid>
       <description></description>
     </item>
     

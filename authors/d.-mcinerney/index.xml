@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. McInerney | Global freshwater biodiversity research</title>
+    <link>/authors/d.-mcinerney/</link>
+      <atom:link href="/authors/d.-mcinerney/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. McInerney</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <title>D. McInerney</title>
+      <link>/authors/d.-mcinerney/</link>
+    </image>
+    
+    <item>
+      <title>Geomorpho90m, empirical evaluation and accuracy assessment of global high-resolution geomorphometric layers</title>
+      <link>/publication/2019_amatulli_geomorpho90m/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_amatulli_geomorpho90m/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

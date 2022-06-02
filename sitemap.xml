@@ -396,6 +396,8 @@
   <url>
     <loc>/publication/2022_grigoropoulou_geb/</loc><lastmod>2022-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>/publication/template/</loc><lastmod>2022-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>/publication/2022_maasri_global_agenda/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/authors/a.-batista-morales/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -666,7 +668,7 @@
   <url>
     <loc>/authors/p.-cranston/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/2020_revisiting-global-trends/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/publication/2020_jahnig_revisiting-global-trends/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/authors/v.-baranov/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -674,27 +676,59 @@
   <url>
     <loc>/data_code/open-source-gis/</loc><lastmod>2020-07-01T00:00:00+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/__domisch-s.__/</loc><lastmod>2020-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/authors/d.-mcinerney/</loc><lastmod>2020-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/2020_shen_estimating_nitrogen/2020-05-01_estimating_nitrogen/</loc><lastmod>2020-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/publication/2020_shen_estimating_nitrogen/</loc><lastmod>2020-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/2019_friedrichs-manthay_from_topography_to_hydrology/2019-05-01_from_topography_to_hydrology/</loc><lastmod>2020-01-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/publication/2019_amatulli_geomorpho90m/</loc><lastmod>2020-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/2019_he_elevation_aspect/2019-05-01_elevation-aspect/</loc><lastmod>2020-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/authors/p.-raymond/</loc><lastmod>2020-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/p.-strobl/</loc><lastmod>2020-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/publication/2019_kakouei_climate_model_variability/</loc><lastmod>2020-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/j.-kail/</loc><lastmod>2020-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/k.-kakouei/</loc><lastmod>2020-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/publication/2019_friedrichs_mathay_-art-areal-modellierung/</loc><lastmod>2020-01-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/publication/2019_friedrichs-manthay_from_topography_to_hydrology/</loc><lastmod>2020-01-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/m.-friedrichs-manthay/</loc><lastmod>2020-01-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/t.-hein/</loc><lastmod>2020-01-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/publication/2019_he_elevation_aspect/</loc><lastmod>2020-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/authors/h.-azizpour/</loc><lastmod>2020-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/authors/i.-leite/</loc><lastmod>2020-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/jaumlhnig-s.c./</loc><lastmod>2020-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>/authors/m.-balaam/</loc><lastmod>2020-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/n.-wu/</loc><lastmod>2020-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/t.-tang/</loc><lastmod>2020-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/publication/2019_vinuesa_assessing_whether_artificial/</loc><lastmod>2020-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/authors/v.-dignum/</loc><lastmod>2020-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/2019_schuwirth_useful_model/2019-05-01_useful_model/</loc><lastmod>2019-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/authors/x.-dong/</loc><lastmod>2020-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/d.-kneis/</loc><lastmod>2019-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/publication/2019_schuwirth_useful_model/</loc><lastmod>2019-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/j.-martinez-lopez/</loc><lastmod>2019-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/m.-kattwinkel/</loc><lastmod>2019-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/n.-schuwirth/</loc><lastmod>2019-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/p.-vermeiren/</loc><lastmod>2019-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/privacy/</loc><lastmod>2018-08-02T00:00:00+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -732,19 +766,11 @@
   <url>
     <loc>/people/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/amatulli-g./</loc><changefreq>weekly</changefreq></url>
-  <url>
     <loc>/authors/annika-brunner/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/authors/borgwardt-f./</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/authors/cai-q./</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>/categories/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>/authors/collaborators/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/authors/dong-x./</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>/authors/martin-friedrichs-manthay/</loc><changefreq>weekly</changefreq></url>
   <url>
@@ -752,44 +778,10 @@
   <url>
     <loc>/authors/francesco-polazzo/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/friedrichs-manthay-m./</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/authors/friedrichs-m./</loc><changefreq>weekly</changefreq></url>
-  <url>
     <loc>/authors/gabriela-spriestersbach/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/authors/he-f./</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/authors/hein-t./</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/authors/kattwinkel-m./</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/authors/kling-h./</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/authors/kneis-d./</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/authors/kuemmerlen-m./</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/authors/langhans-s.d./</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>/authors/lydia-nass/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/martinez-lopez-j./</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/authors/raymond-p./</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/authors/schuwirth-n./</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/authors/sethi-t./</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/authors/shen-l./</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/authors/tang-t./</loc><changefreq>weekly</changefreq></url>
-  <url>
     <loc>/authors/thomas-tomiczek/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/authors/vermeiren-p./</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/authors/wu-n./</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>/authors/xiling-deng/</loc><changefreq>weekly</changefreq></url></urlset>
