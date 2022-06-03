@@ -214,6 +214,26 @@
   <url>
     <loc>/authors/y.-torres-cambas/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>/tag/conservation-planning/</loc><lastmod>2022-06-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/project/colombia_conservation/</loc><lastmod>2022-06-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/jaime-garcia-marquez/</loc><lastmod>2022-06-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/admin/</loc><lastmod>2022-06-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/tag/freshwater-biodiversity/</loc><lastmod>2022-06-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/tag/geo-informatics/</loc><lastmod>2022-06-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/tag/open-source-gis/</loc><lastmod>2022-06-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/project/</loc><lastmod>2022-06-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/tags/</loc><lastmod>2022-06-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/thomas-tomiczek/</loc><lastmod>2022-06-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>/publication-type/2/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/authors/a.-beidas/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -292,19 +312,13 @@
   <url>
     <loc>/tag/conservation/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/tag/conservation-planning/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>/tag/discharge/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/authors/giuseppe-amatulli/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/jaime-garcia-marquez/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>/authors/jens-kiesel/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/authors/longzhu-shen/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/authors/admin/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/authors/yusdiel-torres-cambas/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -312,11 +326,7 @@
   <url>
     <loc>/project/epto_database/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/tag/freshwater-biodiversity/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>/project/glowabio_habitats/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/tag/geo-informatics/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/project/geomorpho90m/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -334,10 +344,6 @@
   <url>
     <loc>/tag/marxan/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/tag/open-source-gis/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/project/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>/project/cuba_biodiversity/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/tag/regionalization/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -347,8 +353,6 @@
     <loc>/project/glowabio_conservation/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/tag/species-distribution-modeling/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/tags/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/tag/uncertainty/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -781,7 +785,5 @@
     <loc>/authors/gabriela-spriestersbach/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>/authors/lydia-nass/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/authors/thomas-tomiczek/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>/authors/xiling-deng/</loc><changefreq>weekly</changefreq></url></urlset>
