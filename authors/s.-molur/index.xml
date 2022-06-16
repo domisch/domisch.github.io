@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>S. Molur | Global freshwater biodiversity research</title>
-    <link>/authors/s.-molur/</link>
-      <atom:link href="/authors/s.-molur/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glowabio.org/authors/s.-molur/</link>
+      <atom:link href="https://glowabio.org/authors/s.-molur/index.xml" rel="self" type="application/rss+xml" />
     <description>S. Molur</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>S. Molur</title>
-      <link>/authors/s.-molur/</link>
+      <link>https://glowabio.org/authors/s.-molur/</link>
     </image>
     
     <item>
       <title>Twenty-five essential research questions to inform the protection and restoration of freshwater biodiversity</title>
-      <link>/publication/2021_harper_twenty-five_essential/</link>
+      <link>https://glowabio.org/publication/2021_harper_twenty-five_essential/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_harper_twenty-five_essential/</guid>
+      <guid>https://glowabio.org/publication/2021_harper_twenty-five_essential/</guid>
       <description></description>
     </item>
     

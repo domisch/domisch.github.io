@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Collaborators | Global freshwater biodiversity research</title>
-    <link>/authors/collaborators/</link>
-      <atom:link href="/authors/collaborators/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glowabio.org/authors/collaborators/</link>
+      <atom:link href="https://glowabio.org/authors/collaborators/index.xml" rel="self" type="application/rss+xml" />
     <description>Collaborators</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>Collaborators</title>
-      <link>/authors/collaborators/</link>
+      <link>https://glowabio.org/authors/collaborators/</link>
     </image>
     
   </channel>

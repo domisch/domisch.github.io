@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gabriela Spriestersbach | Global freshwater biodiversity research</title>
-    <link>/authors/gabriela-spriestersbach/</link>
-      <atom:link href="/authors/gabriela-spriestersbach/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glowabio.org/authors/gabriela-spriestersbach/</link>
+      <atom:link href="https://glowabio.org/authors/gabriela-spriestersbach/index.xml" rel="self" type="application/rss+xml" />
     <description>Gabriela Spriestersbach</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>/authors/gabriela-spriestersbach/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://glowabio.org/authors/gabriela-spriestersbach/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Gabriela Spriestersbach</title>
-      <link>/authors/gabriela-spriestersbach/</link>
+      <link>https://glowabio.org/authors/gabriela-spriestersbach/</link>
     </image>
     
   </channel>

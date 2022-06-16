@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thomas Tomiczek | Global freshwater biodiversity research</title>
-    <link>/authors/thomas-tomiczek/</link>
-      <atom:link href="/authors/thomas-tomiczek/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glowabio.org/authors/thomas-tomiczek/</link>
+      <atom:link href="https://glowabio.org/authors/thomas-tomiczek/index.xml" rel="self" type="application/rss+xml" />
     <description>Thomas Tomiczek</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/authors/thomas-tomiczek/avatar_huc79eaf406cfe1b482c7c8f56c9edde4d_32630_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://glowabio.org/authors/thomas-tomiczek/avatar_huc79eaf406cfe1b482c7c8f56c9edde4d_32630_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Thomas Tomiczek</title>
-      <link>/authors/thomas-tomiczek/</link>
+      <link>https://glowabio.org/authors/thomas-tomiczek/</link>
     </image>
     
     <item>
       <title>Conservation planning across Colombia</title>
-      <link>/project/colombia_conservation/</link>
+      <link>https://glowabio.org/project/colombia_conservation/</link>
       <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/project/colombia_conservation/</guid>
+      <guid>https://glowabio.org/project/colombia_conservation/</guid>
       <description>&lt;p&gt;Colombia forms one of the global freshwater biodiversity hotspots, home to 1494 freshwater fish species. This exceptional fish fauna has, however, rarely been considered when selecting areas for biodiversity conservation. This study integrates freshwater fish distributions into a spatial prioritization exercise to assess to which extent (i) freshwater biodiversity, using fish as a proxy, is currently represented within the existing protected areas, and (ii) if alternative protected area networks may have the potential to increase the number of fish species under protection.&lt;/p&gt;
 &lt;p&gt;At first all available fish data was collated, resulting in a data base of over 112,535 geographic occurrences of 1224 freshwater fishes across Colombia with harmonized nomenclature and revised geo-referenced coordinates.&lt;/p&gt;
 &lt;p&gt;Based on a digital elevation model at 1 km&lt;sup&gt;2&lt;/sup&gt; resolution, the stream network was delineated with a minimum catchment size of 90 km&lt;sup&gt;2&lt;/sup&gt; and extracted the corresponding 33,612 sub-catchments that served as spatial units within the analyses. In the next step fish occurrence data and environmental variables (climate, topography, land cover, hydrology) were aggregated across the sub-catchments and an ensemble of species distribution modelling algorithms was employed to project suitable habitat of each fish species across the study area.&lt;/p&gt;

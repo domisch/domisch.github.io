@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C. Nowak | Global freshwater biodiversity research</title>
-    <link>/authors/c.-nowak/</link>
-      <atom:link href="/authors/c.-nowak/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glowabio.org/authors/c.-nowak/</link>
+      <atom:link href="https://glowabio.org/authors/c.-nowak/index.xml" rel="self" type="application/rss+xml" />
     <description>C. Nowak</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Nov 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>C. Nowak</title>
-      <link>/authors/c.-nowak/</link>
+      <link>https://glowabio.org/authors/c.-nowak/</link>
     </image>
     
     <item>
       <title>Modelling of riverine ecosystems by integrating models: conceptual approach, a case study and research agenda</title>
-      <link>/publication/2012_jaehnig_modelling_of_riverine/</link>
+      <link>https://glowabio.org/publication/2012_jaehnig_modelling_of_riverine/</link>
       <pubDate>Tue, 20 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/2012_jaehnig_modelling_of_riverine/</guid>
+      <guid>https://glowabio.org/publication/2012_jaehnig_modelling_of_riverine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cryptic biodiversity loss linked to global climate change</title>
-      <link>/publication/2011_balint_cryptic_biodiversity/</link>
+      <link>https://glowabio.org/publication/2011_balint_cryptic_biodiversity/</link>
       <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/2011_balint_cryptic_biodiversity/</guid>
+      <guid>https://glowabio.org/publication/2011_balint_cryptic_biodiversity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Low mountain ranges: summit traps for montane freshwater species under climate change</title>
-      <link>/publication/2011_sauer_low_mountain_ranges/</link>
+      <link>https://glowabio.org/publication/2011_sauer_low_mountain_ranges/</link>
       <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/2011_sauer_low_mountain_ranges/</guid>
+      <guid>https://glowabio.org/publication/2011_sauer_low_mountain_ranges/</guid>
       <description></description>
     </item>
     

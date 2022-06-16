@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dr. Mathieu Floury | Global freshwater biodiversity research</title>
-    <link>/authors/mathieu-floury/</link>
-      <atom:link href="/authors/mathieu-floury/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glowabio.org/authors/mathieu-floury/</link>
+      <atom:link href="https://glowabio.org/authors/mathieu-floury/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. Mathieu Floury</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>/authors/mathieu-floury/avatar_hu41d4d1ac0e099fe5dcb3d733b81bb273_35953_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://glowabio.org/authors/mathieu-floury/avatar_hu41d4d1ac0e099fe5dcb3d733b81bb273_35953_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Dr. Mathieu Floury</title>
-      <link>/authors/mathieu-floury/</link>
+      <link>https://glowabio.org/authors/mathieu-floury/</link>
     </image>
     
   </channel>

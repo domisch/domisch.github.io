@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Global freshwater biodiversity research</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glowabio.org/</link>
+      <atom:link href="https://glowabio.org/index.xml" rel="self" type="application/rss+xml" />
     <description>Global freshwater biodiversity research</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>Global freshwater biodiversity research</title>
-      <link>/</link>
+      <link>https://glowabio.org/</link>
     </image>
     
     <item>
       <title>Contact</title>
-      <link>/contact/</link>
+      <link>https://glowabio.org/contact/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0200</pubDate>
-      <guid>/contact/</guid>
+      <guid>https://glowabio.org/contact/</guid>
       <description>&lt;p&gt;We constantly seek possible collaborations regarding interesting projects, novel methods, data, and publications in spatial freshwater biodiversity science and beyond. Please do not hesitate to &lt;a href=&#34;mailto:sami.domisch@igb-berlin.de?subject=[glowabio]%20contact&#34;&gt;contact us&lt;/a&gt; to discuss further details.
 &lt;br/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Join the group?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Are you interested in joining the group? We are looking for motivated candidates across the Master, PhD and Postdoc levels.
 If you are interested please &lt;a href=&#34;mailto:sami.domisch@igb-berlin.de?subject=[glowabio]%20contact&#34;&gt;drop us a line&lt;/a&gt; indicating your research interests &amp;amp; plans and we can discuss how to move things further and seek for possible funding opportunities.&lt;/p&gt;
 &lt;br/&gt;
-&lt;p&gt;We use, beside R, largely open-source (command-line) GIS tools within the Linux environment that facilitate handling and analyzing large datasets (see also some of the tools &lt;a href=&#34;/data_code/open-source-gis&#34;&gt;here&lt;/a&gt;). We consider a good understanding, or alternatively, a great motivation to learn such tools &amp;amp; techniques as a prerequisite to join the group.&lt;/p&gt;
+&lt;p&gt;We use, beside R, largely open-source (command-line) GIS tools within the Linux environment that facilitate handling and analyzing large datasets (see also some of the tools &lt;a href=&#34;https://glowabio.org/data_code/open-source-gis&#34;&gt;here&lt;/a&gt;). We consider a good understanding, or alternatively, a great motivation to learn such tools &amp;amp; techniques as a prerequisite to join the group.&lt;/p&gt;
 &lt;br/&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;Contact information:&lt;/strong&gt;&lt;/p&gt;
@@ -39,26 +39,10 @@ Phone: +49 (0) 30 6392 4079&lt;/p&gt;
     </item>
     
     <item>
-      <title>300 years of change for native fish species in the upper Danube River Basin – historical flow alterations versus future climate change</title>
-      <link>/publication/2022_friedrichs-manthay_300_years_of_change/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022_friedrichs-manthay_300_years_of_change/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Global EPTO Database: worldwide occurrences of aquatic insects</title>
-      <link>/publication/2022_grigoropoulou_the_epto_database/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022_grigoropoulou_the_epto_database/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Conservation planning across Colombia</title>
-      <link>/project/colombia_conservation/</link>
+      <link>https://glowabio.org/project/colombia_conservation/</link>
       <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/project/colombia_conservation/</guid>
+      <guid>https://glowabio.org/project/colombia_conservation/</guid>
       <description>&lt;p&gt;Colombia forms one of the global freshwater biodiversity hotspots, home to 1494 freshwater fish species. This exceptional fish fauna has, however, rarely been considered when selecting areas for biodiversity conservation. This study integrates freshwater fish distributions into a spatial prioritization exercise to assess to which extent (i) freshwater biodiversity, using fish as a proxy, is currently represented within the existing protected areas, and (ii) if alternative protected area networks may have the potential to increase the number of fish species under protection.&lt;/p&gt;
 &lt;p&gt;At first all available fish data was collated, resulting in a data base of over 112,535 geographic occurrences of 1224 freshwater fishes across Colombia with harmonized nomenclature and revised geo-referenced coordinates.&lt;/p&gt;
 &lt;p&gt;Based on a digital elevation model at 1 km&lt;sup&gt;2&lt;/sup&gt; resolution, the stream network was delineated with a minimum catchment size of 90 km&lt;sup&gt;2&lt;/sup&gt; and extracted the corresponding 33,612 sub-catchments that served as spatial units within the analyses. In the next step fish occurrence data and environmental variables (climate, topography, land cover, hydrology) were aggregated across the sub-catchments and an ensemble of species distribution modelling algorithms was employed to project suitable habitat of each fish species across the study area.&lt;/p&gt;
@@ -82,25 +66,25 @@ Phone: +49 (0) 30 6392 4079&lt;/p&gt;
     
     <item>
       <title>Hydrography90m: A new high-resolution global hydrographic dataset</title>
-      <link>/publication/2022_amatulli_hydrography90m/</link>
+      <link>https://glowabio.org/publication/2022_amatulli_hydrography90m/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022_amatulli_hydrography90m/</guid>
+      <guid>https://glowabio.org/publication/2022_amatulli_hydrography90m/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tracking a voracious killer: Dikerogammarus villosus invasion dynamics across Europe</title>
-      <link>/publication/2022_soto_tracking_a_voracious/</link>
+      <link>https://glowabio.org/publication/2022_soto_tracking_a_voracious/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022_soto_tracking_a_voracious/</guid>
+      <guid>https://glowabio.org/publication/2022_soto_tracking_a_voracious/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EPTO database</title>
-      <link>/project/epto_database/</link>
+      <link>https://glowabio.org/project/epto_database/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>/project/epto_database/</guid>
+      <guid>https://glowabio.org/project/epto_database/</guid>
       <description>&lt;p&gt;Global biodiversity is declining rapidly worldwide, and among terrestrial, marine and freshwater ecosystems, freshwaters are particularly vulnerable. These fragmented ecosystems cover less than 1% of the Earth’s surface, yet they harbour approximately 10% of all described species.
 Aquatic insects contribute to freshwater diversity by approximately 60% as the largest and most diverse taxa group, and given this substantial proportion, aquatic insects may be considered as a proxy for freshwater biodiversity and ecological state of a given habitat.&lt;/p&gt;
 &lt;hr&gt;
@@ -132,7 +116,7 @@ Aquatic insects contribute to freshwater diversity by approximately 60% as the l
                /media/EPTO_Fig1_huba033007e31876f418732d2706fb7bc1_547895_de5cbe0d3c75243b5de60c33e3bb1a5a.webp 400w,
                /media/EPTO_Fig1_huba033007e31876f418732d2706fb7bc1_547895_71d63037faa7ea8cb82331c729397562.webp 760w,
                /media/EPTO_Fig1_huba033007e31876f418732d2706fb7bc1_547895_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;/media/EPTO_Fig1_huba033007e31876f418732d2706fb7bc1_547895_de5cbe0d3c75243b5de60c33e3bb1a5a.webp&#34;
+               src=&#34;https://glowabio.org/media/EPTO_Fig1_huba033007e31876f418732d2706fb7bc1_547895_de5cbe0d3c75243b5de60c33e3bb1a5a.webp&#34;
                width=&#34;760&#34;
                height=&#34;614&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -143,18 +127,18 @@ Aquatic insects contribute to freshwater diversity by approximately 60% as the l
     
     <item>
       <title>Freshwater habitat regionalization</title>
-      <link>/project/glowabio_habitats/</link>
+      <link>https://glowabio.org/project/glowabio_habitats/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>/project/glowabio_habitats/</guid>
+      <guid>https://glowabio.org/project/glowabio_habitats/</guid>
       <description>&lt;p&gt;A first step towards global freshwater biodiversity assessments is a comprehensive quantification of the variety of habitat types. We aim to characterize the variety and distribution of global freshwater habitats at a high spatial resolution, to perfrom a regionalization analysis, and to provide environmental correlates of spatial biodiversity patterns.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Geomorpho90m</title>
-      <link>/project/geomorpho90m/</link>
+      <link>https://glowabio.org/project/geomorpho90m/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>/project/geomorpho90m/</guid>
+      <guid>https://glowabio.org/project/geomorpho90m/</guid>
       <description>&lt;p&gt;The &lt;strong&gt;Geomorphho90m&lt;/strong&gt; dataset&lt;/p&gt;
 &lt;p&gt;Topographical relief comprises the vertical and horizontal variations of the Earth’s terrain and drives processes in geomorphology, biogeography, climatology, hydrology and ecology. Its characterisation and assessment, through geomorphometry and feature extraction, is fundamental to numerous environmental modelling and simulation analyses. We developed the Geomorpho90m global dataset comprising of different geomorphometric features derived from the MERIT-Digital Elevation Model (DEM) - the best global, high-resolution DEM available. The fully-standardised 26 geomorphometric variables consist of layers that describe the (i) rate of change across the elevation gradient, using first and second derivatives, (ii) ruggedness, and (iii) geomorphological forms. The Geomorpho90m variables are available at 3 (~90 m) and 7.5 arc-second (~250 m) resolutions under the WGS84 geodetic datum, and 100 m spatial resolution under the Equi7 projection. They are useful for modelling applications in fields such as geomorphology, geology, hydrology, ecology and biogeography.&lt;/p&gt;
 &lt;p&gt;Check out the paper in &lt;a href=&#34;https://www.nature.com/articles/s41597-020-0479-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Scientific Data&lt;/em&gt;&lt;/a&gt;. The data can be downloaded &lt;a href=&#34;https://doi.pangaea.de/10.1594/PANGAEA.899135&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and visualized &lt;a href=&#34;https://www.openlandmap.org/#/?base=Stamen%20%28OpenStreetMap%29&amp;amp;center=26.8842,38.4204&amp;amp;zoom=3.294688713147893&amp;amp;opacity=40&amp;amp;layer=dtm_roughness_merit.dem_m&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -167,9 +151,9 @@ Aquatic insects contribute to freshwater diversity by approximately 60% as the l
     
     <item>
       <title>Hydrography90m</title>
-      <link>/project/hydrography90m/</link>
+      <link>https://glowabio.org/project/hydrography90m/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>/project/hydrography90m/</guid>
+      <guid>https://glowabio.org/project/hydrography90m/</guid>
       <description>&lt;p&gt;The &lt;strong&gt;Hydography90m&lt;/strong&gt; dataset&lt;/p&gt;
 &lt;p&gt;We used the MERIT Hydro Digital Elevation Model at 3 arc-sec (∼90 m at the equator) to derive a globally seamless, standardised hydrographic network, the &amp;ldquo;Hydrography90m&amp;rdquo;, with corresponding stream topographic and topologicalinformation. A central feature of the network is the minimal upstream contributing area, i.e. flow accumulation,of 0.05 km2 (or 5 ha) to initiate a stream channel, which allowed us to extract headwater stream channels ingreat detail. By employing a suite of GRASS GIS hydrological modules, we calculated the range-wide upstreamflow accumulation and flow direction to delineate a total of 1.6 million drainage basins, and extracted globallya total of 726 million unique stream segments with their corresponding sub-catchments. In addition, we computed stream topographic variables comprising stream slope, gradient, length, and curvature attributes, as wellas stream topological variables to allow for network routing and various stream order classifications. We validated the spatial accuracy and flow accumulation of Hydrography90m against NHDPlus HR, an independent,national high-resolution hydrographic network dataset of the United States. Our validation shows that the newly developed Hydrography90m has the highest spatial precision, and contains more headwater stream channels compared to three other global hydrographic datasets. This inclusive approach provides a vital, and long-overdue baseline for assessing actual streamflow in headwaters, and opens new research avenues for high-resolution studies of surface water worldwide. Hydrography90m thus offers significant potential to facilitate the assessment offreshwater quantity and quality, inundation risk, biodiversity and conservation, as well as resource managementobjectives in a globally comprehensive and standardised manner. We provide all the computed layers for visualisation and download in 20° × 20° tiles.&lt;/p&gt;
 &lt;p&gt;Check out the paper in  &lt;a href=&#34;https://essd.copernicus.org/preprints/essd-2022-9/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Earth System Science Data&lt;/em&gt;&lt;/a&gt;. The data can be downloaded &lt;a href=&#34;https://public.igb-berlin.de/index.php/s/agciopgzXjWswF4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and visualized &lt;a href=&#34;https://geo.igb-berlin.de/maps/351/view/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -182,9 +166,9 @@ Aquatic insects contribute to freshwater diversity by approximately 60% as the l
     
     <item>
       <title>Protected areas in Cuba</title>
-      <link>/project/cuba_biodiversity/</link>
+      <link>https://glowabio.org/project/cuba_biodiversity/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>/project/cuba_biodiversity/</guid>
+      <guid>https://glowabio.org/project/cuba_biodiversity/</guid>
       <description>&lt;p&gt;Freshwater ecosystems are among the most biodiverse and the most important providers of services to humans globally. Unfortunately, these ecosystems are also among the most threatened in the world. In Cuba, the main threats to freshwater ecosystems are climate change and habitat loss and fragmentation induced by land use/land cover change (LULC). Cuba’s National System of Protected Areas (in short SNAP for Sistema Nacional de Áreas Protegidas) is the main tool to protect biodiversity across the country. However, SNAP was not explicitly designed to account for freshwater biodiversity, ecosystem services, river’s connectivity and future scenarios of climate and LULC.&lt;/p&gt;
 &lt;p&gt;The main goal of the present project is to assess the protection offered by SNAP to freshwater biodiversity and to the provision of freshwater ecosystem services, considering the present conditions and future climate and land use/land cover change scenarios across Cuba. We expect to identify a hypothetical network of protected areas that should assure targets for biodiversity and ecosystem services in the present and future environmental conditions, at the lowest possible cost.&lt;/p&gt;
 </description>
@@ -192,18 +176,18 @@ Aquatic insects contribute to freshwater diversity by approximately 60% as the l
     
     <item>
       <title>Spatial conservation planning</title>
-      <link>/project/glowabio_conservation/</link>
+      <link>https://glowabio.org/project/glowabio_conservation/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>/project/glowabio_conservation/</guid>
+      <guid>https://glowabio.org/project/glowabio_conservation/</guid>
       <description>&lt;p&gt;Current freshwater conservation efforts fall short in effectively protecting freshwater biodiversity. Acknowledging the challenge in freshwater conservation management, further assessments are needed regarding the efficiency of conservation planning. We aim to analyze global, systematic conservation planning networks given the key features habitat and biodiversity to (i) highlight areas of irreplaceability within freshwater ecosystems, and (ii) to compare the effectiveness of present-day conservation efforts vs. alternative, prioritized freshwater conservation planning solutions.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Freshwater-specific environmental variables</title>
-      <link>/data_code/freshwater-variables/</link>
+      <link>https://glowabio.org/data_code/freshwater-variables/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0200</pubDate>
-      <guid>/data_code/freshwater-variables/</guid>
+      <guid>https://glowabio.org/data_code/freshwater-variables/</guid>
       <description>&lt;p&gt;This tutorial shows you how to calculate stream-specific freshwater variables by relating the upstream e.g. land cover to any given downstream location using the GRASS GIS add-ons &lt;em&gt;r.stream.watersheds&lt;/em&gt; &amp;amp; &lt;em&gt;r.stream.variables&lt;/em&gt;. The original 1km data and publication are available &lt;a href=&#34;http://www.earthenv.org/streams&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; - see also the original code from &lt;a href=&#34;http://spatial-ecology.net/dokuwiki/doku.php?id=wiki:grassrivarvariable&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;spatial-ecology.net&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.earthenv.org/streams&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
 
@@ -224,7 +208,7 @@ Aquatic insects contribute to freshwater diversity by approximately 60% as the l
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Add-on animation&#34;
-           src=&#34;/media/Add-ons_for_GRASS_GIS.gif&#34;
+           src=&#34;https://glowabio.org/media/Add-ons_for_GRASS_GIS.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/a&gt;&lt;/p&gt;
@@ -244,96 +228,96 @@ Aquatic insects contribute to freshwater diversity by approximately 60% as the l
 &lt;/div&gt;
 &lt;br/&gt;
 &lt;p&gt;Create and enter the folder where the data will be stored:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;export INDIR=$HOME/grass_hydro
-mkdir $INDIR 
-cd $INDIR
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Download the script&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;cd ~
-wget &amp;#34;http://www.spatial-ecology.net/ost4sem/exercise/basic_adv_grass/stream_variables.sh&amp;#34;
-rstudio stream_variables.sh &amp;amp;
-&lt;/code&gt;&lt;/pre&gt;&lt;br/&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;export INDIR=$HOME/grass_hydro
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;mkdir $INDIR 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;cd $INDIR
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Download the script&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;cd ~
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wget &amp;#34;http://www.spatial-ecology.net/ost4sem/exercise/basic_adv_grass/stream_variables.sh&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rstudio stream_variables.sh &amp;amp;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;br/&gt;
 &lt;p&gt;Download and unzip a DEM from &lt;a href=&#34;http://www.worldclim.org/tiles.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WorldClim&lt;/a&gt;:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;wget -O  $INDIR/alt_16_tif.zip  &amp;#34;http://biogeo.ucdavis.edu/data/climate/worldclim/1_4/tiles/cur/alt_16_tif.zip&amp;#34;
-unzip  -o $INDIR/alt_16_tif.zip  -d  $INDIR/dem
-gdalinfo $INDIR/dem/alt_16.tif        # check data
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;If needed, first install the latest GRASS GIS version:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo add-apt-repository ppa:ubuntugis/ubuntugis-unstable
-sudo add-apt-repository ppa:grass/grass-devel
-sudo apt-get update
-sudo apt-get install grass grass-gui grass-dev subversion gdal-bin libgdal-grass libalgorithms1 libbase1 libgdal-dev
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Create the GRASS GIS data base and enter GRASS:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;grass78  -text -c $INDIR/dem/alt_16.tif  $INDIR/grass_location
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Read data into GRASS:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.in.gdal input=$INDIR/dem/alt_16.tif    output=elevation
-r.info elevation # check data
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Open GUI and visualize the layers:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;g.gui wxpython
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Run hydrological conditioning:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;g.extension  extension=r.hydrodem # download extension
-# if you get an error run: sudo apt install grass-dev subversion
-r.hydrodem  input=elevation  output=elevation_cond
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Extract drainage direction and stream network&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.watershed  --h  # see help regarding the options and flags
-r.watershed  elevation=elevation_cond  drainage=drainage   stream=stream  accumulation=accumulation  threshold=100  --o
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Get drainage basins (last downstream segment: -l flag)&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;g.extension  extension=r.stream.basins
-r.stream.basins  direction=drainage  stream_rast=stream  basins=basins_last  -l  --o
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Categorize the single basins:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.clump -d input=basins_last  output=basins_cat  --o
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Extract the data for one basin:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.mapcalc &amp;#34;drainage_sub = if (basins_cat==798, drainage, null() ) &amp;#34;  --o
-r.mapcalc &amp;#34;stream_sub = if (basins_cat==798, stream, null() ) &amp;#34;  --o
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Write files to disk:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.out.gdal  input=drainage_sub   output=$INDIR/drainage_sub.tif  type=Int32  nodata=-9999  --o  -c    createopt=&amp;#34;COMPRESS=LZW,ZLEVEL=9&amp;#34;
-r.out.gdal  input=stream_sub     output=$INDIR/stream_sub.tif    type=Int32  nodata=-9999  --o  -c    createopt=&amp;#34;COMPRESS=LZW,ZLEVEL=9&amp;#34;
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;Create stream-specific variables, and limit the calculation only to a single basin.&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wget -O  $INDIR/alt_16_tif.zip  &amp;#34;http://biogeo.ucdavis.edu/data/climate/worldclim/1_4/tiles/cur/alt_16_tif.zip&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;unzip  -o $INDIR/alt_16_tif.zip  -d  $INDIR/dem
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;gdalinfo $INDIR/dem/alt_16.tif        # check data
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;If needed, first install the latest GRASS GIS version:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo add-apt-repository ppa:ubuntugis/ubuntugis-unstable
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo add-apt-repository ppa:grass/grass-devel
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo apt-get update
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo apt-get install grass grass-gui grass-dev subversion gdal-bin libgdal-grass libalgorithms1 libbase1 libgdal-dev
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Create the GRASS GIS data base and enter GRASS:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;grass78  -text -c $INDIR/dem/alt_16.tif  $INDIR/grass_location
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Read data into GRASS:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.in.gdal input=$INDIR/dem/alt_16.tif    output=elevation
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.info elevation # check data
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Open GUI and visualize the layers:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;g.gui wxpython
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Run hydrological conditioning:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;g.extension  extension=r.hydrodem # download extension
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# if you get an error run: sudo apt install grass-dev subversion
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.hydrodem  input=elevation  output=elevation_cond
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Extract drainage direction and stream network&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.watershed  --h  # see help regarding the options and flags
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.watershed  elevation=elevation_cond  drainage=drainage   stream=stream  accumulation=accumulation  threshold=100  --o
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Get drainage basins (last downstream segment: -l flag)&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;g.extension  extension=r.stream.basins
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.stream.basins  direction=drainage  stream_rast=stream  basins=basins_last  -l  --o
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Categorize the single basins:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.clump -d input=basins_last  output=basins_cat  --o
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Extract the data for one basin:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.mapcalc &amp;#34;drainage_sub = if (basins_cat==798, drainage, null() ) &amp;#34;  --o
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.mapcalc &amp;#34;stream_sub = if (basins_cat==798, stream, null() ) &amp;#34;  --o
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Write files to disk:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.out.gdal  input=drainage_sub   output=$INDIR/drainage_sub.tif  type=Int32  nodata=-9999  --o  -c    createopt=&amp;#34;COMPRESS=LZW,ZLEVEL=9&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.out.gdal  input=stream_sub     output=$INDIR/stream_sub.tif    type=Int32  nodata=-9999  --o  -c    createopt=&amp;#34;COMPRESS=LZW,ZLEVEL=9&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Create stream-specific variables, and limit the calculation only to a single basin.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Download and install the GRASS add-ons. Work-around (December 2019) for grass78:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;mkdir $HOME/.grass7/addons/scripts
-wget -O $HOME/.grass7/addons/scripts/r.stream.watersheds &amp;#34;https://raw.githubusercontent.com/domisch/grass-addons/master/r.stream.watersheds&amp;#34;
-chmod 777  $HOME/.grass7/addons/scripts/r.stream.watersheds
-
-wget -O $HOME/.grass7/addons/scripts/r.stream.variables &amp;#34;https://raw.githubusercontent.com/domisch/grass-addons/master/r.stream.variables&amp;#34;
-chmod 777  $HOME/.grass7/addons/scripts/r.stream.variables
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Add-on 1: Calculate the sub-watershed and sub-stream sections for each stream grid cell using 2 processors:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.stream.watersheds stream=stream_sub  drainage=drainage_sub  cpu=2
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Add-on 2: Create stream-specific variables based on elevation&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.stream.variables  variable=elevation  output=cells,min,max,range,mean,stddev,coeff_var,sum  area=watershed  scale=1  cpu=2
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Rename the “elevation_cells” to “flow_accumulation” and check variables:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.mapcalc &amp;#34;flow_accummulation = elevation_cells&amp;#34;  --o
-r.info  flow_accummulation
-r.info  elevation_range
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Get stream length (similar procedure as above):&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.stream.variables  variable=elevation  output=cells  area=stream  scale=1  cpu=2
-r.mapcalc &amp;#34;stream_length = elevation_cells&amp;#34;  --o
-r.info  stream_length 
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Calculate the amount of rainfall within the basin:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;wget -O  $INDIR/prec_16_tif.zip  &amp;#34;http://biogeo.ucdavis.edu/data/climate/worldclim/1_4/tiles/cur/prec_16_tif.zip&amp;#34;
-unzip -q  -o $INDIR/prec_16_tif.zip  -d  $INDIR/prec
-r.in.gdal input=$INDIR/prec/prec6_16.tif   output=prec6   # rainfall in June
-r.stream.variables  variable=prec6  output=sum  area=watershed  scale=1  cpu=2
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Run all 12 months in a loop:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;for var in $(seq 1 12); do
-r.in.gdal input=$INDIR/prec/prec${var}_16.tif   output=prec$var
-r.stream.variables  variable=prec$var  output=sum  area=watershed  scale=1  cpu=2
-done
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Other useful add-ons for hydrological applications: &lt;a href=&#34;http://grasswiki.osgeo.org/wiki/Hydrological_Sciences&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://grasswiki.osgeo.org/wiki/Hydrological_Sciences&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;mkdir $HOME/.grass7/addons/scripts
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wget -O $HOME/.grass7/addons/scripts/r.stream.watersheds &amp;#34;https://raw.githubusercontent.com/domisch/grass-addons/master/r.stream.watersheds&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;chmod 777  $HOME/.grass7/addons/scripts/r.stream.watersheds
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wget -O $HOME/.grass7/addons/scripts/r.stream.variables &amp;#34;https://raw.githubusercontent.com/domisch/grass-addons/master/r.stream.variables&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;chmod 777  $HOME/.grass7/addons/scripts/r.stream.variables
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Add-on 1: Calculate the sub-watershed and sub-stream sections for each stream grid cell using 2 processors:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.stream.watersheds stream=stream_sub  drainage=drainage_sub  cpu=2
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Add-on 2: Create stream-specific variables based on elevation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.stream.variables  variable=elevation  output=cells,min,max,range,mean,stddev,coeff_var,sum  area=watershed  scale=1  cpu=2
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Rename the “elevation_cells” to “flow_accumulation” and check variables:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.mapcalc &amp;#34;flow_accummulation = elevation_cells&amp;#34;  --o
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.info  flow_accummulation
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.info  elevation_range
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Get stream length (similar procedure as above):&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.stream.variables  variable=elevation  output=cells  area=stream  scale=1  cpu=2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.mapcalc &amp;#34;stream_length = elevation_cells&amp;#34;  --o
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.info  stream_length 
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Calculate the amount of rainfall within the basin:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wget -O  $INDIR/prec_16_tif.zip  &amp;#34;http://biogeo.ucdavis.edu/data/climate/worldclim/1_4/tiles/cur/prec_16_tif.zip&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;unzip -q  -o $INDIR/prec_16_tif.zip  -d  $INDIR/prec
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.in.gdal input=$INDIR/prec/prec6_16.tif   output=prec6   # rainfall in June
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.stream.variables  variable=prec6  output=sum  area=watershed  scale=1  cpu=2
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Run all 12 months in a loop:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;for var in $(seq 1 12); do
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.in.gdal input=$INDIR/prec/prec${var}_16.tif   output=prec$var
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.stream.variables  variable=prec$var  output=sum  area=watershed  scale=1  cpu=2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;done
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Other useful add-ons for hydrological applications: &lt;a href=&#34;http://grasswiki.osgeo.org/wiki/Hydrological_Sciences&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://grasswiki.osgeo.org/wiki/Hydrological_Sciences&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Other examples&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Get the stream order:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.stream.order  stream_rast=stream   direction=drainage   strahler=str_order  --o
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Get only streams and basins &amp;gt;=3rd order&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.mapcalc &amp;#34;str_order_3rd = if(str_order &amp;gt;=3, str_order, null() ) &amp;#34;  --o
-r.stream.basins  direction=drainage  stream_rast=str_order_3rd  basins=basins_3rd_last   -l  --o
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Stream distance - Calculates distance to and elevation above streams and outlet&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;g.extension extension=r.stream.distance
-r.stream.distance   stream_rast=stream   direction=drainage   elevation=elevation_cond  method=downstream   distance=str_distance    difference=str_elevation_diff  --o
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Stream order statistics - Calculates Horton&amp;rsquo;s statistics for Strahler and Horton ordered networks created with r.stream.order Print only order statistics:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;g.extension extension=r.stream.stats
-r.stream.stats  stream_rast=stream   direction=drainage   elevation=elevation_cond  output=str_stats_o.txt    --o   
-more $INDIR/str_stats_o.txt
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Print only catchment statistics:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.stream.stats  stream_rast=stream   direction=drainage   elevation=elevation_cond  output=str_stats_c.txt    -c 
-more $INDIR/str_stats_c.txt
-&lt;/code&gt;&lt;/pre&gt;&lt;br/&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.stream.order  stream_rast=stream   direction=drainage   strahler=str_order  --o
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Get only streams and basins &amp;gt;=3rd order&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.mapcalc &amp;#34;str_order_3rd = if(str_order &amp;gt;=3, str_order, null() ) &amp;#34;  --o
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.stream.basins  direction=drainage  stream_rast=str_order_3rd  basins=basins_3rd_last   -l  --o
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Stream distance - Calculates distance to and elevation above streams and outlet&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;g.extension extension=r.stream.distance
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.stream.distance   stream_rast=stream   direction=drainage   elevation=elevation_cond  method=downstream   distance=str_distance    difference=str_elevation_diff  --o
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Stream order statistics - Calculates Horton&amp;rsquo;s statistics for Strahler and Horton ordered networks created with r.stream.order Print only order statistics:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;g.extension extension=r.stream.stats
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.stream.stats  stream_rast=stream   direction=drainage   elevation=elevation_cond  output=str_stats_o.txt    --o   
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;more $INDIR/str_stats_o.txt
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Print only catchment statistics:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.stream.stats  stream_rast=stream   direction=drainage   elevation=elevation_cond  output=str_stats_c.txt    -c 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;more $INDIR/str_stats_c.txt
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;br/&gt;
 &lt;p&gt;&lt;strong&gt;See also these useful GRASS-GIS commands for hydrological applications:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://grass.osgeo.org/grass78/manuals/topic_hydrology.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://grass.osgeo.org/grass78/manuals/topic_hydrology.html&lt;/a&gt;
 &lt;a href=&#34;https://grasswiki.osgeo.org/wiki/R.stream&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://grasswiki.osgeo.org/wiki/R.stream&lt;/a&gt;.*_modules &lt;br/&gt;
@@ -344,9 +328,9 @@ more $INDIR/str_stats_c.txt
     
     <item>
       <title>Bayesian species distribution models</title>
-      <link>/data_code/bayesian-species-distribution-models/</link>
+      <link>https://glowabio.org/data_code/bayesian-species-distribution-models/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0200</pubDate>
-      <guid>/data_code/bayesian-species-distribution-models/</guid>
+      <guid>https://glowabio.org/data_code/bayesian-species-distribution-models/</guid>
       <description>&lt;p&gt;Here is a tutorial of running a &lt;a href=&#34;https://github.com/domisch/species_distribution_models&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;species distribution model in a Bayesian framework&lt;/a&gt; using the hSDM package in R, using a rangemap as a covariate. See also the associated paper in &lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1111/ecog.01925/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ecography&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/domisch/species_distribution_models&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
 
@@ -370,7 +354,7 @@ more $INDIR/str_stats_c.txt
                /media/bayesian_SDMs_hu65c47ba3bb45951a0fd7155bf8b2839f_200795_4e5a97927a726dac4958bc9feefd1902.webp 400w,
                /media/bayesian_SDMs_hu65c47ba3bb45951a0fd7155bf8b2839f_200795_1c017a60436019d793eea9fe6f95bdbe.webp 760w,
                /media/bayesian_SDMs_hu65c47ba3bb45951a0fd7155bf8b2839f_200795_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;/media/bayesian_SDMs_hu65c47ba3bb45951a0fd7155bf8b2839f_200795_4e5a97927a726dac4958bc9feefd1902.webp&#34;
+               src=&#34;https://glowabio.org/media/bayesian_SDMs_hu65c47ba3bb45951a0fd7155bf8b2839f_200795_4e5a97927a726dac4958bc9feefd1902.webp&#34;
                width=&#34;760&#34;
                height=&#34;417&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -381,73 +365,73 @@ more $INDIR/str_stats_c.txt
     
     <item>
       <title>Invasion impacts and dynamics of a European-wide introduced species</title>
-      <link>/publication/2022_haubrock_invasion_impacts/</link>
+      <link>https://glowabio.org/publication/2022_haubrock_invasion_impacts/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022_haubrock_invasion_impacts/</guid>
+      <guid>https://glowabio.org/publication/2022_haubrock_invasion_impacts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Incongruent latitudinal patterns of taxonomic, phylogenetic and functional diversity reveal different drivers of caddisfly community assembly across spatial scales</title>
-      <link>/publication/2022_grigoropoulou_geb/</link>
+      <link>https://glowabio.org/publication/2022_grigoropoulou_geb/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022_grigoropoulou_geb/</guid>
+      <guid>https://glowabio.org/publication/2022_grigoropoulou_geb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Incongruent latitudinal patterns of taxonomic, phylogenetic and functional diversity reveal different drivers of caddisfly community assembly across spatial scales</title>
-      <link>/publication/template/</link>
+      <link>https://glowabio.org/publication/template/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/template/</guid>
+      <guid>https://glowabio.org/publication/template/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A global agenda for advancing freshwater biodiversity research</title>
-      <link>/publication/2022_maasri_global_agenda/</link>
+      <link>https://glowabio.org/publication/2022_maasri_global_agenda/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022_maasri_global_agenda/</guid>
+      <guid>https://glowabio.org/publication/2022_maasri_global_agenda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assessing whether artificial intelligence is an enabler or an inhibitor of sustainability</title>
-      <link>/publication/2021_gupta_assessing_whether_artificial/</link>
+      <link>https://glowabio.org/publication/2021_gupta_assessing_whether_artificial/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_gupta_assessing_whether_artificial/</guid>
+      <guid>https://glowabio.org/publication/2021_gupta_assessing_whether_artificial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Twenty-five essential research questions to inform the protection and restoration of freshwater biodiversity</title>
-      <link>/publication/2021_harper_twenty-five_essential/</link>
+      <link>https://glowabio.org/publication/2021_harper_twenty-five_essential/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_harper_twenty-five_essential/</guid>
+      <guid>https://glowabio.org/publication/2021_harper_twenty-five_essential/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving the reliability of eDNA data interpretation</title>
-      <link>/publication/2021_burian_improving_the_reliability/</link>
+      <link>https://glowabio.org/publication/2021_burian_improving_the_reliability/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_burian_improving_the_reliability/</guid>
+      <guid>https://glowabio.org/publication/2021_burian_improving_the_reliability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrative species delimitation: testing the efficacy of the multispecies coalescent model in the Greenthroat Darter complex (Percidae: Etheostomatinae)</title>
-      <link>/publication/2021_mcguigan_integrative_species-delimitation/</link>
+      <link>https://glowabio.org/publication/2021_mcguigan_integrative_species-delimitation/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_mcguigan_integrative_species-delimitation/</guid>
+      <guid>https://glowabio.org/publication/2021_mcguigan_integrative_species-delimitation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Safeguarding freshwater life beyond 2020: Recommendations for the new global biodiversity framework from the European experience</title>
-      <link>/publication/2021_rees_safeguarding_freshwater/</link>
+      <link>https://glowabio.org/publication/2021_rees_safeguarding_freshwater/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_rees_safeguarding_freshwater/</guid>
+      <guid>https://glowabio.org/publication/2021_rees_safeguarding_freshwater/</guid>
       <description>&lt;p&gt;+++
 title = &amp;ldquo;Safeguarding freshwater life beyond 2020: Recommendations for the new global biodiversity framework from the European experience&amp;rdquo;
 date = &amp;ldquo;2021-02-01&amp;rdquo;
@@ -457,26 +441,26 @@ authors = [&amp;ldquo;van Rees, C.B.&amp;rdquo;, &amp;ldquo;Waylen, K.&amp;rdquo
     
     <item>
       <title>Revisiting global trends in freshwater insect biodiversity</title>
-      <link>/publication/2020_jahnig_revisiting-global-trends/</link>
+      <link>https://glowabio.org/publication/2020_jahnig_revisiting-global-trends/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2020_jahnig_revisiting-global-trends/</guid>
+      <guid>https://glowabio.org/publication/2020_jahnig_revisiting-global-trends/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Extract raster values</title>
-      <link>/data_code/extract-variables/</link>
+      <link>https://glowabio.org/data_code/extract-variables/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0200</pubDate>
-      <guid>/data_code/extract-variables/</guid>
+      <guid>https://glowabio.org/data_code/extract-variables/</guid>
       <description>&lt;p&gt;Here are some useful commands to move point records to a stream network and to extract the values for each point. The code is maintained on GitHub at  &lt;a href=&#34;https://github.com/domisch/stream_layers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/domisch/stream_layers&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Open-source GIS</title>
-      <link>/data_code/open-source-gis/</link>
+      <link>https://glowabio.org/data_code/open-source-gis/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0200</pubDate>
-      <guid>/data_code/open-source-gis/</guid>
+      <guid>https://glowabio.org/data_code/open-source-gis/</guid>
       <description>&lt;p&gt;Here is a &lt;a href=&#34;https://github.com/domisch/GIS_tools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;collection of open-source GIS tools, using the Linux command line&lt;/a&gt;. The code is maintained at GitHub and includes GDAL/OGR, GRASS, pktools, OpenForis, awk and R.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/domisch/GIS_tools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
 
@@ -500,7 +484,7 @@ authors = [&amp;ldquo;van Rees, C.B.&amp;rdquo;, &amp;ldquo;Waylen, K.&amp;rdquo
                /media/open_source_hucdbbdb3d688cfa4ae7428dcc0605f13d_183349_1bde270aa5b6b5971c989fcc9840e72c.webp 400w,
                /media/open_source_hucdbbdb3d688cfa4ae7428dcc0605f13d_183349_d9f57ca9b54d31d19d3f04f81d1da8eb.webp 760w,
                /media/open_source_hucdbbdb3d688cfa4ae7428dcc0605f13d_183349_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;/media/open_source_hucdbbdb3d688cfa4ae7428dcc0605f13d_183349_1bde270aa5b6b5971c989fcc9840e72c.webp&#34;
+               src=&#34;https://glowabio.org/media/open_source_hucdbbdb3d688cfa4ae7428dcc0605f13d_183349_1bde270aa5b6b5971c989fcc9840e72c.webp&#34;
                width=&#34;760&#34;
                height=&#34;349&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -511,73 +495,73 @@ authors = [&amp;ldquo;van Rees, C.B.&amp;rdquo;, &amp;ldquo;Waylen, K.&amp;rdquo
     
     <item>
       <title>Estimating nitrogen and phosphorus concentrations in streams and rivers, within a machine learning framework</title>
-      <link>/publication/2020_shen_estimating_nitrogen/</link>
+      <link>https://glowabio.org/publication/2020_shen_estimating_nitrogen/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020_shen_estimating_nitrogen/</guid>
+      <guid>https://glowabio.org/publication/2020_shen_estimating_nitrogen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Geomorpho90m, empirical evaluation and accuracy assessment of global high-resolution geomorphometric layers</title>
-      <link>/publication/2019_amatulli_geomorpho90m/</link>
+      <link>https://glowabio.org/publication/2019_amatulli_geomorpho90m/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_amatulli_geomorpho90m/</guid>
+      <guid>https://glowabio.org/publication/2019_amatulli_geomorpho90m/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Climate model variability leads to uncertain predictions of the future abundance of stream macroinvertebrates</title>
-      <link>/publication/2019_kakouei_climate_model_variability/</link>
+      <link>https://glowabio.org/publication/2019_kakouei_climate_model_variability/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_kakouei_climate_model_variability/</guid>
+      <guid>https://glowabio.org/publication/2019_kakouei_climate_model_variability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Art-Areal-Modellierung für Fischarten im Einzugsgebiet der oberen Donau: Aspekte zur Interpretation der Projektionen</title>
-      <link>/publication/2019_friedrichs_mathay_-art-areal-modellierung/</link>
+      <link>https://glowabio.org/publication/2019_friedrichs_mathay_-art-areal-modellierung/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_friedrichs_mathay_-art-areal-modellierung/</guid>
+      <guid>https://glowabio.org/publication/2019_friedrichs_mathay_-art-areal-modellierung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From topography to hydrology - the modifiable area unit problem impacts freshwater species distribution models</title>
-      <link>/publication/2019_friedrichs-manthay_from_topography_to_hydrology/</link>
+      <link>https://glowabio.org/publication/2019_friedrichs-manthay_from_topography_to_hydrology/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_friedrichs-manthay_from_topography_to_hydrology/</guid>
+      <guid>https://glowabio.org/publication/2019_friedrichs-manthay_from_topography_to_hydrology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Elevation, aspect, and local environment jointly determine diatom and macroinvertebrate diversity in the Hengduan Mountains region</title>
-      <link>/publication/2019_he_elevation_aspect/</link>
+      <link>https://glowabio.org/publication/2019_he_elevation_aspect/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_he_elevation_aspect/</guid>
+      <guid>https://glowabio.org/publication/2019_he_elevation_aspect/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The role of artificial intelligence in achieving the Sustainable Development Goals</title>
-      <link>/publication/2019_vinuesa_assessing_whether_artificial/</link>
+      <link>https://glowabio.org/publication/2019_vinuesa_assessing_whether_artificial/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_vinuesa_assessing_whether_artificial/</guid>
+      <guid>https://glowabio.org/publication/2019_vinuesa_assessing_whether_artificial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to make ecological models useful for environmental management</title>
-      <link>/publication/2019_schuwirth_useful_model/</link>
+      <link>https://glowabio.org/publication/2019_schuwirth_useful_model/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_schuwirth_useful_model/</guid>
+      <guid>https://glowabio.org/publication/2019_schuwirth_useful_model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Privacy policy and legal notes</title>
-      <link>/privacy/</link>
+      <link>https://glowabio.org/privacy/</link>
       <pubDate>Thu, 02 Aug 2018 00:00:00 +0200</pubDate>
-      <guid>/privacy/</guid>
+      <guid>https://glowabio.org/privacy/</guid>
       <description>&lt;p&gt;Effective date: August 02, 2019&lt;/p&gt;
 &lt;br/&gt;
 &lt;p&gt;This site provides information regarding the Privacy Policy and Legal Notes in compliance with § 6 TDG (&amp;ldquo;Telemediengesetz&amp;rdquo;).&lt;/p&gt;
@@ -612,73 +596,73 @@ Phone: +49 (0) 30 6392 4079&lt;/p&gt;
     
     <item>
       <title>Choice of study area and predictors affect habitat suitability projections, but not the performance of species distribution models of stream biota</title>
-      <link>/publication/2013_domisch_choice_of_study_area/</link>
+      <link>https://glowabio.org/publication/2013_domisch_choice_of_study_area/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/2013_domisch_choice_of_study_area/</guid>
+      <guid>https://glowabio.org/publication/2013_domisch_choice_of_study_area/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modelling of riverine ecosystems by integrating models: conceptual approach, a case study and research agenda</title>
-      <link>/publication/2012_jaehnig_modelling_of_riverine/</link>
+      <link>https://glowabio.org/publication/2012_jaehnig_modelling_of_riverine/</link>
       <pubDate>Tue, 20 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/2012_jaehnig_modelling_of_riverine/</guid>
+      <guid>https://glowabio.org/publication/2012_jaehnig_modelling_of_riverine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrierte Modellierung von aquatischen Ökosystemen in China: Arealbestimmung von Makrozoobenthos auf Einzugsgebietsebene - Integrated modelling of aquatic ecosystems in China: Distribution of benthic macroinvertebrates at catchment scale</title>
-      <link>/publication/2012_kuemmerlen_integrierte_modellierung/</link>
+      <link>https://glowabio.org/publication/2012_kuemmerlen_integrierte_modellierung/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/2012_kuemmerlen_integrierte_modellierung/</guid>
+      <guid>https://glowabio.org/publication/2012_kuemmerlen_integrierte_modellierung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Range shifts of a relict Himalayan dragonfly in the Hindu Kush Himalayan region under climate change scenarios</title>
-      <link>/publication/2012_shah_range_shifts_of_a_relict/</link>
+      <link>https://glowabio.org/publication/2012_shah_range_shifts_of_a_relict/</link>
       <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/2012_shah_range_shifts_of_a_relict/</guid>
+      <guid>https://glowabio.org/publication/2012_shah_range_shifts_of_a_relict/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cryptic biodiversity loss linked to global climate change</title>
-      <link>/publication/2011_balint_cryptic_biodiversity/</link>
+      <link>https://glowabio.org/publication/2011_balint_cryptic_biodiversity/</link>
       <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/2011_balint_cryptic_biodiversity/</guid>
+      <guid>https://glowabio.org/publication/2011_balint_cryptic_biodiversity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Low mountain ranges: summit traps for montane freshwater species under climate change</title>
-      <link>/publication/2011_sauer_low_mountain_ranges/</link>
+      <link>https://glowabio.org/publication/2011_sauer_low_mountain_ranges/</link>
       <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/2011_sauer_low_mountain_ranges/</guid>
+      <guid>https://glowabio.org/publication/2011_sauer_low_mountain_ranges/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Climate-change winners and losers: stream macroinvertebrates of a submontane region in Central Europe</title>
-      <link>/publication/2011_domisch_climate-change_winners/</link>
+      <link>https://glowabio.org/publication/2011_domisch_climate-change_winners/</link>
       <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/2011_domisch_climate-change_winners/</guid>
+      <guid>https://glowabio.org/publication/2011_domisch_climate-change_winners/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/admin/config.yml</link>
+      <link>https://glowabio.org/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/admin/config.yml</guid>
+      <guid>https://glowabio.org/admin/config.yml</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/people/</link>
+      <link>https://glowabio.org/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/people/</guid>
+      <guid>https://glowabio.org/people/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dr. Giuseppe Amatulli | Global freshwater biodiversity research</title>
-    <link>/authors/giuseppe-amatulli/</link>
-      <atom:link href="/authors/giuseppe-amatulli/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glowabio.org/authors/giuseppe-amatulli/</link>
+      <atom:link href="https://glowabio.org/authors/giuseppe-amatulli/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. Giuseppe Amatulli</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/authors/giuseppe-amatulli/avatar_hu6edfedb12125844d15c3e72ced1d35e2_8258_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://glowabio.org/authors/giuseppe-amatulli/avatar_hu6edfedb12125844d15c3e72ced1d35e2_8258_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Dr. Giuseppe Amatulli</title>
-      <link>/authors/giuseppe-amatulli/</link>
+      <link>https://glowabio.org/authors/giuseppe-amatulli/</link>
     </image>
     
     <item>
       <title>Geomorpho90m</title>
-      <link>/project/geomorpho90m/</link>
+      <link>https://glowabio.org/project/geomorpho90m/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>/project/geomorpho90m/</guid>
+      <guid>https://glowabio.org/project/geomorpho90m/</guid>
       <description>&lt;p&gt;The &lt;strong&gt;Geomorphho90m&lt;/strong&gt; dataset&lt;/p&gt;
 &lt;p&gt;Topographical relief comprises the vertical and horizontal variations of the Earth’s terrain and drives processes in geomorphology, biogeography, climatology, hydrology and ecology. Its characterisation and assessment, through geomorphometry and feature extraction, is fundamental to numerous environmental modelling and simulation analyses. We developed the Geomorpho90m global dataset comprising of different geomorphometric features derived from the MERIT-Digital Elevation Model (DEM) - the best global, high-resolution DEM available. The fully-standardised 26 geomorphometric variables consist of layers that describe the (i) rate of change across the elevation gradient, using first and second derivatives, (ii) ruggedness, and (iii) geomorphological forms. The Geomorpho90m variables are available at 3 (~90 m) and 7.5 arc-second (~250 m) resolutions under the WGS84 geodetic datum, and 100 m spatial resolution under the Equi7 projection. They are useful for modelling applications in fields such as geomorphology, geology, hydrology, ecology and biogeography.&lt;/p&gt;
 &lt;p&gt;Check out the paper in &lt;a href=&#34;https://www.nature.com/articles/s41597-020-0479-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Scientific Data&lt;/em&gt;&lt;/a&gt;. The data can be downloaded &lt;a href=&#34;https://doi.pangaea.de/10.1594/PANGAEA.899135&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and visualized &lt;a href=&#34;https://www.openlandmap.org/#/?base=Stamen%20%28OpenStreetMap%29&amp;amp;center=26.8842,38.4204&amp;amp;zoom=3.294688713147893&amp;amp;opacity=40&amp;amp;layer=dtm_roughness_merit.dem_m&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -29,9 +29,9 @@
     
     <item>
       <title>Hydrography90m</title>
-      <link>/project/hydrography90m/</link>
+      <link>https://glowabio.org/project/hydrography90m/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>/project/hydrography90m/</guid>
+      <guid>https://glowabio.org/project/hydrography90m/</guid>
       <description>&lt;p&gt;The &lt;strong&gt;Hydography90m&lt;/strong&gt; dataset&lt;/p&gt;
 &lt;p&gt;We used the MERIT Hydro Digital Elevation Model at 3 arc-sec (∼90 m at the equator) to derive a globally seamless, standardised hydrographic network, the &amp;ldquo;Hydrography90m&amp;rdquo;, with corresponding stream topographic and topologicalinformation. A central feature of the network is the minimal upstream contributing area, i.e. flow accumulation,of 0.05 km2 (or 5 ha) to initiate a stream channel, which allowed us to extract headwater stream channels ingreat detail. By employing a suite of GRASS GIS hydrological modules, we calculated the range-wide upstreamflow accumulation and flow direction to delineate a total of 1.6 million drainage basins, and extracted globallya total of 726 million unique stream segments with their corresponding sub-catchments. In addition, we computed stream topographic variables comprising stream slope, gradient, length, and curvature attributes, as wellas stream topological variables to allow for network routing and various stream order classifications. We validated the spatial accuracy and flow accumulation of Hydrography90m against NHDPlus HR, an independent,national high-resolution hydrographic network dataset of the United States. Our validation shows that the newly developed Hydrography90m has the highest spatial precision, and contains more headwater stream channels compared to three other global hydrographic datasets. This inclusive approach provides a vital, and long-overdue baseline for assessing actual streamflow in headwaters, and opens new research avenues for high-resolution studies of surface water worldwide. Hydrography90m thus offers significant potential to facilitate the assessment offreshwater quantity and quality, inundation risk, biodiversity and conservation, as well as resource managementobjectives in a globally comprehensive and standardised manner. We provide all the computed layers for visualisation and download in 20° × 20° tiles.&lt;/p&gt;
 &lt;p&gt;Check out the paper in  &lt;a href=&#34;https://essd.copernicus.org/preprints/essd-2022-9/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Earth System Science Data&lt;/em&gt;&lt;/a&gt;. The data can be downloaded &lt;a href=&#34;https://public.igb-berlin.de/index.php/s/agciopgzXjWswF4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and visualized &lt;a href=&#34;https://geo.igb-berlin.de/maps/351/view/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;

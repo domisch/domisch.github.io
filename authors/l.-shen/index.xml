@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>L. Shen | Global freshwater biodiversity research</title>
-    <link>/authors/l.-shen/</link>
-      <atom:link href="/authors/l.-shen/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glowabio.org/authors/l.-shen/</link>
+      <atom:link href="https://glowabio.org/authors/l.-shen/index.xml" rel="self" type="application/rss+xml" />
     <description>L. Shen</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>L. Shen</title>
-      <link>/authors/l.-shen/</link>
+      <link>https://glowabio.org/authors/l.-shen/</link>
     </image>
     
     <item>
       <title>Hydrography90m: A new high-resolution global hydrographic dataset</title>
-      <link>/publication/2022_amatulli_hydrography90m/</link>
+      <link>https://glowabio.org/publication/2022_amatulli_hydrography90m/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022_amatulli_hydrography90m/</guid>
+      <guid>https://glowabio.org/publication/2022_amatulli_hydrography90m/</guid>
       <description></description>
     </item>
     

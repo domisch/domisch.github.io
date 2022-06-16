@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xiling Deng | Global freshwater biodiversity research</title>
-    <link>/authors/xiling-deng/</link>
-      <atom:link href="/authors/xiling-deng/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glowabio.org/authors/xiling-deng/</link>
+      <atom:link href="https://glowabio.org/authors/xiling-deng/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiling Deng</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>/authors/xiling-deng/avatar_hu98fd802c07041378cea65ad41814309d_45239_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://glowabio.org/authors/xiling-deng/avatar_hu98fd802c07041378cea65ad41814309d_45239_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Xiling Deng</title>
-      <link>/authors/xiling-deng/</link>
+      <link>https://glowabio.org/authors/xiling-deng/</link>
     </image>
     
   </channel>

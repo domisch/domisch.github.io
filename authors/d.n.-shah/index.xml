@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>D.N. Shah | Global freshwater biodiversity research</title>
-    <link>/authors/d.n.-shah/</link>
-      <atom:link href="/authors/d.n.-shah/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glowabio.org/authors/d.n.-shah/</link>
+      <atom:link href="https://glowabio.org/authors/d.n.-shah/index.xml" rel="self" type="application/rss+xml" />
     <description>D.N. Shah</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>D.N. Shah</title>
-      <link>/authors/d.n.-shah/</link>
+      <link>https://glowabio.org/authors/d.n.-shah/</link>
     </image>
     
     <item>
       <title>A global agenda for advancing freshwater biodiversity research</title>
-      <link>/publication/2022_maasri_global_agenda/</link>
+      <link>https://glowabio.org/publication/2022_maasri_global_agenda/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022_maasri_global_agenda/</guid>
+      <guid>https://glowabio.org/publication/2022_maasri_global_agenda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Range shifts of a relict Himalayan dragonfly in the Hindu Kush Himalayan region under climate change scenarios</title>
-      <link>/publication/2012_shah_range_shifts_of_a_relict/</link>
+      <link>https://glowabio.org/publication/2012_shah_range_shifts_of_a_relict/</link>
       <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/2012_shah_range_shifts_of_a_relict/</guid>
+      <guid>https://glowabio.org/publication/2012_shah_range_shifts_of_a_relict/</guid>
       <description></description>
     </item>
     

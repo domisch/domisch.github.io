@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A. Felländer | Global freshwater biodiversity research</title>
-    <link>/authors/a.-fellander/</link>
-      <atom:link href="/authors/a.-fellander/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glowabio.org/authors/a.-fellander/</link>
+      <atom:link href="https://glowabio.org/authors/a.-fellander/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Felländer</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>A. Felländer</title>
-      <link>/authors/a.-fellander/</link>
+      <link>https://glowabio.org/authors/a.-fellander/</link>
     </image>
     
     <item>
       <title>Assessing whether artificial intelligence is an enabler or an inhibitor of sustainability</title>
-      <link>/publication/2021_gupta_assessing_whether_artificial/</link>
+      <link>https://glowabio.org/publication/2021_gupta_assessing_whether_artificial/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_gupta_assessing_whether_artificial/</guid>
+      <guid>https://glowabio.org/publication/2021_gupta_assessing_whether_artificial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The role of artificial intelligence in achieving the Sustainable Development Goals</title>
-      <link>/publication/2019_vinuesa_assessing_whether_artificial/</link>
+      <link>https://glowabio.org/publication/2019_vinuesa_assessing_whether_artificial/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_vinuesa_assessing_whether_artificial/</guid>
+      <guid>https://glowabio.org/publication/2019_vinuesa_assessing_whether_artificial/</guid>
       <description></description>
     </item>
     

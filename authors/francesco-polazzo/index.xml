@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Francesco Polazzo | Global freshwater biodiversity research</title>
-    <link>/authors/francesco-polazzo/</link>
-      <atom:link href="/authors/francesco-polazzo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glowabio.org/authors/francesco-polazzo/</link>
+      <atom:link href="https://glowabio.org/authors/francesco-polazzo/index.xml" rel="self" type="application/rss+xml" />
     <description>Francesco Polazzo</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>/authors/francesco-polazzo/avatar_hu7c68502657da73ca9347ed8106b913f3_148189_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://glowabio.org/authors/francesco-polazzo/avatar_hu7c68502657da73ca9347ed8106b913f3_148189_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Francesco Polazzo</title>
-      <link>/authors/francesco-polazzo/</link>
+      <link>https://glowabio.org/authors/francesco-polazzo/</link>
     </image>
     
   </channel>

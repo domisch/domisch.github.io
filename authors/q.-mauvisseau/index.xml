@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Q. Mauvisseau | Global freshwater biodiversity research</title>
-    <link>/authors/q.-mauvisseau/</link>
-      <atom:link href="/authors/q.-mauvisseau/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glowabio.org/authors/q.-mauvisseau/</link>
+      <atom:link href="https://glowabio.org/authors/q.-mauvisseau/index.xml" rel="self" type="application/rss+xml" />
     <description>Q. Mauvisseau</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>Q. Mauvisseau</title>
-      <link>/authors/q.-mauvisseau/</link>
+      <link>https://glowabio.org/authors/q.-mauvisseau/</link>
     </image>
     
     <item>
       <title>Improving the reliability of eDNA data interpretation</title>
-      <link>/publication/2021_burian_improving_the_reliability/</link>
+      <link>https://glowabio.org/publication/2021_burian_improving_the_reliability/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_burian_improving_the_reliability/</guid>
+      <guid>https://glowabio.org/publication/2021_burian_improving_the_reliability/</guid>
       <description></description>
     </item>
     

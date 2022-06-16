@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data &amp; Code | Global freshwater biodiversity research</title>
-    <link>/data_code/</link>
-      <atom:link href="/data_code/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glowabio.org/data_code/</link>
+      <atom:link href="https://glowabio.org/data_code/index.xml" rel="self" type="application/rss+xml" />
     <description>Data &amp; Code</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 May 2022 00:00:00 +0200</lastBuildDate>
     <image>
-      <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>Data &amp; Code</title>
-      <link>/data_code/</link>
+      <link>https://glowabio.org/data_code/</link>
     </image>
     
     <item>
       <title>Freshwater-specific environmental variables</title>
-      <link>/data_code/freshwater-variables/</link>
+      <link>https://glowabio.org/data_code/freshwater-variables/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0200</pubDate>
-      <guid>/data_code/freshwater-variables/</guid>
+      <guid>https://glowabio.org/data_code/freshwater-variables/</guid>
       <description>&lt;p&gt;This tutorial shows you how to calculate stream-specific freshwater variables by relating the upstream e.g. land cover to any given downstream location using the GRASS GIS add-ons &lt;em&gt;r.stream.watersheds&lt;/em&gt; &amp;amp; &lt;em&gt;r.stream.variables&lt;/em&gt;. The original 1km data and publication are available &lt;a href=&#34;http://www.earthenv.org/streams&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; - see also the original code from &lt;a href=&#34;http://spatial-ecology.net/dokuwiki/doku.php?id=wiki:grassrivarvariable&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;spatial-ecology.net&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.earthenv.org/streams&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
 
@@ -37,7 +37,7 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Add-on animation&#34;
-           src=&#34;/media/Add-ons_for_GRASS_GIS.gif&#34;
+           src=&#34;https://glowabio.org/media/Add-ons_for_GRASS_GIS.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/a&gt;&lt;/p&gt;
@@ -57,96 +57,96 @@
 &lt;/div&gt;
 &lt;br/&gt;
 &lt;p&gt;Create and enter the folder where the data will be stored:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;export INDIR=$HOME/grass_hydro
-mkdir $INDIR 
-cd $INDIR
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Download the script&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;cd ~
-wget &amp;#34;http://www.spatial-ecology.net/ost4sem/exercise/basic_adv_grass/stream_variables.sh&amp;#34;
-rstudio stream_variables.sh &amp;amp;
-&lt;/code&gt;&lt;/pre&gt;&lt;br/&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;export INDIR=$HOME/grass_hydro
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;mkdir $INDIR 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;cd $INDIR
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Download the script&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;cd ~
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wget &amp;#34;http://www.spatial-ecology.net/ost4sem/exercise/basic_adv_grass/stream_variables.sh&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rstudio stream_variables.sh &amp;amp;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;br/&gt;
 &lt;p&gt;Download and unzip a DEM from &lt;a href=&#34;http://www.worldclim.org/tiles.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WorldClim&lt;/a&gt;:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;wget -O  $INDIR/alt_16_tif.zip  &amp;#34;http://biogeo.ucdavis.edu/data/climate/worldclim/1_4/tiles/cur/alt_16_tif.zip&amp;#34;
-unzip  -o $INDIR/alt_16_tif.zip  -d  $INDIR/dem
-gdalinfo $INDIR/dem/alt_16.tif        # check data
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;If needed, first install the latest GRASS GIS version:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo add-apt-repository ppa:ubuntugis/ubuntugis-unstable
-sudo add-apt-repository ppa:grass/grass-devel
-sudo apt-get update
-sudo apt-get install grass grass-gui grass-dev subversion gdal-bin libgdal-grass libalgorithms1 libbase1 libgdal-dev
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Create the GRASS GIS data base and enter GRASS:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;grass78  -text -c $INDIR/dem/alt_16.tif  $INDIR/grass_location
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Read data into GRASS:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.in.gdal input=$INDIR/dem/alt_16.tif    output=elevation
-r.info elevation # check data
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Open GUI and visualize the layers:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;g.gui wxpython
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Run hydrological conditioning:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;g.extension  extension=r.hydrodem # download extension
-# if you get an error run: sudo apt install grass-dev subversion
-r.hydrodem  input=elevation  output=elevation_cond
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Extract drainage direction and stream network&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.watershed  --h  # see help regarding the options and flags
-r.watershed  elevation=elevation_cond  drainage=drainage   stream=stream  accumulation=accumulation  threshold=100  --o
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Get drainage basins (last downstream segment: -l flag)&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;g.extension  extension=r.stream.basins
-r.stream.basins  direction=drainage  stream_rast=stream  basins=basins_last  -l  --o
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Categorize the single basins:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.clump -d input=basins_last  output=basins_cat  --o
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Extract the data for one basin:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.mapcalc &amp;#34;drainage_sub = if (basins_cat==798, drainage, null() ) &amp;#34;  --o
-r.mapcalc &amp;#34;stream_sub = if (basins_cat==798, stream, null() ) &amp;#34;  --o
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Write files to disk:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.out.gdal  input=drainage_sub   output=$INDIR/drainage_sub.tif  type=Int32  nodata=-9999  --o  -c    createopt=&amp;#34;COMPRESS=LZW,ZLEVEL=9&amp;#34;
-r.out.gdal  input=stream_sub     output=$INDIR/stream_sub.tif    type=Int32  nodata=-9999  --o  -c    createopt=&amp;#34;COMPRESS=LZW,ZLEVEL=9&amp;#34;
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;Create stream-specific variables, and limit the calculation only to a single basin.&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wget -O  $INDIR/alt_16_tif.zip  &amp;#34;http://biogeo.ucdavis.edu/data/climate/worldclim/1_4/tiles/cur/alt_16_tif.zip&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;unzip  -o $INDIR/alt_16_tif.zip  -d  $INDIR/dem
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;gdalinfo $INDIR/dem/alt_16.tif        # check data
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;If needed, first install the latest GRASS GIS version:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo add-apt-repository ppa:ubuntugis/ubuntugis-unstable
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo add-apt-repository ppa:grass/grass-devel
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo apt-get update
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo apt-get install grass grass-gui grass-dev subversion gdal-bin libgdal-grass libalgorithms1 libbase1 libgdal-dev
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Create the GRASS GIS data base and enter GRASS:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;grass78  -text -c $INDIR/dem/alt_16.tif  $INDIR/grass_location
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Read data into GRASS:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.in.gdal input=$INDIR/dem/alt_16.tif    output=elevation
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.info elevation # check data
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Open GUI and visualize the layers:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;g.gui wxpython
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Run hydrological conditioning:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;g.extension  extension=r.hydrodem # download extension
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# if you get an error run: sudo apt install grass-dev subversion
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.hydrodem  input=elevation  output=elevation_cond
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Extract drainage direction and stream network&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.watershed  --h  # see help regarding the options and flags
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.watershed  elevation=elevation_cond  drainage=drainage   stream=stream  accumulation=accumulation  threshold=100  --o
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Get drainage basins (last downstream segment: -l flag)&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;g.extension  extension=r.stream.basins
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.stream.basins  direction=drainage  stream_rast=stream  basins=basins_last  -l  --o
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Categorize the single basins:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.clump -d input=basins_last  output=basins_cat  --o
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Extract the data for one basin:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.mapcalc &amp;#34;drainage_sub = if (basins_cat==798, drainage, null() ) &amp;#34;  --o
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.mapcalc &amp;#34;stream_sub = if (basins_cat==798, stream, null() ) &amp;#34;  --o
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Write files to disk:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.out.gdal  input=drainage_sub   output=$INDIR/drainage_sub.tif  type=Int32  nodata=-9999  --o  -c    createopt=&amp;#34;COMPRESS=LZW,ZLEVEL=9&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.out.gdal  input=stream_sub     output=$INDIR/stream_sub.tif    type=Int32  nodata=-9999  --o  -c    createopt=&amp;#34;COMPRESS=LZW,ZLEVEL=9&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Create stream-specific variables, and limit the calculation only to a single basin.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Download and install the GRASS add-ons. Work-around (December 2019) for grass78:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;mkdir $HOME/.grass7/addons/scripts
-wget -O $HOME/.grass7/addons/scripts/r.stream.watersheds &amp;#34;https://raw.githubusercontent.com/domisch/grass-addons/master/r.stream.watersheds&amp;#34;
-chmod 777  $HOME/.grass7/addons/scripts/r.stream.watersheds
-
-wget -O $HOME/.grass7/addons/scripts/r.stream.variables &amp;#34;https://raw.githubusercontent.com/domisch/grass-addons/master/r.stream.variables&amp;#34;
-chmod 777  $HOME/.grass7/addons/scripts/r.stream.variables
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Add-on 1: Calculate the sub-watershed and sub-stream sections for each stream grid cell using 2 processors:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.stream.watersheds stream=stream_sub  drainage=drainage_sub  cpu=2
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Add-on 2: Create stream-specific variables based on elevation&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.stream.variables  variable=elevation  output=cells,min,max,range,mean,stddev,coeff_var,sum  area=watershed  scale=1  cpu=2
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Rename the “elevation_cells” to “flow_accumulation” and check variables:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.mapcalc &amp;#34;flow_accummulation = elevation_cells&amp;#34;  --o
-r.info  flow_accummulation
-r.info  elevation_range
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Get stream length (similar procedure as above):&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.stream.variables  variable=elevation  output=cells  area=stream  scale=1  cpu=2
-r.mapcalc &amp;#34;stream_length = elevation_cells&amp;#34;  --o
-r.info  stream_length 
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Calculate the amount of rainfall within the basin:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;wget -O  $INDIR/prec_16_tif.zip  &amp;#34;http://biogeo.ucdavis.edu/data/climate/worldclim/1_4/tiles/cur/prec_16_tif.zip&amp;#34;
-unzip -q  -o $INDIR/prec_16_tif.zip  -d  $INDIR/prec
-r.in.gdal input=$INDIR/prec/prec6_16.tif   output=prec6   # rainfall in June
-r.stream.variables  variable=prec6  output=sum  area=watershed  scale=1  cpu=2
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Run all 12 months in a loop:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;for var in $(seq 1 12); do
-r.in.gdal input=$INDIR/prec/prec${var}_16.tif   output=prec$var
-r.stream.variables  variable=prec$var  output=sum  area=watershed  scale=1  cpu=2
-done
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Other useful add-ons for hydrological applications: &lt;a href=&#34;http://grasswiki.osgeo.org/wiki/Hydrological_Sciences&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://grasswiki.osgeo.org/wiki/Hydrological_Sciences&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;mkdir $HOME/.grass7/addons/scripts
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wget -O $HOME/.grass7/addons/scripts/r.stream.watersheds &amp;#34;https://raw.githubusercontent.com/domisch/grass-addons/master/r.stream.watersheds&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;chmod 777  $HOME/.grass7/addons/scripts/r.stream.watersheds
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wget -O $HOME/.grass7/addons/scripts/r.stream.variables &amp;#34;https://raw.githubusercontent.com/domisch/grass-addons/master/r.stream.variables&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;chmod 777  $HOME/.grass7/addons/scripts/r.stream.variables
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Add-on 1: Calculate the sub-watershed and sub-stream sections for each stream grid cell using 2 processors:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.stream.watersheds stream=stream_sub  drainage=drainage_sub  cpu=2
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Add-on 2: Create stream-specific variables based on elevation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.stream.variables  variable=elevation  output=cells,min,max,range,mean,stddev,coeff_var,sum  area=watershed  scale=1  cpu=2
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Rename the “elevation_cells” to “flow_accumulation” and check variables:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.mapcalc &amp;#34;flow_accummulation = elevation_cells&amp;#34;  --o
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.info  flow_accummulation
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.info  elevation_range
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Get stream length (similar procedure as above):&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.stream.variables  variable=elevation  output=cells  area=stream  scale=1  cpu=2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.mapcalc &amp;#34;stream_length = elevation_cells&amp;#34;  --o
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.info  stream_length 
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Calculate the amount of rainfall within the basin:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wget -O  $INDIR/prec_16_tif.zip  &amp;#34;http://biogeo.ucdavis.edu/data/climate/worldclim/1_4/tiles/cur/prec_16_tif.zip&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;unzip -q  -o $INDIR/prec_16_tif.zip  -d  $INDIR/prec
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.in.gdal input=$INDIR/prec/prec6_16.tif   output=prec6   # rainfall in June
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.stream.variables  variable=prec6  output=sum  area=watershed  scale=1  cpu=2
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Run all 12 months in a loop:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;for var in $(seq 1 12); do
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.in.gdal input=$INDIR/prec/prec${var}_16.tif   output=prec$var
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.stream.variables  variable=prec$var  output=sum  area=watershed  scale=1  cpu=2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;done
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Other useful add-ons for hydrological applications: &lt;a href=&#34;http://grasswiki.osgeo.org/wiki/Hydrological_Sciences&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://grasswiki.osgeo.org/wiki/Hydrological_Sciences&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Other examples&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Get the stream order:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.stream.order  stream_rast=stream   direction=drainage   strahler=str_order  --o
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Get only streams and basins &amp;gt;=3rd order&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.mapcalc &amp;#34;str_order_3rd = if(str_order &amp;gt;=3, str_order, null() ) &amp;#34;  --o
-r.stream.basins  direction=drainage  stream_rast=str_order_3rd  basins=basins_3rd_last   -l  --o
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Stream distance - Calculates distance to and elevation above streams and outlet&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;g.extension extension=r.stream.distance
-r.stream.distance   stream_rast=stream   direction=drainage   elevation=elevation_cond  method=downstream   distance=str_distance    difference=str_elevation_diff  --o
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Stream order statistics - Calculates Horton&amp;rsquo;s statistics for Strahler and Horton ordered networks created with r.stream.order Print only order statistics:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;g.extension extension=r.stream.stats
-r.stream.stats  stream_rast=stream   direction=drainage   elevation=elevation_cond  output=str_stats_o.txt    --o   
-more $INDIR/str_stats_o.txt
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Print only catchment statistics:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;r.stream.stats  stream_rast=stream   direction=drainage   elevation=elevation_cond  output=str_stats_c.txt    -c 
-more $INDIR/str_stats_c.txt
-&lt;/code&gt;&lt;/pre&gt;&lt;br/&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.stream.order  stream_rast=stream   direction=drainage   strahler=str_order  --o
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Get only streams and basins &amp;gt;=3rd order&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.mapcalc &amp;#34;str_order_3rd = if(str_order &amp;gt;=3, str_order, null() ) &amp;#34;  --o
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.stream.basins  direction=drainage  stream_rast=str_order_3rd  basins=basins_3rd_last   -l  --o
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Stream distance - Calculates distance to and elevation above streams and outlet&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;g.extension extension=r.stream.distance
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.stream.distance   stream_rast=stream   direction=drainage   elevation=elevation_cond  method=downstream   distance=str_distance    difference=str_elevation_diff  --o
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Stream order statistics - Calculates Horton&amp;rsquo;s statistics for Strahler and Horton ordered networks created with r.stream.order Print only order statistics:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;g.extension extension=r.stream.stats
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.stream.stats  stream_rast=stream   direction=drainage   elevation=elevation_cond  output=str_stats_o.txt    --o   
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;more $INDIR/str_stats_o.txt
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Print only catchment statistics:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;r.stream.stats  stream_rast=stream   direction=drainage   elevation=elevation_cond  output=str_stats_c.txt    -c 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;more $INDIR/str_stats_c.txt
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;br/&gt;
 &lt;p&gt;&lt;strong&gt;See also these useful GRASS-GIS commands for hydrological applications:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://grass.osgeo.org/grass78/manuals/topic_hydrology.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://grass.osgeo.org/grass78/manuals/topic_hydrology.html&lt;/a&gt;
 &lt;a href=&#34;https://grasswiki.osgeo.org/wiki/R.stream&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://grasswiki.osgeo.org/wiki/R.stream&lt;/a&gt;.*_modules &lt;br/&gt;
@@ -157,9 +157,9 @@ more $INDIR/str_stats_c.txt
     
     <item>
       <title>Bayesian species distribution models</title>
-      <link>/data_code/bayesian-species-distribution-models/</link>
+      <link>https://glowabio.org/data_code/bayesian-species-distribution-models/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0200</pubDate>
-      <guid>/data_code/bayesian-species-distribution-models/</guid>
+      <guid>https://glowabio.org/data_code/bayesian-species-distribution-models/</guid>
       <description>&lt;p&gt;Here is a tutorial of running a &lt;a href=&#34;https://github.com/domisch/species_distribution_models&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;species distribution model in a Bayesian framework&lt;/a&gt; using the hSDM package in R, using a rangemap as a covariate. See also the associated paper in &lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1111/ecog.01925/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ecography&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/domisch/species_distribution_models&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
 
@@ -183,7 +183,7 @@ more $INDIR/str_stats_c.txt
                /media/bayesian_SDMs_hu65c47ba3bb45951a0fd7155bf8b2839f_200795_4e5a97927a726dac4958bc9feefd1902.webp 400w,
                /media/bayesian_SDMs_hu65c47ba3bb45951a0fd7155bf8b2839f_200795_1c017a60436019d793eea9fe6f95bdbe.webp 760w,
                /media/bayesian_SDMs_hu65c47ba3bb45951a0fd7155bf8b2839f_200795_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;/media/bayesian_SDMs_hu65c47ba3bb45951a0fd7155bf8b2839f_200795_4e5a97927a726dac4958bc9feefd1902.webp&#34;
+               src=&#34;https://glowabio.org/media/bayesian_SDMs_hu65c47ba3bb45951a0fd7155bf8b2839f_200795_4e5a97927a726dac4958bc9feefd1902.webp&#34;
                width=&#34;760&#34;
                height=&#34;417&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -194,18 +194,18 @@ more $INDIR/str_stats_c.txt
     
     <item>
       <title>Extract raster values</title>
-      <link>/data_code/extract-variables/</link>
+      <link>https://glowabio.org/data_code/extract-variables/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0200</pubDate>
-      <guid>/data_code/extract-variables/</guid>
+      <guid>https://glowabio.org/data_code/extract-variables/</guid>
       <description>&lt;p&gt;Here are some useful commands to move point records to a stream network and to extract the values for each point. The code is maintained on GitHub at  &lt;a href=&#34;https://github.com/domisch/stream_layers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/domisch/stream_layers&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Open-source GIS</title>
-      <link>/data_code/open-source-gis/</link>
+      <link>https://glowabio.org/data_code/open-source-gis/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0200</pubDate>
-      <guid>/data_code/open-source-gis/</guid>
+      <guid>https://glowabio.org/data_code/open-source-gis/</guid>
       <description>&lt;p&gt;Here is a &lt;a href=&#34;https://github.com/domisch/GIS_tools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;collection of open-source GIS tools, using the Linux command line&lt;/a&gt;. The code is maintained at GitHub and includes GDAL/OGR, GRASS, pktools, OpenForis, awk and R.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/domisch/GIS_tools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
 
@@ -229,7 +229,7 @@ more $INDIR/str_stats_c.txt
                /media/open_source_hucdbbdb3d688cfa4ae7428dcc0605f13d_183349_1bde270aa5b6b5971c989fcc9840e72c.webp 400w,
                /media/open_source_hucdbbdb3d688cfa4ae7428dcc0605f13d_183349_d9f57ca9b54d31d19d3f04f81d1da8eb.webp 760w,
                /media/open_source_hucdbbdb3d688cfa4ae7428dcc0605f13d_183349_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;/media/open_source_hucdbbdb3d688cfa4ae7428dcc0605f13d_183349_1bde270aa5b6b5971c989fcc9840e72c.webp&#34;
+               src=&#34;https://glowabio.org/media/open_source_hucdbbdb3d688cfa4ae7428dcc0605f13d_183349_1bde270aa5b6b5971c989fcc9840e72c.webp&#34;
                width=&#34;760&#34;
                height=&#34;349&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

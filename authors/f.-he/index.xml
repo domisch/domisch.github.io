@@ -2,45 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>F. He | Global freshwater biodiversity research</title>
-    <link>/authors/f.-he/</link>
-      <atom:link href="/authors/f.-he/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glowabio.org/authors/f.-he/</link>
+      <atom:link href="https://glowabio.org/authors/f.-he/index.xml" rel="self" type="application/rss+xml" />
     <description>F. He</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>F. He</title>
-      <link>/authors/f.-he/</link>
+      <link>https://glowabio.org/authors/f.-he/</link>
     </image>
     
     <item>
-      <title>The Global EPTO Database: worldwide occurrences of aquatic insects</title>
-      <link>/publication/2022_grigoropoulou_the_epto_database/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022_grigoropoulou_the_epto_database/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A global agenda for advancing freshwater biodiversity research</title>
-      <link>/publication/2022_maasri_global_agenda/</link>
+      <link>https://glowabio.org/publication/2022_maasri_global_agenda/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022_maasri_global_agenda/</guid>
+      <guid>https://glowabio.org/publication/2022_maasri_global_agenda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Revisiting global trends in freshwater insect biodiversity</title>
-      <link>/publication/2020_jahnig_revisiting-global-trends/</link>
+      <link>https://glowabio.org/publication/2020_jahnig_revisiting-global-trends/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2020_jahnig_revisiting-global-trends/</guid>
+      <guid>https://glowabio.org/publication/2020_jahnig_revisiting-global-trends/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Elevation, aspect, and local environment jointly determine diatom and macroinvertebrate diversity in the Hengduan Mountains region</title>
-      <link>/publication/2019_he_elevation_aspect/</link>
+      <link>https://glowabio.org/publication/2019_he_elevation_aspect/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_he_elevation_aspect/</guid>
+      <guid>https://glowabio.org/publication/2019_he_elevation_aspect/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J. Martínez-López | Global freshwater biodiversity research</title>
-    <link>/authors/j.-martinez-lopez/</link>
-      <atom:link href="/authors/j.-martinez-lopez/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glowabio.org/authors/j.-martinez-lopez/</link>
+      <atom:link href="https://glowabio.org/authors/j.-martinez-lopez/index.xml" rel="self" type="application/rss+xml" />
     <description>J. Martínez-López</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>J. Martínez-López</title>
-      <link>/authors/j.-martinez-lopez/</link>
+      <link>https://glowabio.org/authors/j.-martinez-lopez/</link>
     </image>
     
     <item>
       <title>How to make ecological models useful for environmental management</title>
-      <link>/publication/2019_schuwirth_useful_model/</link>
+      <link>https://glowabio.org/publication/2019_schuwirth_useful_model/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_schuwirth_useful_model/</guid>
+      <guid>https://glowabio.org/publication/2019_schuwirth_useful_model/</guid>
       <description></description>
     </item>
     

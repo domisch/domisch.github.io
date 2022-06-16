@@ -2,61 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>S.C. Jähnig | Global freshwater biodiversity research</title>
-    <link>/authors/s.c.-jahnig/</link>
-      <atom:link href="/authors/s.c.-jahnig/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glowabio.org/authors/s.c.-jahnig/</link>
+      <atom:link href="https://glowabio.org/authors/s.c.-jahnig/index.xml" rel="self" type="application/rss+xml" />
     <description>S.C. Jähnig</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>S.C. Jähnig</title>
-      <link>/authors/s.c.-jahnig/</link>
+      <link>https://glowabio.org/authors/s.c.-jahnig/</link>
     </image>
     
     <item>
-      <title>300 years of change for native fish species in the upper Danube River Basin – historical flow alterations versus future climate change</title>
-      <link>/publication/2022_friedrichs-manthay_300_years_of_change/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022_friedrichs-manthay_300_years_of_change/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Global EPTO Database: worldwide occurrences of aquatic insects</title>
-      <link>/publication/2022_grigoropoulou_the_epto_database/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022_grigoropoulou_the_epto_database/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Invasion impacts and dynamics of a European-wide introduced species</title>
-      <link>/publication/2022_haubrock_invasion_impacts/</link>
+      <link>https://glowabio.org/publication/2022_haubrock_invasion_impacts/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022_haubrock_invasion_impacts/</guid>
+      <guid>https://glowabio.org/publication/2022_haubrock_invasion_impacts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A global agenda for advancing freshwater biodiversity research</title>
-      <link>/publication/2022_maasri_global_agenda/</link>
+      <link>https://glowabio.org/publication/2022_maasri_global_agenda/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022_maasri_global_agenda/</guid>
+      <guid>https://glowabio.org/publication/2022_maasri_global_agenda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Twenty-five essential research questions to inform the protection and restoration of freshwater biodiversity</title>
-      <link>/publication/2021_harper_twenty-five_essential/</link>
+      <link>https://glowabio.org/publication/2021_harper_twenty-five_essential/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_harper_twenty-five_essential/</guid>
+      <guid>https://glowabio.org/publication/2021_harper_twenty-five_essential/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Safeguarding freshwater life beyond 2020: Recommendations for the new global biodiversity framework from the European experience</title>
-      <link>/publication/2021_rees_safeguarding_freshwater/</link>
+      <link>https://glowabio.org/publication/2021_rees_safeguarding_freshwater/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_rees_safeguarding_freshwater/</guid>
+      <guid>https://glowabio.org/publication/2021_rees_safeguarding_freshwater/</guid>
       <description>&lt;p&gt;+++
 title = &amp;ldquo;Safeguarding freshwater life beyond 2020: Recommendations for the new global biodiversity framework from the European experience&amp;rdquo;
 date = &amp;ldquo;2021-02-01&amp;rdquo;
@@ -66,65 +50,65 @@ authors = [&amp;ldquo;van Rees, C.B.&amp;rdquo;, &amp;ldquo;Waylen, K.&amp;rdquo
     
     <item>
       <title>Revisiting global trends in freshwater insect biodiversity</title>
-      <link>/publication/2020_jahnig_revisiting-global-trends/</link>
+      <link>https://glowabio.org/publication/2020_jahnig_revisiting-global-trends/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2020_jahnig_revisiting-global-trends/</guid>
+      <guid>https://glowabio.org/publication/2020_jahnig_revisiting-global-trends/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Climate model variability leads to uncertain predictions of the future abundance of stream macroinvertebrates</title>
-      <link>/publication/2019_kakouei_climate_model_variability/</link>
+      <link>https://glowabio.org/publication/2019_kakouei_climate_model_variability/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_kakouei_climate_model_variability/</guid>
+      <guid>https://glowabio.org/publication/2019_kakouei_climate_model_variability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Art-Areal-Modellierung für Fischarten im Einzugsgebiet der oberen Donau: Aspekte zur Interpretation der Projektionen</title>
-      <link>/publication/2019_friedrichs_mathay_-art-areal-modellierung/</link>
+      <link>https://glowabio.org/publication/2019_friedrichs_mathay_-art-areal-modellierung/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_friedrichs_mathay_-art-areal-modellierung/</guid>
+      <guid>https://glowabio.org/publication/2019_friedrichs_mathay_-art-areal-modellierung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From topography to hydrology - the modifiable area unit problem impacts freshwater species distribution models</title>
-      <link>/publication/2019_friedrichs-manthay_from_topography_to_hydrology/</link>
+      <link>https://glowabio.org/publication/2019_friedrichs-manthay_from_topography_to_hydrology/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_friedrichs-manthay_from_topography_to_hydrology/</guid>
+      <guid>https://glowabio.org/publication/2019_friedrichs-manthay_from_topography_to_hydrology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Elevation, aspect, and local environment jointly determine diatom and macroinvertebrate diversity in the Hengduan Mountains region</title>
-      <link>/publication/2019_he_elevation_aspect/</link>
+      <link>https://glowabio.org/publication/2019_he_elevation_aspect/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_he_elevation_aspect/</guid>
+      <guid>https://glowabio.org/publication/2019_he_elevation_aspect/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Choice of study area and predictors affect habitat suitability projections, but not the performance of species distribution models of stream biota</title>
-      <link>/publication/2013_domisch_choice_of_study_area/</link>
+      <link>https://glowabio.org/publication/2013_domisch_choice_of_study_area/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/2013_domisch_choice_of_study_area/</guid>
+      <guid>https://glowabio.org/publication/2013_domisch_choice_of_study_area/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrierte Modellierung von aquatischen Ökosystemen in China: Arealbestimmung von Makrozoobenthos auf Einzugsgebietsebene - Integrated modelling of aquatic ecosystems in China: Distribution of benthic macroinvertebrates at catchment scale</title>
-      <link>/publication/2012_kuemmerlen_integrierte_modellierung/</link>
+      <link>https://glowabio.org/publication/2012_kuemmerlen_integrierte_modellierung/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/2012_kuemmerlen_integrierte_modellierung/</guid>
+      <guid>https://glowabio.org/publication/2012_kuemmerlen_integrierte_modellierung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Climate-change winners and losers: stream macroinvertebrates of a submontane region in Central Europe</title>
-      <link>/publication/2011_domisch_climate-change_winners/</link>
+      <link>https://glowabio.org/publication/2011_domisch_climate-change_winners/</link>
       <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/2011_domisch_climate-change_winners/</guid>
+      <guid>https://glowabio.org/publication/2011_domisch_climate-change_winners/</guid>
       <description></description>
     </item>
     

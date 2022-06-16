@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C. Múrria | Global freshwater biodiversity research</title>
-    <link>/authors/c.-murria/</link>
-      <atom:link href="/authors/c.-murria/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glowabio.org/authors/c.-murria/</link>
+      <atom:link href="https://glowabio.org/authors/c.-murria/index.xml" rel="self" type="application/rss+xml" />
     <description>C. Múrria</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>C. Múrria</title>
-      <link>/authors/c.-murria/</link>
+      <link>https://glowabio.org/authors/c.-murria/</link>
     </image>
     
     <item>
       <title>Incongruent latitudinal patterns of taxonomic, phylogenetic and functional diversity reveal different drivers of caddisfly community assembly across spatial scales</title>
-      <link>/publication/2022_grigoropoulou_geb/</link>
+      <link>https://glowabio.org/publication/2022_grigoropoulou_geb/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022_grigoropoulou_geb/</guid>
+      <guid>https://glowabio.org/publication/2022_grigoropoulou_geb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Incongruent latitudinal patterns of taxonomic, phylogenetic and functional diversity reveal different drivers of caddisfly community assembly across spatial scales</title>
-      <link>/publication/template/</link>
+      <link>https://glowabio.org/publication/template/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/template/</guid>
+      <guid>https://glowabio.org/publication/template/</guid>
       <description></description>
     </item>
     

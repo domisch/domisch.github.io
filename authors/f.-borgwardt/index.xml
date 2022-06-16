@@ -2,45 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>F. Borgwardt | Global freshwater biodiversity research</title>
-    <link>/authors/f.-borgwardt/</link>
-      <atom:link href="/authors/f.-borgwardt/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glowabio.org/authors/f.-borgwardt/</link>
+      <atom:link href="https://glowabio.org/authors/f.-borgwardt/index.xml" rel="self" type="application/rss+xml" />
     <description>F. Borgwardt</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>F. Borgwardt</title>
-      <link>/authors/f.-borgwardt/</link>
+      <link>https://glowabio.org/authors/f.-borgwardt/</link>
     </image>
     
     <item>
-      <title>300 years of change for native fish species in the upper Danube River Basin – historical flow alterations versus future climate change</title>
-      <link>/publication/2022_friedrichs-manthay_300_years_of_change/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022_friedrichs-manthay_300_years_of_change/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Art-Areal-Modellierung für Fischarten im Einzugsgebiet der oberen Donau: Aspekte zur Interpretation der Projektionen</title>
-      <link>/publication/2019_friedrichs_mathay_-art-areal-modellierung/</link>
+      <link>https://glowabio.org/publication/2019_friedrichs_mathay_-art-areal-modellierung/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_friedrichs_mathay_-art-areal-modellierung/</guid>
+      <guid>https://glowabio.org/publication/2019_friedrichs_mathay_-art-areal-modellierung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From topography to hydrology - the modifiable area unit problem impacts freshwater species distribution models</title>
-      <link>/publication/2019_friedrichs-manthay_from_topography_to_hydrology/</link>
+      <link>https://glowabio.org/publication/2019_friedrichs-manthay_from_topography_to_hydrology/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_friedrichs-manthay_from_topography_to_hydrology/</guid>
+      <guid>https://glowabio.org/publication/2019_friedrichs-manthay_from_topography_to_hydrology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to make ecological models useful for environmental management</title>
-      <link>/publication/2019_schuwirth_useful_model/</link>
+      <link>https://glowabio.org/publication/2019_schuwirth_useful_model/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_schuwirth_useful_model/</guid>
+      <guid>https://glowabio.org/publication/2019_schuwirth_useful_model/</guid>
       <description></description>
     </item>
     
