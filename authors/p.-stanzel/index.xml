@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>P. Stanzel | Global freshwater biodiversity research</title>
-    <link>/authors/p.-stanzel/</link>
-      <atom:link href="/authors/p.-stanzel/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glowabio.org/authors/p.-stanzel/</link>
+      <atom:link href="https://glowabio.org/authors/p.-stanzel/index.xml" rel="self" type="application/rss+xml" />
     <description>P. Stanzel</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>P. Stanzel</title>
-      <link>/authors/p.-stanzel/</link>
+      <link>https://glowabio.org/authors/p.-stanzel/</link>
     </image>
     
     <item>
       <title>300 years of change for native fish species in the upper Danube River Basin – historical flow alterations versus future climate change</title>
-      <link>/publication/2022_friedrichs-manthay_300_years_of_change/</link>
+      <link>https://glowabio.org/publication/2022_friedrichs-manthay_300_years_of_change/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022_friedrichs-manthay_300_years_of_change/</guid>
+      <guid>https://glowabio.org/publication/2022_friedrichs-manthay_300_years_of_change/</guid>
       <description></description>
     </item>
     
