@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Global freshwater biodiversity research</title>
+    <link>https://glowabio.org/publication-type/1/</link>
+      <atom:link href="https://glowabio.org/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://glowabio.org/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>High-resolution stream network delineation using digital elevation models: assessing the spatial accuracy</title>
+      <link>https://glowabio.org/publication/2018_amatulli_high-resolution-stream-network/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2018_amatulli_high-resolution-stream-network/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

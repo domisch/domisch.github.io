@@ -105,10 +105,146 @@ authors = [&amp;ldquo;van Rees, C.B.&amp;rdquo;, &amp;ldquo;Waylen, K.&amp;rdquo
     </item>
     
     <item>
+      <title>Combining eight research areas to foster the uptake of ecosystem-based management in fresh waters</title>
+      <link>https://glowabio.org/publication/2019_langhans_combining-eight-research/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2019_langhans_combining-eight-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatially explicit species distribution models: A missed opportunity in conservation planning?</title>
+      <link>https://glowabio.org/publication/2019_domisch_spatially_explicit_species/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2019_domisch_spatially_explicit_species/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A high-resolution streamflow and hydrological metrics dataset for ecological modeling using a regression model</title>
+      <link>https://glowabio.org/publication/2018_irving_a_high-resolution_streamflow/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2018_irving_a_high-resolution_streamflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projected effects of Climate-change-induced flow alterations on stream macroinvertebrate abundances</title>
+      <link>https://glowabio.org/publication/2018_kakouei_projected-effects-of/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2018_kakouei_projected-effects-of/</guid>
+      <description>&lt;p&gt;+++
+title = &amp;ldquo;Projected effects of Climate-change-induced flow alterations on stream macroinvertebrate abundances&amp;rdquo;
+date = &amp;ldquo;2018-02-01&amp;rdquo;
+authors = [&amp;ldquo;Kakouei, K.&amp;rdquo;, &amp;ldquo;Kiesel, J.&amp;rdquo;, &amp;ldquo;&lt;strong&gt;Domisch, S.&lt;/strong&gt;&amp;rdquo;, &amp;ldquo;Irving, K.S.&amp;rdquo;, &amp;ldquo;Jähnig, S.C.&amp;rdquo;, &amp;ldquo;Kail, J.&amp;rdquo;]
+publication_types = [&amp;ldquo;2&amp;rdquo;]
+publication = &amp;ldquo;Ecol Evol, (8), 6, &lt;em&gt;pp. 3393-3409&lt;/em&gt;, &lt;a href=&#34;https://doi.org/10.1002/ece3.3907%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1002/ece3.3907&#34;&lt;/a&gt;
+publication_short = &amp;ldquo;&lt;em&gt;Ecology and Evolution&lt;/em&gt; (8), 3393-3409&amp;rdquo;
+abstract = &amp;ldquo;Global change has the potential to affect river flow conditions which are fundamental determinants of physical habitats. Predictions of the effects of flow alterations on aquatic biota have mostly been assessed based on species ecological traits (e.g., current preferences), which are difficult to link to quantitative discharge data. Alternatively, we used empirically derived predictive relationships for species’ response to flow to assess the effect of flow alterations due to climate change in two contrasting central European river catchments. Predictive relationships were set up for 294 individual species based on (1) abundance data from 223 sampling sites in the Kinzig lower‐mountainous catchment and 67 sites in the Treene lowland catchment, and (2) flow conditions at these sites described by five flow metrics quantifying the duration, frequency, magnitude, timing and rate of flow events using present‐day gauging data. Species’ abundances were predicted for three periods: (1) baseline (1998–2017), (2) horizon 2050 (2046–2065) and (3) horizon 2090 (2080–2099) based on these empirical relationships and using high‐resolution modeled discharge data for the present and future climate conditions. We compared the differences in predicted abundances among periods for individual species at each site, where the percent change served as a proxy to assess the potential species responses to flow alterations. Climate change was predicted to most strongly affect the low‐flow conditions, leading to decreased abundances of species up to −42%. Finally combining the response of all species over all metrics indicated increasing overall species assemblage responses in 98% of the studied river reaches in both projected horizons and were significantly larger in the lower‐mountainous Kinzig compared to the lowland Treene catchment. Such quantitative analyses of freshwater taxa responses to flow alterations provide valuable tools for predicting potential climate‐change impacts on species abundances and can be applied to any stressor, species, or region.&amp;rdquo;
+abstract_short = &amp;quot;&amp;rdquo;
+image_preview = &amp;quot;&amp;quot;
+selected = false
+projects = []
+tags = []
+url_pdf = &amp;ldquo;&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/epdf/10.1002/ece3.3907%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://onlinelibrary.wiley.com/doi/epdf/10.1002/ece3.3907&#34;&lt;/a&gt;
+url_preprint = &amp;quot;&amp;rdquo;
+url_code = &amp;quot;&amp;quot;
+url_dataset = &amp;quot;&amp;quot;
+url_project = &amp;quot;&amp;quot;
+url_slides = &amp;quot;&amp;quot;
+url_video = &amp;quot;&amp;quot;
+url_poster = &amp;quot;&amp;quot;
+url_source = &amp;quot;&amp;quot;
+math = true
+highlight = true
+[header]
+image = &amp;quot;&amp;quot;
+caption = &amp;quot;&amp;quot;
++++&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Social equity shapes zone-selection: Balancing aquatic biodiversity conservation and ecosystem services delivery in the transboundary Danube River Basin</title>
+      <link>https://glowabio.org/publication/2018_domisch_social_equity_shapes/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2018_domisch_social_equity_shapes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using streamflow observations to estimate the impact of hydrological regimes and anthropogenic water use on European stream macroinvertebrate occurrences</title>
+      <link>https://glowabio.org/publication/2017_domisch_using_streamflow_observations/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2017_domisch_using_streamflow_observations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Severity Multipliers as a Methodology to Explore Potential Effects of Climate Change on Stream Bioassessment Programs</title>
+      <link>https://glowabio.org/publication/2017_jahnig_severity_multipliers_as/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2017_jahnig_severity_multipliers_as/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incongruent latitudinal patterns of taxonomic, phylogenetic and functional diversity reveal different drivers of caddisfly community assembly across spatial scales</title>
+      <link>https://glowabio.org/publication/2015_domisch_application_of_species/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2015_domisch_application_of_species/</guid>
+      <description>&lt;p&gt;+++
+title = &amp;ldquo;Application of species distribution models in stream ecosystems: the challenges of spatial and temporal scale, environmental predictors and species occurrence data&amp;rdquo;
+date = &amp;ldquo;2015-02-01&amp;rdquo;
+authors = [&amp;quot;&lt;strong&gt;Domisch, S.&lt;/strong&gt;&amp;quot;, &amp;ldquo;Jähnig, S.C.&amp;rdquo;, &amp;ldquo;Simaika, J.P.&amp;rdquo;, &amp;ldquo;Kuemmerlen, M.&amp;rdquo;, &amp;ldquo;Stoll, S.&amp;rdquo;]
+publication_types = [&amp;ldquo;2&amp;rdquo;]
+publication = &amp;ldquo;Fundamental and Applied Limnology, (186), 1-2, &lt;em&gt;pp. 45–61&lt;/em&gt;, &lt;a href=&#34;https://doi.org/10.1127/fal/2015/0627%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1127/fal/2015/0627&#34;&lt;/a&gt;
+publication_short = &amp;ldquo;&lt;em&gt;Fundamental and Applied Limnology&lt;/em&gt; (186), 45–61&amp;rdquo;
+abstract = &amp;ldquo;Modelling and mapping habitat suitability of species in a given study area has become a popular method to assess biogeographical questions on the habitat requirements of species, and to study the effects of land use or climate change on species distributions. Beside purely academic aims, model projections are increasingly used for devising conservation and management strategies and they are an established tool in conservation planning. Species distribution models (SDMs) link geographic presence records of species with environmental conditions found at these locations, and extrapolate the occurrence probabilities of species throughout the study area. While the modelling framework is similar in the terrestrial, marine and freshwater realms, each realm comprises specific challenges for combining the spatial scale, the environmental data and the species records for building reliable models. In this paper, we focus on these key issues from a stream ecology perspective and highlight three critical challenges to be kept in mind when building SDMs in stream ecosystems: (1) the spatial configuration in terms of the hierarchical structure of catchments and dendritic stream networks; (2) obtaining relevant and spatially continuous environmental predictors along the stream network, sourcing from three interfaces (stream vs. atmosphere, catchment area, groundwater) and (3) species detectability and thus the challenge of obtaining freshwater species occurrence data along the stream network. To depict freshwater species distributions at the stream level in the best possible way, multi-scale models are recommended, which account for scale dependence, a stronger integration of various environmental data types and sources, and heterogeneous species data. While model projections have the potential to serve as reliable tools for conservation and management purposes, this is only true if these relevant factors are considered in the modelling framework. &amp;quot;
+abstract_short = &amp;quot;&amp;rdquo;
+image_preview = &amp;quot;&amp;rdquo;
+selected = false
+projects = []
+tags = []
+url_pdf = &amp;ldquo;&lt;a href=&#34;https://doi.org/10.1127/fal/2015/0627%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1127/fal/2015/0627&#34;&lt;/a&gt;
+url_preprint = &amp;quot;&amp;rdquo;
+url_code = &amp;quot;&amp;quot;
+url_dataset = &amp;quot;&amp;quot;
+url_project = &amp;quot;&amp;quot;
+url_slides = &amp;quot;&amp;quot;
+url_video = &amp;quot;&amp;quot;
+url_poster = &amp;quot;&amp;quot;
+url_source = &amp;quot;&amp;quot;
+math = true
+highlight = true
+[header]
+image = &amp;quot;&amp;quot;
+caption = &amp;quot;&amp;quot;
++++&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Current and future latitudinal gradients in stream macroinvertebrates richness across North America</title>
+      <link>https://glowabio.org/publication/2014_shah_current_and_future/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2014_shah_current_and_future/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Choice of study area and predictors affect habitat suitability projections, but not the performance of species distribution models of stream biota</title>
       <link>https://glowabio.org/publication/2013_domisch_choice_of_study_area/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
       <guid>https://glowabio.org/publication/2013_domisch_choice_of_study_area/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling distribution in European stream macroinvertebrates under future climates</title>
+      <link>https://glowabio.org/publication/2013_domisch_modelling_distribution_in/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2013_domisch_modelling_distribution_in/</guid>
       <description></description>
     </item>
     

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>m.J. Samways | Global freshwater biodiversity research</title>
+    <title>M.J. Samways | Global freshwater biodiversity research</title>
     <link>https://glowabio.org/authors/m.j.-samways/</link>
       <atom:link href="https://glowabio.org/authors/m.j.-samways/index.xml" rel="self" type="application/rss+xml" />
-    <description>m.J. Samways</description>
+    <description>M.J. Samways</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
-      <title>m.J. Samways</title>
+      <title>M.J. Samways</title>
       <link>https://glowabio.org/authors/m.j.-samways/</link>
     </image>
     
@@ -17,6 +17,14 @@
       <link>https://glowabio.org/publication/2022_maasri_global_agenda/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://glowabio.org/publication/2022_maasri_global_agenda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continental-scale conservation prioritization of African dragonflies</title>
+      <link>https://glowabio.org/publication/2013_simaika_continental-scale_conservation/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2013_simaika_continental-scale_conservation/</guid>
       <description></description>
     </item>
     

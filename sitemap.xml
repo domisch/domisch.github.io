@@ -132,13 +132,13 @@
   <url>
     <loc>https://glowabio.org/authors/m.-gronroos/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://glowabio.org/authors/m.-joao-feio/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://glowabio.org/authors/m.-kuemmerlen/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/m.e.-rodrigues/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/m.l.-miserendino/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://glowabio.org/authors/maria-joao-feio/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/n.-bonada/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -298,8 +298,6 @@
   <url>
     <loc>https://glowabio.org/authors/r.n.-cuthbert/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://glowabio.org/authors/s.domisch/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://glowabio.org/authors/t.-datry/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/t.-sethi/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -403,8 +401,6 @@
     <loc>https://glowabio.org/authors/c.-murria/</loc><lastmod>2022-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/publication/2022_grigoropoulou_geb/</loc><lastmod>2022-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://glowabio.org/publication/template/</loc><lastmod>2022-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/publication/2022_maasri_global_agenda/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -738,9 +734,207 @@
   <url>
     <loc>https://glowabio.org/authors/p.-vermeiren/</loc><lastmod>2019-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://glowabio.org/publication/2019_langhans_combining-eight-research/</loc><lastmod>2019-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/f.-villa/</loc><lastmod>2019-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/r.-martin/</loc><lastmod>2019-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/s.-balbi/</loc><lastmod>2019-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/a.-barbosa/</loc><lastmod>2019-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/a.-iglesias-campos/</loc><lastmod>2019-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/a.i.-lillebo/</loc><lastmod>2019-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/a.j.a.-nogueira/</loc><lastmod>2019-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/b.-martin/</loc><lastmod>2019-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/publication/2019_barbosa_cost-effective_restoration/</loc><lastmod>2019-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/h.-mcdonald/</loc><lastmod>2019-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/h.-teixeira/</loc><lastmod>2019-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/j.-arevalo-torres/</loc><lastmod>2019-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/j.-barbiere/</loc><lastmod>2019-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/y.-gil-jimenez/</loc><lastmod>2019-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/a.-wetzig/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/m.-friedrichs/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/publication/2019_domisch_spatially_explicit_species/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/j.-hjort/</loc><lastmod>2018-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/j.-jyrkankallio-mikkola/</loc><lastmod>2018-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/k.t.-tolonen/</loc><lastmod>2018-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/l.m.-bini/</loc><lastmod>2018-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/publication/2018_perez_rocha_local_environment_and/</loc><lastmod>2018-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/m.-perez-rocha/</loc><lastmod>2018-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://glowabio.org/privacy/</loc><lastmod>2018-08-02T00:00:00+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://glowabio.org/publication-type/1/</loc><lastmod>2018-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/d.-yamazaki/</loc><lastmod>2018-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/publication/2018_amatulli_high-resolution-stream-network/</loc><lastmod>2018-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/publication/2018_irving_a_high-resolution_streamflow/</loc><lastmod>2018-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/publication/2018_amatulli_a_suite_of_global/</loc><lastmod>2018-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/a.-ranipeta/</loc><lastmod>2018-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/b.-parmentier/</loc><lastmod>2018-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/k.-malczyk/</loc><lastmod>2018-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/k.s.-irving/</loc><lastmod>2018-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/m.-n.-tuanmu/</loc><lastmod>2018-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/publication/2018_kakouei_projected-effects-of/</loc><lastmod>2018-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/a.-funk/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/a.-magrach/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/k.j.-bagstad/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/publication/2018_domisch_social_equity_shapes/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/a.f.-sell/</loc><lastmod>2017-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/c.-hof/</loc><lastmod>2017-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/publication/2017_bowler_cross-taxa_generalities/</loc><lastmod>2017-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/d.e.-bowler/</loc><lastmod>2017-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/f.-hendrickx/</loc><lastmod>2017-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/h.-neumann/</loc><lastmod>2017-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/i.-kroncke/</loc><lastmod>2017-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/k.-bohning-gaese/</loc><lastmod>2017-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/l.-baert/</loc><lastmod>2017-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/m.-sonnewald/</loc><lastmod>2017-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/m.-turkay/</loc><lastmod>2017-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/o.-schweiger/</loc><lastmod>2017-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/r.-van-klink/</loc><lastmod>2017-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/r.-vermeulen/</loc><lastmod>2017-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/r.b.-ohara/</loc><lastmod>2017-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/s.-stoll/</loc><lastmod>2017-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/t.-hickler/</loc><lastmod>2017-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/w.-dekoninck/</loc><lastmod>2017-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/f.t.-portmann/</loc><lastmod>2017-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/j.-davy-bowker/</loc><lastmod>2017-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/m.-sainz-bariain/</loc><lastmod>2017-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/p.-doll/</loc><lastmod>2017-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/t.-baekken/</loc><lastmod>2017-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/publication/2017_domisch_using_streamflow_observations/</loc><lastmod>2017-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/a.-kraberg/</loc><lastmod>2017-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/a.-meschede/</loc><lastmod>2017-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/a.-sundermann/</loc><lastmod>2017-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/publication/2017_bowler_cross-realm_assessment/</loc><lastmod>2017-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/d.j.-russell/</loc><lastmod>2017-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/e.-welk/</loc><lastmod>2017-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/f.-valladares/</loc><lastmod>2017-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/h.g.-bauer/</loc><lastmod>2017-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/i.-kuhn/</loc><lastmod>2017-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/k.-van-herk/</loc><lastmod>2017-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/k.-voigtlander/</loc><lastmod>2017-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/k.h.-wiltshire/</loc><lastmod>2017-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/m.-wiemers/</loc><lastmod>2017-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/o.-tackenberg/</loc><lastmod>2017-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/r.-eckmann/</loc><lastmod>2017-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/r.-wagner/</loc><lastmod>2017-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/r.w.-brooker/</loc><lastmod>2017-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/s.-klotz/</loc><lastmod>2017-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/s.-matesanz/</loc><lastmod>2017-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/t.-blick/</loc><lastmod>2017-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/j.-tonkin/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/m.-gies/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/publication/2017_jahnig_severity_multipliers_as/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/a.m.-wilson/</loc><lastmod>2016-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/publication/2016_domisch_model-based_integration/</loc><lastmod>2016-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/publication/2015_domisch_near-global_freshwater-specific/</loc><lastmod>2015-12-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/publication/2015_kuemmerlen_ecological_models_in/</loc><lastmod>2015-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/publication/2015_domisch_application_of_species/</loc><lastmod>2015-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/t.-petzoldt/</loc><lastmod>2015-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/publication/2014_shah_current_and_future/</loc><lastmod>2014-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://glowabio.org/publication/2013_domisch_choice_of_study_area/</loc><lastmod>2013-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/publication/2013_simaika_continental-scale_conservation/</loc><lastmod>2013-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/j.-kipping/</loc><lastmod>2013-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/j.p.-boudot/</loc><lastmod>2013-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/k.d.b.-dijkstra/</loc><lastmod>2013-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/m.b.-araujo/</loc><lastmod>2013-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/publication/2013_domisch_modelling_distribution_in/</loc><lastmod>2013-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/c.-nowak/</loc><lastmod>2012-11-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

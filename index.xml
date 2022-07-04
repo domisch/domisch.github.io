@@ -52,7 +52,7 @@ Phone: +49 (0) 30 6392 4079&lt;/p&gt;
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://glowabio.org/project/ssp_landcover/</guid>
       <description>&lt;p&gt;Thesis topic: &lt;em&gt;Influence of land-cover on suitable fish habitats in Colombia’s inland waters considering the &amp;ldquo;Shared Socioeconomic Pathway (SSP)&amp;rdquo; scenarios&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&amp;raquo;&amp;gt; &lt;a href=&#34;https://geo.igb-berlin.de/maps/626/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click here for the visualization&lt;/a&gt; &amp;laquo;&amp;lt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;raquo; &lt;a href=&#34;https://geo.igb-berlin.de/maps/626/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click here for the visualization&lt;/a&gt; &amp;laquo;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Freshwater ecosystems are becoming increasingly degraded and freshwater species diversity is declining drastically. Anthropological influences, such as land-cover change, play an important role in these processes. In Latin America, freshwater fish show high rates of diversity and endemism. At the same time, ecosystems in Latin America are threatened by high rates of land-cover change. Therefore, Colombia, endowed with a great habitat diversity and species richness due to a combination of altitude, climate and geographic location, but also distinct land-cover dynamics, was chosen as a case study for this work.&lt;/p&gt;
 &lt;p&gt;The objective of the thesis was (i) to consider the land-cover types prevalent, past trends of land-cover change and future land-cover changes projected according to the shared socioeconomic pathway scenarios (SSPs) (ii) to discern the influence of environmental factors, including land-cover, on suitable habitats of Colombian fish species and (iii) to project the possible future development of fish habitats and species richness. The main tools used for these analysis were land-cover modelling (with Dinamica EGO) and species distribution modelling (with BIOMOD).&lt;/p&gt;
 &lt;p&gt;The analysis of past land-cover changes shows that factors such as demand or policies contribute to both increases and decreases in agricultural land expansion and deforestation and also that trends are not stable. The land-cover projections are driven by population development, nutrition or technological progress assumptions incorporated in the SSP scenarios and thus represent the trends of &amp;ldquo;Sustainability&amp;rdquo; (SSP1), &amp;ldquo;Middle of the road&amp;rdquo; (SSP2), &amp;ldquo;Regional rivalry&amp;rdquo; (SSP3), &amp;ldquo;Inequality&amp;rdquo; (SSP4) or &amp;ldquo;Fossil-fueled development&amp;rdquo; (SSP5).&lt;/p&gt;
@@ -80,7 +80,8 @@ Phone: +49 (0) 30 6392 4079&lt;/p&gt;
       <link>https://glowabio.org/project/colombia_conservation/</link>
       <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://glowabio.org/project/colombia_conservation/</guid>
-      <description>&lt;p&gt;Colombia forms one of the global freshwater biodiversity hotspots, home to 1494 freshwater fish species. This exceptional fish fauna has, however, rarely been considered when selecting areas for biodiversity conservation. This study integrates freshwater fish distributions into a spatial prioritization exercise to assess to which extent (i) freshwater biodiversity, using fish as a proxy, is currently represented within the existing protected areas, and (ii) if alternative protected area networks may have the potential to increase the number of fish species under protection.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;&amp;raquo; &lt;a href=&#34;https://geo.igb-berlin.de/maps/290/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click here for the visualization&lt;/a&gt; &amp;laquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Colombia forms one of the global freshwater biodiversity hotspots, home to 1494 freshwater fish species. This exceptional fish fauna has, however, rarely been considered when selecting areas for biodiversity conservation. This study integrates freshwater fish distributions into a spatial prioritization exercise to assess to which extent (i) freshwater biodiversity, using fish as a proxy, is currently represented within the existing protected areas, and (ii) if alternative protected area networks may have the potential to increase the number of fish species under protection.&lt;/p&gt;
 &lt;p&gt;At first all available fish data was collated, resulting in a data base of over 112,535 geographic occurrences of 1224 freshwater fishes across Colombia with harmonized nomenclature and revised geo-referenced coordinates.&lt;/p&gt;
 &lt;p&gt;Based on a digital elevation model at 1 km&lt;sup&gt;2&lt;/sup&gt; resolution, the stream network was delineated with a minimum catchment size of 90 km&lt;sup&gt;2&lt;/sup&gt; and extracted the corresponding 33,612 sub-catchments that served as spatial units within the analyses. In the next step fish occurrence data and environmental variables (climate, topography, land cover, hydrology) were aggregated across the sub-catchments and an ensemble of species distribution modelling algorithms was employed to project suitable habitat of each fish species across the study area.&lt;/p&gt;
 &lt;p&gt;Following the principles of systematic conservation planning, integer linear programming was applied to delineate a hypothetical protected area network that fulfills minimum, predefined conservation targets for each fish species, i.e. maximizing species representativeness and connectivity among river catchments, while minimizing the cost of anthropogenic impact, represented by the human footprint index and required area for protection. This spatial prioritization was carried out for four different conservation targets, set to protect 20 %, 30 %, 40 % and 50 % of each fish species suitable habitats in the priority network.&lt;/p&gt;
@@ -122,16 +123,21 @@ Phone: +49 (0) 30 6392 4079&lt;/p&gt;
       <link>https://glowabio.org/project/epto_database/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
       <guid>https://glowabio.org/project/epto_database/</guid>
-      <description>&lt;p&gt;Global biodiversity is declining rapidly worldwide, and among terrestrial, marine and freshwater ecosystems, freshwaters are particularly vulnerable. These fragmented ecosystems cover less than 1% of the Earth’s surface, yet they harbour approximately 10% of all described species.
+      <description>&lt;p&gt;&lt;strong&gt;&amp;raquo; &lt;a href=&#34;https://geo.igb-berlin.de/maps/609/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click here for the visualization&lt;/a&gt; &amp;laquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Global biodiversity is declining rapidly worldwide, and among terrestrial, marine and freshwater ecosystems, freshwaters are particularly vulnerable. These fragmented ecosystems cover less than 1% of the Earth’s surface, yet they harbour approximately 10% of all described species.
 Aquatic insects contribute to freshwater diversity by approximately 60% as the largest and most diverse taxa group, and given this substantial proportion, aquatic insects may be considered as a proxy for freshwater biodiversity and ecological state of a given habitat.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;We have collated, together with nearly 100 co-authors, a global database of Ephemeroptera, Plecoptera, Trichoptera and Odonata (EPTO) occurrences comprising more than 8 million records. The data can be downloaded &lt;a href=&#34;https://fred.igb-berlin.de/data/package/725&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and visualized &lt;a href=&#34;https://geo.igb-berlin.de/maps/609/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://geo.igb-berlin.de/maps/609/embed&#34; min-width : 900px ; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;EPTO database&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
+&lt;p&gt;The following map shows the number of occurrences and genera per site &lt;a href=&#34;https://geo.igb-berlin.de/maps/621/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;click here for the fullscreen map&lt;/a&gt;&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://geo.igb-berlin.de/maps/621/embed&#34; min-width : 900px ; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;EPTO database&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 &lt;hr&gt;
-&lt;p&gt;Below is a summary of the database: the number of observation records (a) and genera (b) for all orders, aggregated in a 10 km regular grid.  Number of observation records (c) and genera (d) for all orders per drainage basin. Number of observation records (e) and genera (f) per drainage basin for each order individually. E: Ephemeroptera, P: Plecoptera, T: Trichoptera, O: Odonata. White and grey areas lack information.
-
+&lt;p&gt;Below is a summary of the database: the number of observation records (a) and genera (b) for all orders, aggregated in a 10 km regular grid.  Number of observation records (c) and genera (d) for all orders per drainage basin. Number of observation records (e) and genera (f) per drainage basin for each order individually. E: Ephemeroptera, P: Plecoptera, T: Trichoptera, O: Odonata. White and grey areas lack information.&lt;/p&gt;
+&lt;p&gt;
 
 
 
@@ -177,6 +183,7 @@ Aquatic insects contribute to freshwater diversity by approximately 60% as the l
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
       <guid>https://glowabio.org/project/geomorpho90m/</guid>
       <description>&lt;p&gt;The &lt;strong&gt;Geomorphho90m&lt;/strong&gt; dataset&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;raquo; &lt;a href=&#34;https://www.openlandmap.org/#/?base=Stamen%20%28OpenStreetMap%29&amp;amp;center=26.8842,38.4204&amp;amp;zoom=3.294688713147893&amp;amp;opacity=40&amp;amp;layer=dtm_roughness_merit.dem_m&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click here for the visualization&lt;/a&gt; &amp;laquo;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Topographical relief comprises the vertical and horizontal variations of the Earth’s terrain and drives processes in geomorphology, biogeography, climatology, hydrology and ecology. Its characterisation and assessment, through geomorphometry and feature extraction, is fundamental to numerous environmental modelling and simulation analyses. We developed the Geomorpho90m global dataset comprising of different geomorphometric features derived from the MERIT-Digital Elevation Model (DEM) - the best global, high-resolution DEM available. The fully-standardised 26 geomorphometric variables consist of layers that describe the (i) rate of change across the elevation gradient, using first and second derivatives, (ii) ruggedness, and (iii) geomorphological forms. The Geomorpho90m variables are available at 3 (~90 m) and 7.5 arc-second (~250 m) resolutions under the WGS84 geodetic datum, and 100 m spatial resolution under the Equi7 projection. They are useful for modelling applications in fields such as geomorphology, geology, hydrology, ecology and biogeography.&lt;/p&gt;
 &lt;p&gt;Check out the paper in &lt;a href=&#34;https://www.nature.com/articles/s41597-020-0479-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Scientific Data&lt;/em&gt;&lt;/a&gt;. The data can be downloaded &lt;a href=&#34;https://doi.pangaea.de/10.1594/PANGAEA.899135&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and visualized &lt;a href=&#34;https://www.openlandmap.org/#/?base=Stamen%20%28OpenStreetMap%29&amp;amp;center=26.8842,38.4204&amp;amp;zoom=3.294688713147893&amp;amp;opacity=40&amp;amp;layer=dtm_roughness_merit.dem_m&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;hr&gt;
@@ -192,6 +199,7 @@ Aquatic insects contribute to freshwater diversity by approximately 60% as the l
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
       <guid>https://glowabio.org/project/hydrography90m/</guid>
       <description>&lt;p&gt;The &lt;strong&gt;Hydography90m&lt;/strong&gt; dataset&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;raquo; &lt;a href=&#34;https://geo.igb-berlin.de/maps/351/view/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click here for the visualization&lt;/a&gt; &amp;laquo;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;We used the MERIT Hydro Digital Elevation Model at 3 arc-sec (∼90 m at the equator) to derive a globally seamless, standardised hydrographic network, the &amp;ldquo;Hydrography90m&amp;rdquo;, with corresponding stream topographic and topologicalinformation. A central feature of the network is the minimal upstream contributing area, i.e. flow accumulation,of 0.05 km2 (or 5 ha) to initiate a stream channel, which allowed us to extract headwater stream channels ingreat detail. By employing a suite of GRASS GIS hydrological modules, we calculated the range-wide upstreamflow accumulation and flow direction to delineate a total of 1.6 million drainage basins, and extracted globallya total of 726 million unique stream segments with their corresponding sub-catchments. In addition, we computed stream topographic variables comprising stream slope, gradient, length, and curvature attributes, as wellas stream topological variables to allow for network routing and various stream order classifications. We validated the spatial accuracy and flow accumulation of Hydrography90m against NHDPlus HR, an independent,national high-resolution hydrographic network dataset of the United States. Our validation shows that the newly developed Hydrography90m has the highest spatial precision, and contains more headwater stream channels compared to three other global hydrographic datasets. This inclusive approach provides a vital, and long-overdue baseline for assessing actual streamflow in headwaters, and opens new research avenues for high-resolution studies of surface water worldwide. Hydrography90m thus offers significant potential to facilitate the assessment offreshwater quantity and quality, inundation risk, biodiversity and conservation, as well as resource managementobjectives in a globally comprehensive and standardised manner. We provide all the computed layers for visualisation and download in 20° × 20° tiles.&lt;/p&gt;
 &lt;p&gt;Check out the paper in  &lt;a href=&#34;https://essd.copernicus.org/preprints/essd-2022-9/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Earth System Science Data&lt;/em&gt;&lt;/a&gt;. The data can be downloaded &lt;a href=&#34;https://hydrography.org/hydrography90m/hydrography90m_layers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and visualized &lt;a href=&#34;https://geo.igb-berlin.de/maps/351/view/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;hr&gt;
@@ -417,14 +425,6 @@ Aquatic insects contribute to freshwater diversity by approximately 60% as the l
     </item>
     
     <item>
-      <title>Incongruent latitudinal patterns of taxonomic, phylogenetic and functional diversity reveal different drivers of caddisfly community assembly across spatial scales</title>
-      <link>https://glowabio.org/publication/template/</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://glowabio.org/publication/template/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A global agenda for advancing freshwater biodiversity research</title>
       <link>https://glowabio.org/publication/2022_maasri_global_agenda/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
@@ -595,6 +595,38 @@ authors = [&amp;ldquo;van Rees, C.B.&amp;rdquo;, &amp;ldquo;Waylen, K.&amp;rdquo
     </item>
     
     <item>
+      <title>Combining eight research areas to foster the uptake of ecosystem-based management in fresh waters</title>
+      <link>https://glowabio.org/publication/2019_langhans_combining-eight-research/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2019_langhans_combining-eight-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost-effective restoration and conservation planning in Green and Blue Infrastructure designs. A case study on the Intercontinental Biosphere Reserve of the Mediterranean: Andalusia (Spain) – Morocco</title>
+      <link>https://glowabio.org/publication/2019_barbosa_cost-effective_restoration/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2019_barbosa_cost-effective_restoration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatially explicit species distribution models: A missed opportunity in conservation planning?</title>
+      <link>https://glowabio.org/publication/2019_domisch_spatially_explicit_species/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2019_domisch_spatially_explicit_species/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local environment and space drive multiple facets of stream macroinvertebrate beta diversity</title>
+      <link>https://glowabio.org/publication/2018_perez_rocha_local_environment_and/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2018_perez_rocha_local_environment_and/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Privacy policy and legal notes</title>
       <link>https://glowabio.org/privacy/</link>
       <pubDate>Thu, 02 Aug 2018 00:00:00 +0200</pubDate>
@@ -632,10 +664,194 @@ Phone: +49 (0) 30 6392 4079&lt;/p&gt;
     </item>
     
     <item>
+      <title>High-resolution stream network delineation using digital elevation models: assessing the spatial accuracy</title>
+      <link>https://glowabio.org/publication/2018_amatulli_high-resolution-stream-network/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2018_amatulli_high-resolution-stream-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A high-resolution streamflow and hydrological metrics dataset for ecological modeling using a regression model</title>
+      <link>https://glowabio.org/publication/2018_irving_a_high-resolution_streamflow/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2018_irving_a_high-resolution_streamflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A suite of global, cross-scale topographic variables for environmental and biodiversity modeling</title>
+      <link>https://glowabio.org/publication/2018_amatulli_a_suite_of_global/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2018_amatulli_a_suite_of_global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projected effects of Climate-change-induced flow alterations on stream macroinvertebrate abundances</title>
+      <link>https://glowabio.org/publication/2018_kakouei_projected-effects-of/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2018_kakouei_projected-effects-of/</guid>
+      <description>&lt;p&gt;+++
+title = &amp;ldquo;Projected effects of Climate-change-induced flow alterations on stream macroinvertebrate abundances&amp;rdquo;
+date = &amp;ldquo;2018-02-01&amp;rdquo;
+authors = [&amp;ldquo;Kakouei, K.&amp;rdquo;, &amp;ldquo;Kiesel, J.&amp;rdquo;, &amp;ldquo;&lt;strong&gt;Domisch, S.&lt;/strong&gt;&amp;rdquo;, &amp;ldquo;Irving, K.S.&amp;rdquo;, &amp;ldquo;Jähnig, S.C.&amp;rdquo;, &amp;ldquo;Kail, J.&amp;rdquo;]
+publication_types = [&amp;ldquo;2&amp;rdquo;]
+publication = &amp;ldquo;Ecol Evol, (8), 6, &lt;em&gt;pp. 3393-3409&lt;/em&gt;, &lt;a href=&#34;https://doi.org/10.1002/ece3.3907%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1002/ece3.3907&#34;&lt;/a&gt;
+publication_short = &amp;ldquo;&lt;em&gt;Ecology and Evolution&lt;/em&gt; (8), 3393-3409&amp;rdquo;
+abstract = &amp;ldquo;Global change has the potential to affect river flow conditions which are fundamental determinants of physical habitats. Predictions of the effects of flow alterations on aquatic biota have mostly been assessed based on species ecological traits (e.g., current preferences), which are difficult to link to quantitative discharge data. Alternatively, we used empirically derived predictive relationships for species’ response to flow to assess the effect of flow alterations due to climate change in two contrasting central European river catchments. Predictive relationships were set up for 294 individual species based on (1) abundance data from 223 sampling sites in the Kinzig lower‐mountainous catchment and 67 sites in the Treene lowland catchment, and (2) flow conditions at these sites described by five flow metrics quantifying the duration, frequency, magnitude, timing and rate of flow events using present‐day gauging data. Species’ abundances were predicted for three periods: (1) baseline (1998–2017), (2) horizon 2050 (2046–2065) and (3) horizon 2090 (2080–2099) based on these empirical relationships and using high‐resolution modeled discharge data for the present and future climate conditions. We compared the differences in predicted abundances among periods for individual species at each site, where the percent change served as a proxy to assess the potential species responses to flow alterations. Climate change was predicted to most strongly affect the low‐flow conditions, leading to decreased abundances of species up to −42%. Finally combining the response of all species over all metrics indicated increasing overall species assemblage responses in 98% of the studied river reaches in both projected horizons and were significantly larger in the lower‐mountainous Kinzig compared to the lowland Treene catchment. Such quantitative analyses of freshwater taxa responses to flow alterations provide valuable tools for predicting potential climate‐change impacts on species abundances and can be applied to any stressor, species, or region.&amp;rdquo;
+abstract_short = &amp;quot;&amp;rdquo;
+image_preview = &amp;quot;&amp;quot;
+selected = false
+projects = []
+tags = []
+url_pdf = &amp;ldquo;&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/epdf/10.1002/ece3.3907%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://onlinelibrary.wiley.com/doi/epdf/10.1002/ece3.3907&#34;&lt;/a&gt;
+url_preprint = &amp;quot;&amp;rdquo;
+url_code = &amp;quot;&amp;quot;
+url_dataset = &amp;quot;&amp;quot;
+url_project = &amp;quot;&amp;quot;
+url_slides = &amp;quot;&amp;quot;
+url_video = &amp;quot;&amp;quot;
+url_poster = &amp;quot;&amp;quot;
+url_source = &amp;quot;&amp;quot;
+math = true
+highlight = true
+[header]
+image = &amp;quot;&amp;quot;
+caption = &amp;quot;&amp;quot;
++++&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Social equity shapes zone-selection: Balancing aquatic biodiversity conservation and ecosystem services delivery in the transboundary Danube River Basin</title>
+      <link>https://glowabio.org/publication/2018_domisch_social_equity_shapes/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2018_domisch_social_equity_shapes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-taxa generalities in the relationship between population abundance and ambient temperatures</title>
+      <link>https://glowabio.org/publication/2017_bowler_cross-taxa_generalities/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2017_bowler_cross-taxa_generalities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using streamflow observations to estimate the impact of hydrological regimes and anthropogenic water use on European stream macroinvertebrate occurrences</title>
+      <link>https://glowabio.org/publication/2017_domisch_using_streamflow_observations/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2017_domisch_using_streamflow_observations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-realm assessment of climate change impacts on species’ abundance trends</title>
+      <link>https://glowabio.org/publication/2017_bowler_cross-realm_assessment/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2017_bowler_cross-realm_assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Severity Multipliers as a Methodology to Explore Potential Effects of Climate Change on Stream Bioassessment Programs</title>
+      <link>https://glowabio.org/publication/2017_jahnig_severity_multipliers_as/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2017_jahnig_severity_multipliers_as/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-based integration of observed and expert-based information for assessing the geographic and environmental distribution of freshwater species</title>
+      <link>https://glowabio.org/publication/2016_domisch_model-based_integration/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2016_domisch_model-based_integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Near-global freshwater-specific environmental variables for biodiversity analyses in 1 km resolution</title>
+      <link>https://glowabio.org/publication/2015_domisch_near-global_freshwater-specific/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2015_domisch_near-global_freshwater-specific/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecological models in freshwater ecosystems</title>
+      <link>https://glowabio.org/publication/2015_kuemmerlen_ecological_models_in/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2015_kuemmerlen_ecological_models_in/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incongruent latitudinal patterns of taxonomic, phylogenetic and functional diversity reveal different drivers of caddisfly community assembly across spatial scales</title>
+      <link>https://glowabio.org/publication/2015_domisch_application_of_species/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2015_domisch_application_of_species/</guid>
+      <description>&lt;p&gt;+++
+title = &amp;ldquo;Application of species distribution models in stream ecosystems: the challenges of spatial and temporal scale, environmental predictors and species occurrence data&amp;rdquo;
+date = &amp;ldquo;2015-02-01&amp;rdquo;
+authors = [&amp;quot;&lt;strong&gt;Domisch, S.&lt;/strong&gt;&amp;quot;, &amp;ldquo;Jähnig, S.C.&amp;rdquo;, &amp;ldquo;Simaika, J.P.&amp;rdquo;, &amp;ldquo;Kuemmerlen, M.&amp;rdquo;, &amp;ldquo;Stoll, S.&amp;rdquo;]
+publication_types = [&amp;ldquo;2&amp;rdquo;]
+publication = &amp;ldquo;Fundamental and Applied Limnology, (186), 1-2, &lt;em&gt;pp. 45–61&lt;/em&gt;, &lt;a href=&#34;https://doi.org/10.1127/fal/2015/0627%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1127/fal/2015/0627&#34;&lt;/a&gt;
+publication_short = &amp;ldquo;&lt;em&gt;Fundamental and Applied Limnology&lt;/em&gt; (186), 45–61&amp;rdquo;
+abstract = &amp;ldquo;Modelling and mapping habitat suitability of species in a given study area has become a popular method to assess biogeographical questions on the habitat requirements of species, and to study the effects of land use or climate change on species distributions. Beside purely academic aims, model projections are increasingly used for devising conservation and management strategies and they are an established tool in conservation planning. Species distribution models (SDMs) link geographic presence records of species with environmental conditions found at these locations, and extrapolate the occurrence probabilities of species throughout the study area. While the modelling framework is similar in the terrestrial, marine and freshwater realms, each realm comprises specific challenges for combining the spatial scale, the environmental data and the species records for building reliable models. In this paper, we focus on these key issues from a stream ecology perspective and highlight three critical challenges to be kept in mind when building SDMs in stream ecosystems: (1) the spatial configuration in terms of the hierarchical structure of catchments and dendritic stream networks; (2) obtaining relevant and spatially continuous environmental predictors along the stream network, sourcing from three interfaces (stream vs. atmosphere, catchment area, groundwater) and (3) species detectability and thus the challenge of obtaining freshwater species occurrence data along the stream network. To depict freshwater species distributions at the stream level in the best possible way, multi-scale models are recommended, which account for scale dependence, a stronger integration of various environmental data types and sources, and heterogeneous species data. While model projections have the potential to serve as reliable tools for conservation and management purposes, this is only true if these relevant factors are considered in the modelling framework. &amp;quot;
+abstract_short = &amp;quot;&amp;rdquo;
+image_preview = &amp;quot;&amp;rdquo;
+selected = false
+projects = []
+tags = []
+url_pdf = &amp;ldquo;&lt;a href=&#34;https://doi.org/10.1127/fal/2015/0627%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1127/fal/2015/0627&#34;&lt;/a&gt;
+url_preprint = &amp;quot;&amp;rdquo;
+url_code = &amp;quot;&amp;quot;
+url_dataset = &amp;quot;&amp;quot;
+url_project = &amp;quot;&amp;quot;
+url_slides = &amp;quot;&amp;quot;
+url_video = &amp;quot;&amp;quot;
+url_poster = &amp;quot;&amp;quot;
+url_source = &amp;quot;&amp;quot;
+math = true
+highlight = true
+[header]
+image = &amp;quot;&amp;quot;
+caption = &amp;quot;&amp;quot;
++++&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Current and future latitudinal gradients in stream macroinvertebrates richness across North America</title>
+      <link>https://glowabio.org/publication/2014_shah_current_and_future/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2014_shah_current_and_future/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Choice of study area and predictors affect habitat suitability projections, but not the performance of species distribution models of stream biota</title>
       <link>https://glowabio.org/publication/2013_domisch_choice_of_study_area/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
       <guid>https://glowabio.org/publication/2013_domisch_choice_of_study_area/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continental-scale conservation prioritization of African dragonflies</title>
+      <link>https://glowabio.org/publication/2013_simaika_continental-scale_conservation/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2013_simaika_continental-scale_conservation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling distribution in European stream macroinvertebrates under future climates</title>
+      <link>https://glowabio.org/publication/2013_domisch_modelling_distribution_in/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2013_domisch_modelling_distribution_in/</guid>
       <description></description>
     </item>
     

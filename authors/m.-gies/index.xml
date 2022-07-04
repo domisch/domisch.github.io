@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Gies | Global freshwater biodiversity research</title>
+    <link>https://glowabio.org/authors/m.-gies/</link>
+      <atom:link href="https://glowabio.org/authors/m.-gies/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Gies</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <title>M. Gies</title>
+      <link>https://glowabio.org/authors/m.-gies/</link>
+    </image>
+    
+    <item>
+      <title>Severity Multipliers as a Methodology to Explore Potential Effects of Climate Change on Stream Bioassessment Programs</title>
+      <link>https://glowabio.org/publication/2017_jahnig_severity_multipliers_as/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2017_jahnig_severity_multipliers_as/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A.M. Wilson | Global freshwater biodiversity research</title>
+    <link>https://glowabio.org/authors/a.m.-wilson/</link>
+      <atom:link href="https://glowabio.org/authors/a.m.-wilson/index.xml" rel="self" type="application/rss+xml" />
+    <description>A.M. Wilson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <title>A.M. Wilson</title>
+      <link>https://glowabio.org/authors/a.m.-wilson/</link>
+    </image>
+    
+    <item>
+      <title>Model-based integration of observed and expert-based information for assessing the geographic and environmental distribution of freshwater species</title>
+      <link>https://glowabio.org/publication/2016_domisch_model-based_integration/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2016_domisch_model-based_integration/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

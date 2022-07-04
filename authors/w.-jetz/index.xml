@@ -20,5 +20,29 @@
       <description></description>
     </item>
     
+    <item>
+      <title>A suite of global, cross-scale topographic variables for environmental and biodiversity modeling</title>
+      <link>https://glowabio.org/publication/2018_amatulli_a_suite_of_global/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2018_amatulli_a_suite_of_global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-based integration of observed and expert-based information for assessing the geographic and environmental distribution of freshwater species</title>
+      <link>https://glowabio.org/publication/2016_domisch_model-based_integration/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2016_domisch_model-based_integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Near-global freshwater-specific environmental variables for biodiversity analyses in 1 km resolution</title>
+      <link>https://glowabio.org/publication/2015_domisch_near-global_freshwater-specific/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2015_domisch_near-global_freshwater-specific/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

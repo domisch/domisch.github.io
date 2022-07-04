@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K.S. Irving | Global freshwater biodiversity research</title>
+    <link>https://glowabio.org/authors/k.s.-irving/</link>
+      <atom:link href="https://glowabio.org/authors/k.s.-irving/index.xml" rel="self" type="application/rss+xml" />
+    <description>K.S. Irving</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <title>K.S. Irving</title>
+      <link>https://glowabio.org/authors/k.s.-irving/</link>
+    </image>
+    
+    <item>
+      <title>A high-resolution streamflow and hydrological metrics dataset for ecological modeling using a regression model</title>
+      <link>https://glowabio.org/publication/2018_irving_a_high-resolution_streamflow/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2018_irving_a_high-resolution_streamflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projected effects of Climate-change-induced flow alterations on stream macroinvertebrate abundances</title>
+      <link>https://glowabio.org/publication/2018_kakouei_projected-effects-of/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2018_kakouei_projected-effects-of/</guid>
+      <description>&lt;p&gt;+++
+title = &amp;ldquo;Projected effects of Climate-change-induced flow alterations on stream macroinvertebrate abundances&amp;rdquo;
+date = &amp;ldquo;2018-02-01&amp;rdquo;
+authors = [&amp;ldquo;Kakouei, K.&amp;rdquo;, &amp;ldquo;Kiesel, J.&amp;rdquo;, &amp;ldquo;&lt;strong&gt;Domisch, S.&lt;/strong&gt;&amp;rdquo;, &amp;ldquo;Irving, K.S.&amp;rdquo;, &amp;ldquo;Jähnig, S.C.&amp;rdquo;, &amp;ldquo;Kail, J.&amp;rdquo;]
+publication_types = [&amp;ldquo;2&amp;rdquo;]
+publication = &amp;ldquo;Ecol Evol, (8), 6, &lt;em&gt;pp. 3393-3409&lt;/em&gt;, &lt;a href=&#34;https://doi.org/10.1002/ece3.3907%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1002/ece3.3907&#34;&lt;/a&gt;
+publication_short = &amp;ldquo;&lt;em&gt;Ecology and Evolution&lt;/em&gt; (8), 3393-3409&amp;rdquo;
+abstract = &amp;ldquo;Global change has the potential to affect river flow conditions which are fundamental determinants of physical habitats. Predictions of the effects of flow alterations on aquatic biota have mostly been assessed based on species ecological traits (e.g., current preferences), which are difficult to link to quantitative discharge data. Alternatively, we used empirically derived predictive relationships for species’ response to flow to assess the effect of flow alterations due to climate change in two contrasting central European river catchments. Predictive relationships were set up for 294 individual species based on (1) abundance data from 223 sampling sites in the Kinzig lower‐mountainous catchment and 67 sites in the Treene lowland catchment, and (2) flow conditions at these sites described by five flow metrics quantifying the duration, frequency, magnitude, timing and rate of flow events using present‐day gauging data. Species’ abundances were predicted for three periods: (1) baseline (1998–2017), (2) horizon 2050 (2046–2065) and (3) horizon 2090 (2080–2099) based on these empirical relationships and using high‐resolution modeled discharge data for the present and future climate conditions. We compared the differences in predicted abundances among periods for individual species at each site, where the percent change served as a proxy to assess the potential species responses to flow alterations. Climate change was predicted to most strongly affect the low‐flow conditions, leading to decreased abundances of species up to −42%. Finally combining the response of all species over all metrics indicated increasing overall species assemblage responses in 98% of the studied river reaches in both projected horizons and were significantly larger in the lower‐mountainous Kinzig compared to the lowland Treene catchment. Such quantitative analyses of freshwater taxa responses to flow alterations provide valuable tools for predicting potential climate‐change impacts on species abundances and can be applied to any stressor, species, or region.&amp;rdquo;
+abstract_short = &amp;quot;&amp;rdquo;
+image_preview = &amp;quot;&amp;quot;
+selected = false
+projects = []
+tags = []
+url_pdf = &amp;ldquo;&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/epdf/10.1002/ece3.3907%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://onlinelibrary.wiley.com/doi/epdf/10.1002/ece3.3907&#34;&lt;/a&gt;
+url_preprint = &amp;quot;&amp;rdquo;
+url_code = &amp;quot;&amp;quot;
+url_dataset = &amp;quot;&amp;quot;
+url_project = &amp;quot;&amp;quot;
+url_slides = &amp;quot;&amp;quot;
+url_video = &amp;quot;&amp;quot;
+url_poster = &amp;quot;&amp;quot;
+url_source = &amp;quot;&amp;quot;
+math = true
+highlight = true
+[header]
+image = &amp;quot;&amp;quot;
+caption = &amp;quot;&amp;quot;
++++&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
