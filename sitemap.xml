@@ -6,6 +6,26 @@
   <url>
     <loc>https://glowabio.org/contact/</loc><lastmod>2022-05-27T00:00:00+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://glowabio.org/publication-type/2/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/a.-rico/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/f.-polazzo/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/m.-florke/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/publication/2022_polazzo_modelling_climate_change/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/publication_types/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/publication/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/s.-domisch/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://glowabio.org/publication-type/3/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/publication/2022_friedrichs-manthay_300_years_of_change/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -25,8 +45,6 @@
     <loc>https://glowabio.org/authors/a.s.-melo/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/annika-brunner/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://glowabio.org/authors/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/b.-rios-touma/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -85,8 +103,6 @@
     <loc>https://glowabio.org/authors/g.-theischinger/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/tag/geo-informatics/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://glowabio.org/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/h.-kling/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -160,10 +176,6 @@
   <url>
     <loc>https://glowabio.org/project/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://glowabio.org/publication_types/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://glowabio.org/publication/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://glowabio.org/authors/q.-cai./</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/r.-acosta/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -189,8 +201,6 @@
     <loc>https://glowabio.org/authors/r.k.-johnson/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/s.-ab-hamid/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://glowabio.org/authors/s.-domisch/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/s.a.-al-shami/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -231,26 +241,6 @@
     <loc>https://glowabio.org/authors/x.-deng/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/y.-torres-cambas/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://glowabio.org/publication-type/2/</loc><lastmod>2022-06-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://glowabio.org/authors/a.d.-greenwood/</loc><lastmod>2022-06-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://glowabio.org/authors/d.-numberger/</loc><lastmod>2022-06-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://glowabio.org/authors/h.-p.-grossart/</loc><lastmod>2022-06-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://glowabio.org/authors/j.-woodhouse/</loc><lastmod>2022-06-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://glowabio.org/authors/j.r.g.-marquez/</loc><lastmod>2022-06-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://glowabio.org/authors/l.-ganzert/</loc><lastmod>2022-06-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://glowabio.org/authors/l.-zoccarato/</loc><lastmod>2022-06-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://glowabio.org/authors/s.-sauer/</loc><lastmod>2022-06-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://glowabio.org/publication/2022_numberger_urbanization_promotes_specific/</loc><lastmod>2022-06-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/tag/conservation-planning/</loc><lastmod>2022-06-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -359,6 +349,8 @@
     <loc>https://glowabio.org/authors/j.i.-jones/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/j.kiesel/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/j.r.g.-marquez/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/k.a.-eikland/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -518,17 +510,33 @@
   <url>
     <loc>https://glowabio.org/data_code/bayesian-species-distribution-models/</loc><lastmod>2022-05-27T00:00:00+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://glowabio.org/authors/a.d.-greenwood/</loc><lastmod>2022-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/d.-numberger/</loc><lastmod>2022-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://glowabio.org/authors/e.j.-hudgins/</loc><lastmod>2022-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/h.-p.-grossart/</loc><lastmod>2022-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/publication/2022_haubrock_invasion_impacts/</loc><lastmod>2022-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://glowabio.org/authors/j.-woodhouse/</loc><lastmod>2022-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://glowabio.org/authors/j.j.-rasmussen/</loc><lastmod>2022-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/l.-ganzert/</loc><lastmod>2022-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/l.-zoccarato/</loc><lastmod>2022-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/m.a.e.-forio/</loc><lastmod>2022-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/m.h.-lizee/</loc><lastmod>2022-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/m.k.-feio/</loc><lastmod>2022-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/s.-sauer/</loc><lastmod>2022-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/publication/2022_numberger_urbanization_promotes_specific/</loc><lastmod>2022-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/c.-murria/</loc><lastmod>2022-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
