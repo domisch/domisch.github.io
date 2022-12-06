@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The hydrographr R-package | Global freshwater biodiversity research</title>
+    <link>https://glowabio.org/hydrographr/</link>
+      <atom:link href="https://glowabio.org/hydrographr/index.xml" rel="self" type="application/rss+xml" />
+    <description>The hydrographr R-package</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Dec 2022 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <title>The hydrographr R-package</title>
+      <link>https://glowabio.org/hydrographr/</link>
+    </image>
+    
+  </channel>
+</rss>
