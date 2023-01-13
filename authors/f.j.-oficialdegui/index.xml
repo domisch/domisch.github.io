@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F.J. Oficialdegui | Global freshwater biodiversity research</title>
+    <link>https://glowabio.org/authors/f.j.-oficialdegui/</link>
+      <atom:link href="https://glowabio.org/authors/f.j.-oficialdegui/index.xml" rel="self" type="application/rss+xml" />
+    <description>F.J. Oficialdegui</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <title>F.J. Oficialdegui</title>
+      <link>https://glowabio.org/authors/f.j.-oficialdegui/</link>
+    </image>
+    
+    <item>
+      <title>Long-term trends in crayfish invasions across European rivers</title>
+      <link>https://glowabio.org/publication/2023_soto_long-term_trends_in_crayfish/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2023_soto_long-term_trends_in_crayfish/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
