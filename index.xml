@@ -123,17 +123,25 @@ Phone: +49 (0) 30 6392 4079&lt;/p&gt;
       <link>https://glowabio.org/project/epto_database/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
       <guid>https://glowabio.org/project/epto_database/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;&amp;raquo; &lt;a href=&#34;https://geo.igb-berlin.de/maps/621/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click here for the visualization&lt;/a&gt; &amp;laquo;&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;Our ETPO data paper has been accepted for publication in &lt;em&gt;Global Ecology and Biogeography&lt;/em&gt;! Many thanks again to all co-authors and data providers for putting this together!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;raquo; &lt;a href=&#34;https://fred.igb-berlin.de/data/package/725&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click here to download the data&lt;/a&gt; &amp;laquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;raquo; &lt;a href=&#34;https://geo.igb-berlin.de/maps/621/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click here for the visualization&lt;/a&gt; &amp;laquo;&lt;/strong&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Global biodiversity is declining rapidly worldwide, and among terrestrial, marine and freshwater ecosystems, freshwaters are particularly vulnerable. These fragmented ecosystems cover less than 1% of the Earth’s surface, yet they harbour approximately 10% of all described species.
 Aquatic insects contribute to freshwater diversity by approximately 60% as the largest and most diverse taxa group, and given this substantial proportion, aquatic insects may be considered as a proxy for freshwater biodiversity and ecological state of a given habitat.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;We have collated, together with nearly 100 co-authors, a global database of Ephemeroptera, Plecoptera, Trichoptera and Odonata (EPTO) occurrences comprising more than 8 million records. The data can be downloaded &lt;a href=&#34;https://fred.igb-berlin.de/data/package/725&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and visualized &lt;a href=&#34;https://geo.igb-berlin.de/maps/609/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://geo.igb-berlin.de/maps/609/embed&#34; min-width : 900px ; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;EPTO database&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;p&gt;The following map shows the number of occurrences and genera per site &lt;a href=&#34;https://geo.igb-berlin.de/maps/621/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;click here for the fullscreen map&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The following map shows the number of occurrences and genera per site (&lt;a href=&#34;https://geo.igb-berlin.de/maps/621/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;click here for the fullscreen map&lt;/a&gt;):&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://geo.igb-berlin.de/maps/621/embed&#34; min-width : 900px ; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;EPTO database&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;br/&gt;
+&lt;p&gt;This map shows the density of records globally (&lt;a href=&#34;https://geo.igb-berlin.de/maps/609/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;click here for the fullscreen map&lt;/a&gt;):&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://geo.igb-berlin.de/maps/609/embed&#34; min-width : 900px ; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;EPTO database&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 &lt;hr&gt;
 &lt;p&gt;Below is a summary of the database: the number of observation records (a) and genera (b) for all orders, aggregated in a 10 km regular grid.  Number of observation records (c) and genera (d) for all orders per drainage basin. Number of observation records (e) and genera (f) per drainage basin for each order individually. E: Ephemeroptera, P: Plecoptera, T: Trichoptera, O: Odonata. White and grey areas lack information.&lt;/p&gt;
