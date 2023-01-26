@@ -5,20 +5,12 @@
     <link>https://glowabio.org/tag/r-package/</link>
       <atom:link href="https://glowabio.org/tag/r-package/index.xml" rel="self" type="application/rss+xml" />
     <description>R-package</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>R-package</title>
       <link>https://glowabio.org/tag/r-package/</link>
     </image>
-    
-    <item>
-      <title>hydrographr</title>
-      <link>https://glowabio.org/project/hydrographr/</link>
-      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://glowabio.org/project/hydrographr/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
