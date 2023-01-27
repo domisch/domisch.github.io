@@ -5,7 +5,7 @@
     <link>https://glowabio.org/tag/machine-learning/</link>
       <atom:link href="https://glowabio.org/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>Machine Learning</title>
@@ -15,7 +15,7 @@
     <item>
       <title>EPTO database</title>
       <link>https://glowabio.org/project/epto_database/</link>
-      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://glowabio.org/project/epto_database/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -28,17 +28,29 @@
 Aquatic insects contribute to freshwater diversity by approximately 60% as the largest and most diverse taxa group, and given this substantial proportion, aquatic insects may be considered as a proxy for freshwater biodiversity and ecological state of a given habitat.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;We have collated, together with nearly 100 co-authors, a global database of Ephemeroptera, Plecoptera, Trichoptera and Odonata (EPTO) occurrences comprising more than 8 million records. The data can be downloaded &lt;a href=&#34;https://doi.org/10.18728/igb-fred-811.0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and visualized &lt;a href=&#34;https://geo.igb-berlin.de/maps/609/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The following map shows the number of occurrences and genera per site (&lt;a href=&#34;https://geo.igb-berlin.de/maps/621/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;click here for the fullscreen map&lt;/a&gt;):&lt;/p&gt;
+&lt;p&gt;The following map shows the number of occurrences and genera per site (&lt;a href=&#34;https://geo.igb-berlin.de/maps/621/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;click here for the fullscreen interactive map&lt;/a&gt;):&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://geo.igb-berlin.de/maps/621/embed&#34; min-width : 900px ; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;EPTO database&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: right&#34;&gt; CC BY-NC 4.0 &lt;/div&gt;
 &lt;br/&gt;&lt;br/&gt;
-&lt;p&gt;This map shows the density of records globally (&lt;a href=&#34;https://geo.igb-berlin.de/maps/609/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;click here for the fullscreen map&lt;/a&gt;):&lt;/p&gt;
+&lt;p&gt;This map shows the density of records globally (&lt;a href=&#34;https://geo.igb-berlin.de/maps/609/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;click here for the fullscreen interactive map&lt;/a&gt;):&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://geo.igb-berlin.de/maps/609/embed&#34; min-width : 900px ; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;EPTO database&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: right&#34;&gt; CC BY-NC 4.0 &lt;/div&gt;
+&lt;p&gt;Map of observation records per basin (&lt;a href=&#34;https://geo.igb-berlin.de/maps/569/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;click here for the fullscreen interactive map&lt;/a&gt;):&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://geo.igb-berlin.de/maps/569/embed&#34; min-width : 900px ; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;EPTO database&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: right&#34;&gt; CC BY-NC 4.0 &lt;/div&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;p&gt;Map showing the number of genera per basin (&lt;a href=&#34;https://geo.igb-berlin.de/maps/570/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;click here for the fullscreen interactive map&lt;/a&gt;):&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://geo.igb-berlin.de/maps/570/embed&#34; min-width : 900px ; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;EPTO database&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: right&#34;&gt; CC BY-NC 4.0 &lt;/div&gt;
+&lt;br/&gt;&lt;br/&gt;
 &lt;hr&gt;
 </description>
     </item>
