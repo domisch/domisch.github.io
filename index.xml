@@ -576,21 +576,21 @@ authors = [&amp;ldquo;van Rees, C.B.&amp;rdquo;, &amp;ldquo;Waylen, K.&amp;rdquo
       <guid>https://glowabio.org/data_code/igb_workshop/</guid>
       <description>&lt;p&gt;&lt;strong&gt;IGB workshop: &lt;em&gt;hydrographr&lt;/em&gt; R-package – Agenda for April 21, 2023&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;(short breaks each hour)&lt;/p&gt;
-&lt;p&gt;10:00-10:15     Hydrography90m &amp;amp; installation of R-libraries / download of test data &lt;br/&gt;
-10:15-10:30     Introduction into hydrographr functions  &lt;br/&gt;
-10:30-12:00     &lt;a href=&#34;https://glowabio.github.io/hydrographr/articles/case_study_cuba.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Workflow #1&lt;/a&gt; &lt;br/&gt;
-12:00-13:00     Lunch break &lt;br/&gt;
-13:00-14:00     &lt;a href=&#34;&#34;&gt;Workflow #2&lt;/a&gt; &lt;br/&gt;
-14:00-16:00     Own data &lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;10:00 - 10:15     Hydrography90m &amp;amp; installation of R-libraries / download of test data &lt;br/&gt;
+10:15 - 10:30     Introduction into &lt;em&gt;hydrographr&lt;/em&gt; functions  &lt;br/&gt;
+10:30 - 12:00     &lt;a href=&#34;https://glowabio.github.io/hydrographr/articles/case_study_cuba.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Workflow #1&lt;/a&gt; &lt;br/&gt;
+12:00 - 13:00     Lunch break &lt;br/&gt;
+13:00 - 14:00     &lt;a href=&#34;https://glowabio.github.io/hydrographr/articles/case_study_brazil.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Workflow #2&lt;/a&gt; &lt;br/&gt;
+14:00 - 16:00     Own data &lt;br/&gt;&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://glowabio.github.io/hydrographr/articles/hydrographr.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Installation of the open-source GIS software used in the &lt;em&gt;hydrography&lt;/em&gt;-package&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/glowabio/hydrographr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;hydrographr&lt;/em&gt; Github repository&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;...&#34;&gt;Download the workshop data&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://glowabio.github.io/hydrographr/articles/hydrographr.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Installation of the open-source GIS software used in the &lt;em&gt;hydrography&lt;/em&gt;-package&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gitlab.com/-/snippets/2528967&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download the workshop data&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
