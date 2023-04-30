@@ -570,6 +570,43 @@ authors = [&amp;ldquo;van Rees, C.B.&amp;rdquo;, &amp;ldquo;Waylen, K.&amp;rdquo
     </item>
     
     <item>
+      <title>GeoFRESH</title>
+      <link>https://glowabio.org/data_code/geofresh/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0200</pubDate>
+      <guid>https://glowabio.org/data_code/geofresh/</guid>
+      <description>&lt;p&gt;GeoFRESH is a platform that helps freshwater researchers to process point data across the global river network by providing a set of spatial tools. Head over to &lt;a href=&#34;http://geofresh.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://geofresh.org/&lt;/a&gt; to check it out!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://geofresh.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&amp;amp;ldquo;GeoFRESH&amp;amp;rdquo;&#34; srcset=&#34;
+               /media/GeoFRESH_hu2d440d8c034315172ec6cd8b3934c050_144815_861177c8beb14b724bc2bbe8537e7c3c.webp 400w,
+               /media/GeoFRESH_hu2d440d8c034315172ec6cd8b3934c050_144815_bf1c2fd31099efbe264f068dd0d2aee0.webp 760w,
+               /media/GeoFRESH_hu2d440d8c034315172ec6cd8b3934c050_144815_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://glowabio.org/media/GeoFRESH_hu2d440d8c034315172ec6cd8b3934c050_144815_861177c8beb14b724bc2bbe8537e7c3c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;333&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>IGB workshop</title>
       <link>https://glowabio.org/data_code/igb_workshop/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0200</pubDate>
