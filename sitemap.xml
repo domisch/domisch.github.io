@@ -6,6 +6,20 @@
   <url>
     <loc>https://glowabio.org/contact/</loc><lastmod>2022-05-27T00:00:00+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://glowabio.org/</loc><lastmod>2023-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/tag/hydrography90m/</loc><lastmod>2023-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/tag/open-source/</loc><lastmod>2023-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/project/</loc><lastmod>2023-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/tag/r-package/</loc><lastmod>2023-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/tags/</loc><lastmod>2023-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/project/geofresh/</loc><lastmod>2023-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://glowabio.org/publication-type/2/</loc><lastmod>2023-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/a.-astorga-roine/</loc><lastmod>2023-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -71,8 +85,6 @@
     <loc>https://glowabio.org/authors/g.-amatulli/</loc><lastmod>2023-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/g.-theischinger/</loc><lastmod>2023-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://glowabio.org/</loc><lastmod>2023-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/h.-mykra/</loc><lastmod>2023-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -416,21 +428,11 @@
   <url>
     <loc>https://glowabio.org/tag/machine-learning/</loc><lastmod>2023-01-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://glowabio.org/project/</loc><lastmod>2023-01-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://glowabio.org/tag/scaling/</loc><lastmod>2023-01-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/tag/species-distribution-modeling/</loc><lastmod>2023-01-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://glowabio.org/tags/</loc><lastmod>2023-01-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://glowabio.org/tag/uncertainty/</loc><lastmod>2023-01-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://glowabio.org/tag/hydrography90m/</loc><lastmod>2023-01-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://glowabio.org/tag/open-source/</loc><lastmod>2023-01-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://glowabio.org/tag/r-package/</loc><lastmod>2023-01-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/project/hydrographr/</loc><lastmod>2023-01-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

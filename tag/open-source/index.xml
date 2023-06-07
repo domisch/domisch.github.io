@@ -5,12 +5,58 @@
     <link>https://glowabio.org/tag/open-source/</link>
       <atom:link href="https://glowabio.org/tag/open-source/index.xml" rel="self" type="application/rss+xml" />
     <description>Open-source</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>Open-source</title>
       <link>https://glowabio.org/tag/open-source/</link>
     </image>
+    
+    <item>
+      <title>The GeoFRESH online platform</title>
+      <link>https://glowabio.org/project/geofresh/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/project/geofresh/</guid>
+      <description>&lt;!--- [![&#34;hydrographr&#34;](/hydrographr.png)](https://github.com/glowabio/hydrographr) --&gt;
+&lt;p&gt;We have developed the GeoFRESH online platform, available at &lt;a href=&#34;http://geofresh.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://geofresh.org/&lt;/a&gt; that supports point data processing across the global river network by providing a set of spatial tools. GeoFRESH was a one-year pilot project funded by &lt;a href=&#34;https://www.nfdi4earth.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NFDI4Earth&lt;/a&gt; (DFG) and IGB.&lt;/p&gt;
+&lt;p&gt;GeoFRESH allows to&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;map your points,&lt;/li&gt;
+&lt;li&gt;move points to the nearest stream network segment,&lt;/li&gt;
+&lt;li&gt;delineate upstream catchments of each point,&lt;/li&gt;
+&lt;li&gt;extract a suite of environmental attributes across the catchment,&lt;/li&gt;
+&lt;li&gt;and download the data for further analyses.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&amp;amp;ldquo;NFDI&amp;amp;rdquo;&#34; srcset=&#34;
+               /media/nfdi4earth_hud6e42d14738cf3fc3f882aaa49eb782c_19018_a5068d035bc65c3cd895c487e52cd240.webp 400w,
+               /media/nfdi4earth_hud6e42d14738cf3fc3f882aaa49eb782c_19018_ae57e850a21fdfa41ebcd1c05b329ba4.webp 760w,
+               /media/nfdi4earth_hud6e42d14738cf3fc3f882aaa49eb782c_19018_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://glowabio.org/media/nfdi4earth_hud6e42d14738cf3fc3f882aaa49eb782c_19018_a5068d035bc65c3cd895c487e52cd240.webp&#34;
+               width=&#34;524&#34;
+               height=&#34;133&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The hydrographr R-package</title>
