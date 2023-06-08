@@ -6,11 +6,25 @@
   <url>
     <loc>https://glowabio.org/contact/</loc><lastmod>2022-05-27T00:00:00+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://glowabio.org/authors/</loc><lastmod>2023-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/tag/conservation-planning/</loc><lastmod>2023-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/emmanuel-akindele/</loc><lastmod>2023-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/admin/</loc><lastmod>2023-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/tag/freshwater-biodiversity/</loc><lastmod>2023-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://glowabio.org/</loc><lastmod>2023-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/tag/hydrography90m/</loc><lastmod>2023-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://glowabio.org/project/nigeria_biodiversity/</loc><lastmod>2023-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://glowabio.org/tag/open-source/</loc><lastmod>2023-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/tag/open-source-gis/</loc><lastmod>2023-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/project/</loc><lastmod>2023-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -35,8 +49,6 @@
     <loc>https://glowabio.org/authors/a.-schmidt-kloiber/</loc><lastmod>2023-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/a.s.-melo/</loc><lastmod>2023-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://glowabio.org/authors/</loc><lastmod>2023-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/b.-rios-touma/</loc><lastmod>2023-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -420,11 +432,7 @@
   <url>
     <loc>https://glowabio.org/authors/jaime-garcia-marquez/</loc><lastmod>2023-01-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://glowabio.org/authors/admin/</loc><lastmod>2023-01-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://glowabio.org/project/epto_database/</loc><lastmod>2023-01-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://glowabio.org/tag/freshwater-biodiversity/</loc><lastmod>2023-01-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/tag/machine-learning/</loc><lastmod>2023-01-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -484,11 +492,7 @@
   <url>
     <loc>https://glowabio.org/tag/geo-informatics/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://glowabio.org/tag/open-source-gis/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://glowabio.org/project/ssp_landcover/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://glowabio.org/tag/conservation-planning/</loc><lastmod>2022-06-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/project/colombia_conservation/</loc><lastmod>2022-06-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -1139,8 +1143,6 @@
     <loc>https://glowabio.org/categories/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/collaborators/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://glowabio.org/authors/emmanuel-akindele/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/martin-friedrichs-manthay/</loc><changefreq>weekly</changefreq></url>
   <url>

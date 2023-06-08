@@ -5,12 +5,23 @@
     <link>https://glowabio.org/tag/freshwater-biodiversity/</link>
       <atom:link href="https://glowabio.org/tag/freshwater-biodiversity/index.xml" rel="self" type="application/rss+xml" />
     <description>Freshwater biodiversity</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>Freshwater biodiversity</title>
       <link>https://glowabio.org/tag/freshwater-biodiversity/</link>
     </image>
+    
+    <item>
+      <title>Nigerian freshwater biodiversity</title>
+      <link>https://glowabio.org/project/nigeria_biodiversity/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/project/nigeria_biodiversity/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Assessing Nigeria&amp;rsquo;s Freshwater Biodiversity Hotspots for Conservation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nigeria is part of the Guinea Forest Biodiversity Hotspot, which is incredibly endowed with many threatened species. The country also has numerous outstanding freshwater systems in rare and protected areas such as waterfalls and national parks, of which relatively few have been documented for freshwater biodiversity to date. This suggests that the freshwater ecosystems of conservation importance may be grossly underreported in Nigeria. This research hinges on the concept that the loss of some threatened freshwater invertebrates and freshwater ecosystems of high conservation value may be inevitable in Nigeria, unless the actual and potential distributions of such species or sites are discovered.&lt;/p&gt;
+&lt;p&gt;An extensive database of all available stream macroinvertebrate species occurrence records from different eco-regions of Nigeria will be prepared. We will employ open-source software such as GRASS-GIS and R to estimate the actual or potential geographical distribution of species across a newly-developed, high-resolution hydrographic network to assess biogeographic patterns of freshwater biodiversity in this unique hotspot. We will also build on the model and use future climate and land cover predictions to obtain an estimate of how species distributions might be impacted by global change. The findings of this research have a very high potential to depict the present and probable future status of Nigeria&amp;rsquo;s freshwater biodiversity and to guide conservation efforts.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>EPTO database</title>
