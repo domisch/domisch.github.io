@@ -5,12 +5,80 @@
     <link>https://glowabio.org/tag/geo-informatics/</link>
       <atom:link href="https://glowabio.org/tag/geo-informatics/index.xml" rel="self" type="application/rss+xml" />
     <description>Geo-informatics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>Geo-informatics</title>
       <link>https://glowabio.org/tag/geo-informatics/</link>
     </image>
+    
+    <item>
+      <title>Developing an online infrastructure</title>
+      <link>https://glowabio.org/project/aquainfra/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/project/aquainfra/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;The AquaInfra Project - &lt;a href=&#34;https://aquainfra.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://aquainfra.eu/&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The AquaINFRA project aims to develop a virtual environment equipped with FAIR multi-disciplinary data and services to support marine and freshwater scientists and stakeholders restoring healthy oceans, seas, coastal and inland waters. The AquaINFRA virtual environment will enable the target stakeholders to store, share, access, analyse and process research data and other research digital objects from their own discipline, across research infrastructures, disciplines and national borders leveraging on EOSC and the other existing operational dataspaces. Besides supporting the ongoing development of the EOSC as an overarching research infrastructure, AquaINFRA is addressing the specific need for enabling researchers from the marine and freshwater communities to work and collaborate across those two domains.&lt;/p&gt;
+&lt;p&gt;A specific goal of AquaINFRA will be to develop an EOSC based research infrastructure combining the marine and freshwater domains, which will include the development of a cross domain and cross-country search and discovery mechanism as well as building services for spatio-temporal analysis and modelling through Virtual Research Environments. A set of strategic use cases including a Pan-European use case as well as more focused use cases in the Baltic Sea, the North Sea and the Mediterranean will provide the setting for co-designing and testing services in the targeted research communities.&lt;/p&gt;
+&lt;p&gt;The AquaINFRA project results are expected to contribute to the utilisation of EOSC as an overarching research infrastructure enabling collaboration across the domains of marine and freshwater scientists and stakeholders working on restoring of healthy oceans, seas, coastal and inland waters.&lt;/p&gt;
+&lt;p&gt;Check out the project website at &lt;a href=&#34;https://aquainfra.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://aquainfra.eu/&lt;/a&gt; for more information.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;AquaINFRA&#34; srcset=&#34;
+               /media/eosc_aquainfra_logo_hu330ee25b97e12b78f57db6dc212df921_7071_6a7ca8f4535d7ef8820b12e3b5481148.webp 400w,
+               /media/eosc_aquainfra_logo_hu330ee25b97e12b78f57db6dc212df921_7071_e7c457a84b3963a2839e1093804bc839.webp 760w,
+               /media/eosc_aquainfra_logo_hu330ee25b97e12b78f57db6dc212df921_7071_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://glowabio.org/media/eosc_aquainfra_logo_hu330ee25b97e12b78f57db6dc212df921_7071_6a7ca8f4535d7ef8820b12e3b5481148.webp&#34;
+               width=&#34;80%&#34;
+               height=&#34;68&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;EU&#34; srcset=&#34;
+               /media/EN_FundedbytheEU_RGB_POS_hu267502184c4df6851ee51303a763ebc9_62745_a7133d34f03611952666b72acc802815.webp 400w,
+               /media/EN_FundedbytheEU_RGB_POS_hu267502184c4df6851ee51303a763ebc9_62745_12a9843b39971988e18366ebcdbb1891.webp 760w,
+               /media/EN_FundedbytheEU_RGB_POS_hu267502184c4df6851ee51303a763ebc9_62745_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://glowabio.org/media/EN_FundedbytheEU_RGB_POS_hu267502184c4df6851ee51303a763ebc9_62745_a7133d34f03611952666b72acc802815.webp&#34;
+               width=&#34;80%&#34;
+               height=&#34;169&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+The AquaINFRA has received funding from the European Commission’s Horizon Europe Research and Innovation programme under grant agreement No 101094434.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>SSP projections of landcover and fish</title>
