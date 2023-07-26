@@ -6,25 +6,37 @@
   <url>
     <loc>https://glowabio.org/contact/</loc><lastmod>2022-05-27T00:00:00+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://glowabio.org/authors/</loc><lastmod>2023-06-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://glowabio.org/authors/</loc><lastmod>2023-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/tag/clustering/</loc><lastmod>2023-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/jaime-garcia-marquez/</loc><lastmod>2023-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/admin/</loc><lastmod>2023-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/project/regionalization/</loc><lastmod>2023-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/</loc><lastmod>2023-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/tag/machine-learning/</loc><lastmod>2023-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/marlene-schurz/</loc><lastmod>2023-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/project/</loc><lastmod>2023-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/tag/regionalization/</loc><lastmod>2023-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/tags/</loc><lastmod>2023-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/tag/conservation-planning/</loc><lastmod>2023-06-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/emmanuel-akindele/</loc><lastmod>2023-06-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://glowabio.org/authors/admin/</loc><lastmod>2023-06-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://glowabio.org/tag/freshwater-biodiversity/</loc><lastmod>2023-06-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://glowabio.org/</loc><lastmod>2023-06-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/project/nigeria_biodiversity/</loc><lastmod>2023-06-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/tag/open-source-gis/</loc><lastmod>2023-06-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://glowabio.org/project/</loc><lastmod>2023-06-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://glowabio.org/tags/</loc><lastmod>2023-06-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/tag/hydrography90m/</loc><lastmod>2023-06-06T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -37,8 +49,6 @@
     <loc>https://glowabio.org/project/hydrographr/</loc><lastmod>2023-06-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/project/aquainfra/</loc><lastmod>2023-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://glowabio.org/authors/jaime-garcia-marquez/</loc><lastmod>2023-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/tag/freshwater/</loc><lastmod>2023-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -446,8 +456,6 @@
   <url>
     <loc>https://glowabio.org/project/epto_database/</loc><lastmod>2023-01-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://glowabio.org/tag/machine-learning/</loc><lastmod>2023-01-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://glowabio.org/tag/scaling/</loc><lastmod>2023-01-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/tag/species-distribution-modeling/</loc><lastmod>2023-01-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -508,8 +516,6 @@
   <url>
     <loc>https://glowabio.org/tag/climate-change/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://glowabio.org/tag/clustering/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://glowabio.org/tag/conservation/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/tag/discharge/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -524,8 +530,6 @@
   <url>
     <loc>https://glowabio.org/tag/ecosystem-services/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://glowabio.org/project/glowabio_habitats/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://glowabio.org/project/geomorpho90m/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/tag/gurobi/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -534,13 +538,9 @@
   <url>
     <loc>https://glowabio.org/tag/integer-linear-programming/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://glowabio.org/authors/maria-ueblacker/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://glowabio.org/tag/marxan/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/project/cuba_biodiversity/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://glowabio.org/tag/regionalization/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/project/glowabio_conservation/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -1161,8 +1161,6 @@
     <loc>https://glowabio.org/authors/gabriela-spriestersbach/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/lydia-nass/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://glowabio.org/authors/marlene-schurz/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/kristi-bego/</loc><changefreq>weekly</changefreq></url>
   <url>
