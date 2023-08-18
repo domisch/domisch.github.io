@@ -22,17 +22,25 @@
     
     <item>
       <title>A database of freshwater macroinvertebrate occurrence records across Cuba</title>
-      <link>https://glowabio.org/publication/2023_brunners_downscaling_future_land_cover/</link>
+      <link>https://glowabio.org/publication/2023_torres_a_database_of_freshwater/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://glowabio.org/publication/2023_brunners_downscaling_future_land_cover/</guid>
+      <guid>https://glowabio.org/publication/2023_torres_a_database_of_freshwater/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A database of freshwater macroinvertebrate occurrence records across Cuba</title>
-      <link>https://glowabio.org/publication/2023_torres_a_database_of_freshwater/</link>
+      <title>Downscaling future land cover scenarios for freshwater fish distribution models under climate change</title>
+      <link>https://glowabio.org/publication/2023_brunner_downscaling_future_land_cover/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://glowabio.org/publication/2023_torres_a_database_of_freshwater/</guid>
+      <guid>https://glowabio.org/publication/2023_brunner_downscaling_future_land_cover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hydrographr: an R package for scalable hydrographic data processing</title>
+      <link>https://glowabio.org/publication/2023_schurz_grigoropoulou_hydrograpr_scalable_hydrgraphic/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2023_schurz_grigoropoulou_hydrograpr_scalable_hydrgraphic/</guid>
       <description></description>
     </item>
     
