@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>G.H. Van der Lee | Global freshwater biodiversity research</title>
+    <title>G.H. van der Lee | Global freshwater biodiversity research</title>
     <link>https://glowabio.org/authors/g.h.-van-der-lee/</link>
       <atom:link href="https://glowabio.org/authors/g.h.-van-der-lee/index.xml" rel="self" type="application/rss+xml" />
-    <description>G.H. Van der Lee</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <description>G.H. van der Lee</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
-      <title>G.H. Van der Lee</title>
+      <title>G.H. van der Lee</title>
       <link>https://glowabio.org/authors/g.h.-van-der-lee/</link>
     </image>
+    
+    <item>
+      <title>Time series of freshwater macroinvertebrate abundances and site characteristics of European streams and rivers</title>
+      <link>https://glowabio.org/publication/2023_welti_time_series_of_freshwater/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2023_welti_time_series_of_freshwater/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The recovery of European freshwater biodiversity has come to a halt</title>
+      <link>https://glowabio.org/publication/2023_haase_the_recovery_of_/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2023_haase_the_recovery_of_/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Tracking a killer shrimp: Dikerogammarus villosus invasion dynamics across Europe</title>
