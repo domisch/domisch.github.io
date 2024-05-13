@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R.J. Rolls | Global freshwater biodiversity research</title>
+    <link>https://glowabio.org/authors/r.j.-rolls/</link>
+      <atom:link href="https://glowabio.org/authors/r.j.-rolls/index.xml" rel="self" type="application/rss+xml" />
+    <description>R.J. Rolls</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <title>R.J. Rolls</title>
+      <link>https://glowabio.org/authors/r.j.-rolls/</link>
+    </image>
+    
+    <item>
+      <title>The relationships between biotic uniqueness and abiotic uniqueness are context dependent across drainage basins worldwide</title>
+      <link>https://glowabio.org/publication/2024_snare_the_relationships_between_biotic/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2024_snare_the_relationships_between_biotic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
