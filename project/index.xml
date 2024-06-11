@@ -47,6 +47,12 @@
 &lt;/div&gt;
 &lt;p&gt;The West Africa sub-region and the Congo Basin, the latter extending from Cameroon to Gabon, are two of the eight biodiversity hotspots on the African continent. The hotspots are incredibly endowered with many rare and threatened species, and outstanding freshwater systems, of which relatively few have been documented for freshwater biodiversity to date. This suggests that the freshwater ecosystems of conservation importance may be grossly underreported in these regions. This research hinges on the concept that the loss of some threatened freshwater invertebrates and freshwater ecosystems of high conservation value may be inevitable in West Africa and the Congo Basin, unless the actual and potential distributions of such species or sites are discovered.&lt;/p&gt;
 &lt;p&gt;An extensive database of all available stream macroinvertebrate species occurrence records from different eco-regions of Nigeria will be prepared. We will employ open-source software such as GRASS-GIS and R to estimate the actual or potential geographical distribution of species across a newly-developed, high-resolution hydrographic network to assess biogeographic patterns of freshwater biodiversity in this unique hotspot. We will also build on the model and use future climate and land cover predictions to obtain an estimate of how species distributions might be impacted by global change. The findings of this research have a very high potential to depict the present and probable future status of Nigeria&amp;rsquo;s freshwater biodiversity and to guide conservation efforts.&lt;/p&gt;
+&lt;p&gt;Our data paper is in preparation and the following map shows the 8000 records we&amp;rsquo;ve collated (&lt;a href=&#34;https://geo.igb-berlin.de/maps/901/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;click here for the fullscreen interactive map&lt;/a&gt;):&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://geo.igb-berlin.de/maps/901/embed&#34; min-width : 900px ; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;Guineo-Congolian species data&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: right&#34;&gt; CC BY-NC 4.0 &lt;/div&gt;
+&lt;br/&gt;&lt;br/&gt;
 </description>
     </item>
     
