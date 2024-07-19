@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Pauls | Global freshwater biodiversity research</title>
+    <link>https://glowabio.org/authors/s.-pauls/</link>
+      <atom:link href="https://glowabio.org/authors/s.-pauls/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Pauls</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <title>S. Pauls</title>
+      <link>https://glowabio.org/authors/s.-pauls/</link>
+    </image>
+    
+    <item>
+      <title>Comparative phylogeography of _Himalopsyche_ (Trichoptera, Rhyacophilidae) in the Tibeto-Himalayan Region: An assessment of the mountain-geobiodiversity hypothesis</title>
+      <link>https://glowabio.org/publication/2024_deng_comparative_phylogeography_of/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2024_deng_comparative_phylogeography_of/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
