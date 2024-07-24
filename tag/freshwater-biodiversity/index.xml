@@ -147,7 +147,12 @@ Aquatic insects contribute to freshwater diversity by approximately 60% as the l
       <link>https://glowabio.org/project/colombia_conservation/</link>
       <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://glowabio.org/project/colombia_conservation/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;&amp;raquo; &lt;a href=&#34;https://geo.igb-berlin.de/maps/290/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click here for the visualization&lt;/a&gt; &amp;laquo;&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;See the online map of the fish prioritization maps across Colombia:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;raquo; &lt;a href=&#34;https://geo.igb-berlin.de/maps/290/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click here for the visualization&lt;/a&gt; &amp;laquo;&lt;/strong&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Colombia forms one of the global freshwater biodiversity hotspots, home to 1494 freshwater fish species. This exceptional fish fauna has, however, rarely been considered when selecting areas for biodiversity conservation. This study integrates freshwater fish distributions into a spatial prioritization exercise to assess to which extent (i) freshwater biodiversity, using fish as a proxy, is currently represented within the existing protected areas, and (ii) if alternative protected area networks may have the potential to increase the number of fish species under protection.&lt;/p&gt;
 &lt;p&gt;At first all available fish data was collated, resulting in a data base of over 112,535 geographic occurrences of 1224 freshwater fishes across Colombia with harmonized nomenclature and revised geo-referenced coordinates.&lt;/p&gt;
 &lt;p&gt;Based on a digital elevation model at 1 km&lt;sup&gt;2&lt;/sup&gt; resolution, the stream network was delineated with a minimum catchment size of 90 km&lt;sup&gt;2&lt;/sup&gt; and extracted the corresponding 33,612 sub-catchments that served as spatial units within the analyses. In the next step fish occurrence data and environmental variables (climate, topography, land cover, hydrology) were aggregated across the sub-catchments and an ensemble of species distribution modelling algorithms was employed to project suitable habitat of each fish species across the study area.&lt;/p&gt;
