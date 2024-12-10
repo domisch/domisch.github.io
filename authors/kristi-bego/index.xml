@@ -5,12 +5,36 @@
     <link>https://glowabio.org/authors/kristi-bego/</link>
       <atom:link href="https://glowabio.org/authors/kristi-bego/index.xml" rel="self" type="application/rss+xml" />
     <description>MSc. Kristi Bego</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://glowabio.org/authors/kristi-bego/avatar_hu5143e36974d2d5135c80bd811b0fc4af_1140162_270x270_fill_lanczos_center_3.png</url>
       <title>MSc. Kristi Bego</title>
       <link>https://glowabio.org/authors/kristi-bego/</link>
     </image>
+    
+    <item>
+      <title>Western Balkans amphibian biodiversity facets</title>
+      <link>https://glowabio.org/project/western_balkans_amphibians/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/project/western_balkans_amphibians/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Mapping the complementary amphibian biodiversity facets across the Western Balkans&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;You can be part of this project!&lt;/p&gt;
+&lt;p&gt;We are looking for species occurrence data for the following countries:
+Greece, Macedonia, Montenegro, Bosnia &amp;amp; Herzegovina, Serbia, Bulgaria, Romania, Croatia, Slovenia and Hungary&lt;/p&gt;
+&lt;p&gt;If you wish to help by providing data, please contact: &lt;a href=&#34;mailto:kristi.bego@igb-berlin.de&#34;&gt;kristi.bego@igb-berlin.de&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Freshwater ecosystems cover less than one percent of the Earth&amp;rsquo;s surface but house over 12% of all recorded species, and over 33% of vertebrates. The services provided by these ecosystems are invaluable, and yet there is an ongoing freshwater crisis that has been slowly building up over the years as water demand continues to grow. As a result there has been a continuous decline in freshwater vertebrate populations since the 1970s, a trend which is still on a downward slope. Among vertebrates, amphibians stand out globally as the most threatened vertebrate group according to IUCN (2020), however they don&amp;rsquo;t receive the same conservation attention and often get overlooked, as is the case with amphibians still not being included in the EU Water Framework Directive.&lt;/p&gt;
+&lt;p&gt;The Western Balkans is often regarded as a biodiversity hotspot, with amphibians representing a key biodiversity group for this region. It is home to 29 amphibian species, including endemic and protected species, with countries like Croatia hosting 25% of all european amphibian species. The typical threats to populations in the Balkans are  habitat destruction, alteration and fragmentation, pollution, UV-B radiation, disease, introduced species, exploitation, climate change and more. This emphasizes the conservation interest in amphibians of the Balkan region as a whole.&lt;/p&gt;
+&lt;p&gt;In this project we will be studying the spatial species and functional diversity patterns of amphibians in the Western Balkan biodiversity hotspot. We will evaluate the spatial similarity and uniqueness of these diversity patterns by investigating both local connectivity and upstream/downstream connectivity at the same time. We also aim to identify possible priority conservation areas, by highlighting areas where these biodiversity facets can be spatially prioritized. Essentially, we wish to know how congruent amphibian species and functional diversity patterns are between them, and how contigent are spatial prioritization areas on species &amp;amp; functional diversity patterns.&lt;/p&gt;
+&lt;p&gt;To this end, we will map the species distributions of all amphibian species found in the Western Balkan region, utilizing species distribution models based on existing occurrence records. These network-based distribution models will account for connectivity among other key environmental factors to map suitable habitats for amphibians in the Western Balkans. We expect patterns of species distribution and range size to emerge across the hydrographic network of the region. Building upon the distribution models, we will investigate and map the functional trait diversity and uniqueness of amphibians in the region, to uncover possible patterns of functional drainage endemism. Finally, we will combine both of these approaches through a spatial prioritization framework to analyze hotspots of conservation importance in the Western Balkan region.&lt;/p&gt;
+&lt;p&gt;Ultimately through this project we expect to shed more light and broaden our understanding of the intricate environmental interactions and dynamics of amphibian populations of the Western Balkans biodiversity hotspot. We hope that the findings presented by our project will open the door to more discussions on bettering global conservation efforts, highlighting the importance and conservation interest of amphibians as a vertebrate group, as well as providing a baseline for spatial prioritization with the purpose of increasing the efficiency of said conservation efforts.&lt;/p&gt;
+&lt;p&gt;As we prepare data and vizualizations, they will be added to this page throughout the development of the project.&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
