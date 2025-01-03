@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Ørsted | Global freshwater biodiversity research</title>
+    <link>https://glowabio.org/authors/m.-%C3%B8rsted/</link>
+      <atom:link href="https://glowabio.org/authors/m.-%C3%B8rsted/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Ørsted</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <title>M. Ørsted</title>
+      <link>https://glowabio.org/authors/m.-%C3%B8rsted/</link>
+    </image>
+    
+    <item>
+      <title>Evaluating the readiness for river barrier removal: A scoping review under the EU nature restoration law</title>
+      <link>https://glowabio.org/publication/2025_darre-evaluating_the_readiness/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2025_darre-evaluating_the_readiness/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
