@@ -5,12 +5,20 @@
     <link>https://glowabio.org/authors/t.-tomiczek/</link>
       <atom:link href="https://glowabio.org/authors/t.-tomiczek/index.xml" rel="self" type="application/rss+xml" />
     <description>T. Tomiczek</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>T. Tomiczek</title>
       <link>https://glowabio.org/authors/t.-tomiczek/</link>
     </image>
+    
+    <item>
+      <title>Protected areas in a neotropical biodiversity hotspot cover freshwater fish distributions only by a fraction</title>
+      <link>https://glowabio.org/publication/2025_tomiczek_protected_areas_in_a_neotropical/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2025_tomiczek_protected_areas_in_a_neotropical/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>GeoFRESH – an online platform for freshwater geospatial data processing</title>
