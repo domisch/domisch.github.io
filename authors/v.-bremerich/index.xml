@@ -5,12 +5,20 @@
     <link>https://glowabio.org/authors/v.-bremerich/</link>
       <atom:link href="https://glowabio.org/authors/v.-bremerich/index.xml" rel="self" type="application/rss+xml" />
     <description>V. Bremerich</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>V. Bremerich</title>
       <link>https://glowabio.org/authors/v.-bremerich/</link>
     </image>
+    
+    <item>
+      <title>Encouraging reusability of computational research through Data-to-Knowledge Packages - A hydrological use case</title>
+      <link>https://glowabio.org/publication/2025_konkol_encouraging_reusability_of/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2025_konkol_encouraging_reusability_of/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>GeoFRESH – an online platform for freshwater geospatial data processing</title>
