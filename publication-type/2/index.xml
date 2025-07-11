@@ -5,12 +5,20 @@
     <link>https://glowabio.org/publication-type/2/</link>
       <atom:link href="https://glowabio.org/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://glowabio.org/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Environment90m - globally standardized environmental variables for spatial freshwater biodiversity science at high spatial resolution</title>
+      <link>https://glowabio.org/publication/2025_garcia_marquez_environment90m/</link>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2025_garcia_marquez_environment90m/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Comparative phylogeography of Himalopsyche (Trichoptera, Rhyacophilidae) in the Tibeto-Himalayan Region: An assessment of the mountain-geobiodiversity hypothesis</title>
