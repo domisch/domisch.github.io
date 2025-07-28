@@ -5,12 +5,20 @@
     <link>https://glowabio.org/authors/t.-mehner/</link>
       <atom:link href="https://glowabio.org/authors/t.-mehner/index.xml" rel="self" type="application/rss+xml" />
     <description>T. Mehner</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>T. Mehner</title>
       <link>https://glowabio.org/authors/t.-mehner/</link>
     </image>
+    
+    <item>
+      <title>The hidden dimensions of biodiversity</title>
+      <link>https://glowabio.org/publication/2025_domisch_the_hidden_dimensions/</link>
+      <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2025_domisch_the_hidden_dimensions/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Evaluating Environmental Predictors of Fish Community Composition in a Semi-Arid River System Using a Model-Based Approach</title>
@@ -25,14 +33,6 @@
       <link>https://glowabio.org/publication/2024_domisch_geofresh_an-online_platform/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://glowabio.org/publication/2024_domisch_geofresh_an-online_platform/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The hidden dimensions of biodiversity</title>
-      <link>https://glowabio.org/publication/2025_domisch_the_hidden_dimensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://glowabio.org/publication/2025_domisch_the_hidden_dimensions/</guid>
       <description></description>
     </item>
     

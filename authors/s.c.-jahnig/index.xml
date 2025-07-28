@@ -5,12 +5,20 @@
     <link>https://glowabio.org/authors/s.c.-jahnig/</link>
       <atom:link href="https://glowabio.org/authors/s.c.-jahnig/index.xml" rel="self" type="application/rss+xml" />
     <description>S.C. Jähnig</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>S.C. Jähnig</title>
       <link>https://glowabio.org/authors/s.c.-jahnig/</link>
     </image>
+    
+    <item>
+      <title>The hidden dimensions of biodiversity</title>
+      <link>https://glowabio.org/publication/2025_domisch_the_hidden_dimensions/</link>
+      <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2025_domisch_the_hidden_dimensions/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Comparative phylogeography of Himalopsyche (Trichoptera, Rhyacophilidae) in the Tibeto-Himalayan Region: An assessment of the mountain-geobiodiversity hypothesis</title>
@@ -285,14 +293,6 @@ caption = &amp;quot;&amp;quot;
       <link>https://glowabio.org/publication/2011_domisch_climate-change_winners/</link>
       <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
       <guid>https://glowabio.org/publication/2011_domisch_climate-change_winners/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The hidden dimensions of biodiversity</title>
-      <link>https://glowabio.org/publication/2025_domisch_the_hidden_dimensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://glowabio.org/publication/2025_domisch_the_hidden_dimensions/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,20 @@
     <link>https://glowabio.org/authors/h.-p.-grossart/</link>
       <atom:link href="https://glowabio.org/authors/h.-p.-grossart/index.xml" rel="self" type="application/rss+xml" />
     <description>H.-P. Grossart</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://glowabio.org/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>H.-P. Grossart</title>
       <link>https://glowabio.org/authors/h.-p.-grossart/</link>
     </image>
+    
+    <item>
+      <title>The hidden dimensions of biodiversity</title>
+      <link>https://glowabio.org/publication/2025_domisch_the_hidden_dimensions/</link>
+      <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://glowabio.org/publication/2025_domisch_the_hidden_dimensions/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Environmental effects of the Kakhovka Dam destruction by warfare in Ukraine</title>
@@ -54,14 +62,6 @@ title = &amp;ldquo;Safeguarding freshwater life beyond 2020: Recommendations for
 date = &amp;ldquo;2021-02-01&amp;rdquo;
 authors = [&amp;ldquo;van Rees, C.B.&amp;rdquo;, &amp;ldquo;Waylen, K.&amp;rdquo; , &amp;ldquo;Schmidt-Kloiber, A.&amp;rdquo;, &amp;ldquo;Thackeray, S.&amp;rdquo; , &amp;ldquo;Kalinkat, G.&amp;rdquo;, &amp;ldquo;Martens, K.&amp;rdquo;, &amp;ldquo;&lt;strong&gt;Domisch, S.&lt;/strong&gt;&amp;rdquo;, &amp;ldquo;Lillebø, A.I.&amp;rdquo;, &amp;ldquo;Hermoso, V.&amp;rdquo;,  &amp;ldquo;Grossart, H.-P.&amp;rdquo;, &amp;ldquo;Schinegger, R.&amp;rdquo;, &amp;ldquo;Decleer, K.&amp;rdquo;, &amp;ldquo;Adriaens, T.&amp;rdquo;, &amp;ldquo;Denys, L.&amp;rdquo;, &amp;ldquo;Jarić, I.&amp;rdquo;, &amp;ldquo;Monaghan, M.T.&amp;rdquo;, &amp;ldquo;Janse, J.&amp;rdquo;, &amp;ldquo;De Wever, A.&amp;rdquo;, &amp;ldquo;Geijzendorffer, I.&amp;rdquo;, &amp;ldquo;Adamescu, M.&amp;rdquo;, &amp;ldquo;Jähnig, S.C&amp;rdquo;]&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>The hidden dimensions of biodiversity</title>
-      <link>https://glowabio.org/publication/2025_domisch_the_hidden_dimensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://glowabio.org/publication/2025_domisch_the_hidden_dimensions/</guid>
-      <description></description>
     </item>
     
   </channel>
