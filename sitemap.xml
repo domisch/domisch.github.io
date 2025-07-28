@@ -90,8 +90,6 @@
   <url>
     <loc>https://glowabio.org/authors/p.-paril/</loc><lastmod>2025-07-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://glowabio.org/publication/2025_tomiczek_protected_areas_in_a_neotropical/</loc><lastmod>2025-07-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://glowabio.org/publication/2025_sinclair_protected_areas_promote/</loc><lastmod>2025-07-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/q.-cai./</loc><lastmod>2025-07-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -117,6 +115,8 @@
     <loc>https://glowabio.org/authors/s.c.-jahnig/</loc><lastmod>2025-07-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/t.-muotka/</loc><lastmod>2025-07-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/publication/2025_tomiczek_protected_areas_in_a_neotropical/</loc><lastmod>2025-07-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/x.-deng/</loc><lastmod>2025-07-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -1538,9 +1538,19 @@
   <url>
     <loc>https://glowabio.org/people/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://glowabio.org/publication-type/3/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/a.-prochnow/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/a.l.-dickerson/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/c.-flocco/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://glowabio.org/categories/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/collaborators/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/d.-mietchen/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/martin-friedrichs-manthay/</loc><changefreq>weekly</changefreq></url>
   <url>
@@ -1550,6 +1560,10 @@
   <url>
     <loc>https://glowabio.org/authors/gabriela-spriestersbach/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://glowabio.org/authors/j.-overmann/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/l.-govaert/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://glowabio.org/authors/lydia-nass/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/maxine-chapman/</loc><changefreq>weekly</changefreq></url>
@@ -1557,5 +1571,27 @@
     <loc>https://glowabio.org/authors/mayra-evangelina-darre/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/merret-buurman/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/n.-eisenhauer/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/n.-scheunemann/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/s.-hilt/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/s.-kiefer/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/s.-kimmig/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/s.-kolb/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/s.-schroer/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/s.-theuerl/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/t.-leger/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/authors/t.-stoffers/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://glowabio.org/publication/2025_domisch_the_hidden_dimensions/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://glowabio.org/authors/xiling-deng/</loc><changefreq>weekly</changefreq></url></urlset>
