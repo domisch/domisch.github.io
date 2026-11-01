@@ -1,16 +1,5 @@
 [
   {
-    "listing": "/index_old.html",
-    "items": [
-      "/project/western_balkans_amphibians/index.html",
-      "/project/regionalization/index.html",
-      "/project/guineo-congolian_biodiversity/index.html",
-      "/project/geofresh/index.html",
-      "/project/hydrographr/index.html",
-      "/project/hydrography90m/index.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
       "/project/western_balkans_amphibians/index.html",
