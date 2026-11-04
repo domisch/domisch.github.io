@@ -2,30 +2,30 @@
   {
     "listing": "/project/index.html",
     "items": [
-      "/project/magdalena_cauca/index.html",
-      "/project/western_balkans_amphibians/index.html",
-      "/project/regionalization/index.html",
       "/project/guineo-congolian_biodiversity/index.html",
-      "/project/geofresh/index.html",
-      "/project/hydrographr/index.html",
+      "/project/magdalena_cauca/index.html",
       "/project/aquainfra/index.html",
-      "/project/sos_water/index.html",
-      "/project/epto_database/index.html",
+      "/project/western_balkans_amphibians/index.html",
       "/project/ssp_landcover/index.html",
+      "/project/geofresh/index.html",
+      "/project/sos_water/index.html",
       "/project/colombia_conservation/index.html",
+      "/project/regionalization/index.html",
+      "/project/hydrographr/index.html",
+      "/project/epto_database/index.html",
       "/project/cuba_biodiversity/index.html",
+      "/project/environment90m/index.html",
       "/project/geomorpho90m/index.html",
-      "/project/glowabio_conservation/index.html",
       "/project/hydrography90m/index.html"
     ]
   },
   {
     "listing": "/index.html",
     "items": [
-      "/project/western_balkans_amphibians/index.html",
-      "/project/regionalization/index.html",
       "/project/guineo-congolian_biodiversity/index.html",
+      "/project/western_balkans_amphibians/index.html",
       "/project/geofresh/index.html",
+      "/project/regionalization/index.html",
       "/project/hydrographr/index.html",
       "/project/hydrography90m/index.html"
     ]
