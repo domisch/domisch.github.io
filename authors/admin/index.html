@@ -47,8 +47,8 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-0ae969d3293726db143f6e9eb89af930.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-f932399a4ad9853a144a21c3473a41d4.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/bootstrap/bootstrap-dark-c0dd47df301fece93559c0e2ae9a38b9.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../../site_libs/bootstrap/bootstrap-f96aebf26819f8b2e0ed28d5c05f34a0.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark-418d640907dc3aa8cc43904136229753.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -797,49 +797,158 @@ Deutsche Schule Helsinki, Finland</li>
     box.classList.add('is-loaded');
   });
 
-  // Hero stream network. Hovering highlights the stream reach nearest to the pointer (+ tooltip). If the pointer rests on it,
-  // the whole upstream network lights up, growing upstream, and a bit later the downstream path to the outlet.
+  // Hero stream network, drawn on canvases from assets/hero-network.json (4851 reaches). There are no thousands of SVG elements any more,
+  // so the page stays fast on phones.
+  //  * intro: the reaches appear headwaters first,
+  //  * desktop: hovering highlights the nearest reach (+ tooltip); if the pointer rests, the upstream network grows and, a bit later,
+  //    the downstream path to the outlet is traced,
+  //  * touch: tapping a stream does the same at once; tapping it again (or an empty spot) clears it.
   (function () {
     var net = document.querySelector('.hero .net');
-    var svg = net && net.querySelector('svg');
-    if (!svg || !window.matchMedia || !window.matchMedia('(hover: hover)').matches) return;
+    var url = net && net.getAttribute('data-src');
+    if (!url || !window.fetch || !window.Path2D) return;
     var hero = net.closest('.hero'), wide = window.matchMedia('(min-width: 761px)');
-    var still = window.matchMedia('(prefers-reduced-motion: reduce)');
+    var still = window.matchMedia('(prefers-reduced-motion: reduce)'), canHover = window.matchMedia('(hover: hover)').matches;
     var NS = 'http://www.w3.org/2000/svg';
-    var RADIUS = 16;                                   // max. distance (screen px) between pointer and reach
-    var INTENT = 150;                                  // ms the pointer has to rest before the network is traced
-    var FADE = 0.35;                                   // s: fade-in of one reach
+    var STEP = 0.04, INTRO_FADE = 0.55;                // intro: reaches are grouped in steps of 40 ms; every step fades in within 0.55 s
+    var RADIUS = 16, TOUCH_RADIUS = 28;                // max. distance (screen px) between pointer / finger and reach
+    var INTENT = 150;                                  // ms the mouse pointer has to rest before the network is traced
+    var FADE = 0.35;                                   // s: fade-in of one reach (trace)
     var UP_BASE = 0.5, UP_MAX = 2.4, UP_SPEED = 60000; // upstream growth takes min(UP_MAX, UP_BASE + longest path / UP_SPEED) s (path in m)
     var DOWN_GAP = 0.3;                                // s between the end of the upstream growth and the start of the downstream trace
     var DOWN_BASE = 0.4, DOWN_MAX = 1.8, DOWN_SPEED = 80000;
-    var gs = [], ds = [], pts = null, cur = -1, timer = 0, raf = 0, run = 0, drawn = false;
-    var par, len, ord, head, nxt, acc, dn, topo = false, maxOrd = 1, widthOf = null, upDist;
+    var ds, ord, par, len, delay, vb, n = 0, maxOrd = 1, look = null, orderStr = [], finalPaths = [], pathCache = [];
+    var view = { s: 1, tx: 0, ty: 0, dpr: 1, w: 0, h: 0 };
+    var pts = null, cur = -1, timer = 0, raf = 0, run = 0, introRaf = 0, introRun = 0, intro = false, ready = false;
+    var head, nxt, acc, dn, upDist;
 
-    var hot = document.createElementNS(NS, 'path');
-    hot.setAttribute('class', 'hot');
-    hot.style.display = 'none';
-    svg.appendChild(hot);
-    var canvas = document.createElement('canvas');     // static layer: reaches that are fully lit (each one is painted once)
-    canvas.className = 'net-trace';
-    canvas.setAttribute('aria-hidden', 'true');
-    net.appendChild(canvas);
-    var live = document.createElement('canvas');       // live layer: only the reaches that are fading in right now
-    live.className = 'net-trace';
-    live.setAttribute('aria-hidden', 'true');
-    net.appendChild(live);
-    var ctx = canvas.getContext('2d'), lctx = live.getContext('2d'), pathCache = [];
+    function layer(cls) {
+      var c = document.createElement('canvas');
+      c.className = cls;
+      c.setAttribute('aria-hidden', 'true');
+      net.appendChild(c);
+      return c;
+    }
+    var base = layer('net-base'), live = layer('net-trace'), bctx = base.getContext('2d'), lctx = live.getContext('2d');
+    var stat = null, sctx = null, hotc = null, hctx = null;       // trace + highlight layers: created at the first hover / tap
     var tip = document.createElement('div');
     tip.className = 'net-tip';
     tip.hidden = true;
-    hero.appendChild(tip);                             // fixed place at the top left of the hero (CSS), not at the pointer
+    hero.appendChild(tip);                             // fixed place (CSS): top left of the hero, on touch screens at the bottom of the screen
+
+    /* ---------- colours and line widths exactly as set in the stylesheet (.net .o1 ... .o7) ---------- */
+    function readLook() {
+      var probe = net.querySelector('.net-probe'), o, g, ps;
+      if (!probe) {
+        probe = document.createElementNS(NS, 'svg');
+        probe.setAttribute('class', 'net-probe');
+        probe.setAttribute('aria-hidden', 'true');
+        for (o = 1; o <= maxOrd; o++) {
+          g = document.createElementNS(NS, 'g');
+          g.setAttribute('class', 'o' + o);
+          g.appendChild(document.createElementNS(NS, 'path')).setAttribute('class', 'vis');
+          probe.appendChild(g);
+        }
+        net.appendChild(probe);
+      }
+      var cs = getComputedStyle(net), L = { col: [], w: [], wh: [], hit: cs.getPropertyValue('--glow-hit').trim() || '#f59e0b',
+        up: cs.getPropertyValue('--glow-up').trim() || '#fbbf24', down: cs.getPropertyValue('--glow-down').trim() || '#ec4899' };
+      for (o = 1; o <= maxOrd; o++) {
+        g = probe.childNodes[o - 1];
+        ps = getComputedStyle(g.firstChild);
+        L.col[o] = ps.stroke && ps.stroke !== 'none' ? ps.stroke : cs.color;
+        L.w[o] = parseFloat(ps.strokeWidth) || 2;
+        L.wh[o] = parseFloat(getComputedStyle(g).getPropertyValue('--wh')) || 5;
+      }
+      look = L;
+    }
+    function setView(c) {
+      c.setTransform(view.dpr * view.s, 0, 0, view.dpr * view.s, view.dpr * view.tx, view.dpr * view.ty);
+      c.lineCap = 'round'; c.lineJoin = 'round';
+    }
+    function wipe(c, cv) { c.setTransform(1, 0, 0, 1, 0, 0); c.clearRect(0, 0, cv.width, cv.height); }
+    function pathOf(i) { return pathCache[i] || (pathCache[i] = new Path2D(ds[i])); }
+
+    /* ---------- network at rest: one stroke per Strahler order ---------- */
+    function groupByOrder() {
+      if (orderStr.length) return;
+      for (var i = 0; i < n; i++) (orderStr[ord[i]] = orderStr[ord[i]] || []).push(ds[i]);
+    }
+    function drawFinal(gently) {                       // gently: in small portions over a few frames (phones), otherwise at once
+      cancelIntro();
+      groupByOrder();
+      wipe(bctx, base); wipe(lctx, live);
+      setView(bctx);
+      base.classList.add('ready');
+      var o, k, parts = [];
+      if (!gently) {
+        for (o = maxOrd; o >= 1; o--) if (orderStr[o]) {            // big rivers first = underneath
+          finalPaths[o] = finalPaths[o] || new Path2D(orderStr[o].join(' '));
+          bctx.strokeStyle = look.col[o]; bctx.lineWidth = look.w[o]; bctx.stroke(finalPaths[o]);
+        }
+        return;
+      }
+      for (o = maxOrd; o >= 1; o--) if (orderStr[o]) for (k = 0; k < orderStr[o].length; k += 450) parts.push({ o: o, str: orderStr[o].slice(k, k + 450).join(' ') });
+      var token = ++introRun, at = 0;
+      function step() {
+        if (token !== introRun) return;
+        var t0 = performance.now(), p;
+        do { p = parts[at++]; bctx.strokeStyle = look.col[p.o]; bctx.lineWidth = look.w[p.o]; bctx.stroke(new Path2D(p.str)); }
+        while (at < parts.length && performance.now() - t0 < 8);
+        if (at < parts.length) introRaf = requestAnimationFrame(step);
+      }
+      introRaf = requestAnimationFrame(step);
+    }
+
+    /* ---------- intro: headwaters first ---------- */
+    function cancelIntro() { cancelAnimationFrame(introRaf); introRun++; intro = false; live.style.opacity = ''; }
+    function startIntro() {
+      cancelIntro();
+      var by = {}, items = [], keys, i, k, o;
+      for (i = 0; i < n; i++) { k = Math.floor(delay[i] / STEP); by[k] = by[k] || {}; by[k][ord[i]] = (by[k][ord[i]] || '') + ds[i] + ' '; }
+      keys = Object.keys(by).map(Number).sort(function (a, b) { return a - b; });
+      keys.forEach(function (key) { for (o = maxOrd; o >= 1; o--) if (by[key][o]) items.push({ t: key * STEP, o: o, str: by[key][o], path: null }); });
+      var token = ++introRun, t0 = performance.now(), next = 0, active = [], frames = 0, cost = 0;
+      intro = true;
+      live.style.opacity = '.72';                      // the settled network has the same group opacity (CSS .net-base.ready)
+      wipe(bctx, base); wipe(lctx, live); setView(bctx);
+      base.classList.add('ready');
+      function frame(now) {
+        if (token !== introRun) return;
+        var w0 = performance.now(), t = (now - t0) / 1000, keep = [], j, it;
+        while (next < items.length && items[next].t <= t) active.push(items[next++]);
+        for (j = 0; j < active.length; j++) {
+          it = active[j];
+          if (t - it.t >= INTRO_FADE) {                // fully faded in: paint once on the static layer
+            it.path = it.path || new Path2D(it.str);
+            bctx.strokeStyle = look.col[it.o]; bctx.lineWidth = look.w[it.o]; bctx.stroke(it.path);
+          } else keep.push(it);
+        }
+        active = keep;
+        wipe(lctx, live); setView(lctx);
+        for (j = 0; j < active.length; j++) {          // still fading in: live layer
+          it = active[j];
+          it.path = it.path || new Path2D(it.str);
+          lctx.globalAlpha = Math.min(1, (t - it.t) / INTRO_FADE); lctx.strokeStyle = look.col[it.o]; lctx.lineWidth = look.w[it.o]; lctx.stroke(it.path);
+        }
+        lctx.globalAlpha = 1;
+        if (++frames <= 12) {                          // a very slow device skips the animation instead of stuttering
+          cost += performance.now() - w0;
+          if (frames === 12 && cost / 12 > 30) { drawFinal(); return; }
+        }
+        if (next < items.length || active.length) introRaf = requestAnimationFrame(frame);
+        else { wipe(lctx, live); cancelIntro(); }
+      }
+      introRaf = requestAnimationFrame(frame);
+    }
 
     /* ---------- picking: sample points along every path, read straight from the path data ---------- */
     function sample(d, out, i) {
-      var t = d.match(/[MmLlQq]|-?\d*\.?\d+/g), k = 0, cmd = '', x = 0, y = 0, n, u;
+      var t = d.match(/[MmLlQq]|-?\d*\.?\d+/g), k = 0, cmd = '', x = 0, y = 0, m, u;
       function add(px, py) { out.push(px, py, i); }
       function line(ex, ey) {
-        n = Math.max(1, Math.ceil(Math.hypot(ex - x, ey - y) / 5));
-        for (u = 1; u <= n; u++) add(x + (ex - x) * u / n, y + (ey - y) * u / n);
+        m = Math.max(1, Math.ceil(Math.hypot(ex - x, ey - y) / 5));
+        for (u = 1; u <= m; u++) add(x + (ex - x) * u / m, y + (ey - y) * u / m);
         x = ex; y = ey;
       }
       while (k < t.length) {
@@ -853,53 +962,39 @@ Deutsche Schule Helsinki, Finland</li>
         } else { k++; }
       }
     }
-    function prepare() {                               // first mouse move: geometry for picking + flow topology
-      var i, c, k, n;
-      gs = Array.prototype.slice.call(svg.querySelectorAll('.r'));
-      n = gs.length; pts = [];
-      par = new Int32Array(n); len = new Float64Array(n); ord = new Uint8Array(n);
-      head = new Int32Array(n); nxt = new Int32Array(n); acc = new Float64Array(n); dn = new Float64Array(n); upDist = new Float64Array(n);
-      for (i = 0; i < n; i++) { head[i] = -1; nxt[i] = -1; }
-      topo = n > 0 && gs[0].hasAttribute('data-l');
-      for (i = 0; i < n; i++) {
-        var d = gs[i].querySelector('.vis').getAttribute('d'), p = gs[i].getAttribute('data-p');
-        ds.push(d); sample(d, pts, i);
-        par[i] = p === null ? -1 : +p;
-        len[i] = +gs[i].getAttribute('data-l') || 0;
-        ord[i] = +gs[i].getAttribute('class').split(' ')[1].slice(1);
-        if (ord[i] > maxOrd) maxOrd = ord[i];
-      }
-      if (!topo) return;
+    function prepare() {                               // first hover / tap: geometry for picking, flow topology, extra layers
+      var i, c, k;
+      pts = [];
+      for (i = 0; i < n; i++) sample(ds[i], pts, i);
+      head = new Int32Array(n).fill(-1); nxt = new Int32Array(n).fill(-1);
+      acc = new Float64Array(n); dn = new Float64Array(n); upDist = new Float64Array(n);
       for (i = 0; i < n; i++) if (par[i] >= 0) { nxt[i] = head[par[i]]; head[par[i]] = i; }
       var bfs = [];
       for (i = 0; i < n; i++) if (par[i] < 0) bfs.push(i);                   // outlet(s)
       for (k = 0; k < bfs.length; k++) for (c = head[bfs[k]]; c >= 0; c = nxt[c]) { dn[c] = dn[bfs[k]] + len[bfs[k]]; bfs.push(c); }
       for (i = 0; i < n; i++) acc[i] = len[i];
       for (k = bfs.length - 1; k >= 0; k--) if (par[bfs[k]] >= 0) acc[par[bfs[k]]] += acc[bfs[k]];   // accumulated upstream length
+      stat = layer('net-trace'); sctx = stat.getContext('2d');
+      hotc = layer('net-hot'); hctx = hotc.getContext('2d');
+      sizeLayers([stat, hotc]);                          // only the new layers: resizing a canvas clears it
+    }
+    function pick(clientX, clientY, radius) {          // index of the reach nearest to a point on the screen, or -1
+      var r = net.getBoundingClientRect(), x = (clientX - r.left - view.tx) / view.s, y = (clientY - r.top - view.ty) / view.s;
+      var best = -1, bd = Infinity;
+      for (var j = 0; j < pts.length; j += 3) {
+        var dx = pts[j] - x, dy = pts[j + 1] - y, d = dx * dx + dy * dy;
+        if (d < bd) { bd = d; best = pts[j + 2]; }
+      }
+      return Math.sqrt(bd) * view.s > radius ? -1 : best;
     }
     function km(m) { return m >= 1000 ? (m / 1000).toFixed(1) + ' km' : Math.round(m) + ' m'; }
 
-    /* ---------- tracing the network on a canvas above the SVG ---------- */
-    function clearCanvas() {
-      if (!drawn) return;
-      ctx.setTransform(1, 0, 0, 1, 0, 0);
-      ctx.clearRect(0, 0, canvas.width, canvas.height);
-      lctx.setTransform(1, 0, 0, 1, 0, 0);
-      lctx.clearRect(0, 0, live.width, live.height);
-      drawn = false;
-    }
-    function pathOf(i) { return pathCache[i] || (pathCache[i] = new Path2D(ds[i])); }
-    function stopTrace() { clearTimeout(timer); cancelAnimationFrame(raf); run++; clearCanvas(); }
-    function lineWidths() {                            // stroke width per Strahler order, as set in the stylesheet
-      if (widthOf) return widthOf;
-      widthOf = [];
-      for (var i = 0; i < gs.length; i++) if (!widthOf[ord[i]]) widthOf[ord[i]] = parseFloat(getComputedStyle(gs[i].querySelector('.vis')).strokeWidth) || 2;
-      return widthOf;
-    }
+    /* ---------- trace: upstream network, then downstream path ---------- */
+    function clearTrace() { wipe(lctx, live); if (sctx) wipe(sctx, stat); }
+    function stopTrace() { clearTimeout(timer); cancelAnimationFrame(raf); run++; clearTrace(); }
     function startTrace(i) {
-      var token = ++run, k, c, u, j, q = [], maxUp = 0, f = still.matches ? 0 : 1;
-      var cs = getComputedStyle(net), col = [cs.getPropertyValue('--glow-up').trim() || '#fbbf24', cs.getPropertyValue('--glow-down').trim() || '#ec4899'];
-      var wd = lineWidths(), items = [];                                       // items: [reach, kind (0 up, 1 down), start time in s]
+      if (intro) drawFinal();
+      var token = ++run, k, c, u, j, q = [], maxUp = 0, f = still.matches ? 0 : 1, col = [look.up, look.down], items = [];   // items: [reach, kind (0 up, 1 down), start time in s]
       for (c = head[i]; c >= 0; c = nxt[c]) { upDist[c] = 0; q.push(c); }
       for (k = 0; k < q.length; k++) {
         u = q[k]; if (upDist[u] > maxUp) maxUp = upDist[u];
@@ -911,15 +1006,8 @@ Deutsche Schule Helsinki, Finland</li>
       for (j = par[i]; j >= 0; j = par[j]) { items.push([j, 1, tDown + f * span * (tot ? cum / tot : 0)]); cum += len[j]; }
       if (!items.length) return;
       items.sort(function (a, b) { return a[2] - b[2]; });
-
-      var dpr = window.devicePixelRatio || 1, r = net.getBoundingClientRect(), m = svg.getScreenCTM();
-      if (!m) return;
-      var cw = Math.round(r.width * dpr), ch = Math.round(r.height * dpr);
-      if (canvas.width !== cw || canvas.height !== ch) { canvas.width = cw; canvas.height = ch; live.width = cw; live.height = ch; }
-      var T = [m.a * dpr, m.b * dpr, m.c * dpr, m.d * dpr, (m.e - r.left) * dpr, (m.f - r.top) * dpr];
       var active = [], nextItem = 0, t0 = performance.now(), fade = f * FADE;
-      ctx.setTransform(T[0], T[1], T[2], T[3], T[4], T[5]);
-      ctx.lineCap = 'round'; ctx.lineJoin = 'round';
+      setView(sctx);
 
       function frame(now) {
         if (token !== run) return;
@@ -932,58 +1020,102 @@ Deutsche Schule Helsinki, Finland</li>
         }
         active = keep;
         for (kk = 0; kk < 2; kk++) for (o = 1; o <= maxOrd; o++) if ((b = batch[kk][o])) {
-          ctx.strokeStyle = col[kk]; ctx.lineWidth = (wd[o] || 2) + (kk ? 1.1 : 0.7); ctx.stroke(b);
+          sctx.strokeStyle = col[kk]; sctx.lineWidth = look.w[o] + (kk ? 1.1 : 0.7); sctx.stroke(b);
         }
-        lctx.setTransform(1, 0, 0, 1, 0, 0);
-        lctx.clearRect(0, 0, live.width, live.height);
-        lctx.setTransform(T[0], T[1], T[2], T[3], T[4], T[5]);
-        lctx.lineCap = 'round'; lctx.lineJoin = 'round';
+        wipe(lctx, live); setView(lctx);
         for (kk = 0; kk < active.length; kk++) {                               // still fading in: live layer
           it = active[kk];
           lctx.globalAlpha = Math.min(1, (t - it[2]) / fade); lctx.strokeStyle = col[it[1]];
-          lctx.lineWidth = (wd[ord[it[0]]] || 2) + (it[1] ? 1.1 : 0.7); lctx.stroke(pathOf(it[0]));
+          lctx.lineWidth = look.w[ord[it[0]]] + (it[1] ? 1.1 : 0.7); lctx.stroke(pathOf(it[0]));
         }
-        drawn = true;
+        lctx.globalAlpha = 1;
         if (nextItem < items.length || active.length) raf = requestAnimationFrame(frame);
       }
       raf = requestAnimationFrame(frame);
     }
 
-    /* ---------- hover ---------- */
-    function show(i) {
+    /* ---------- highlight + tooltip ---------- */
+    function drawHot(i) {
+      wipe(hctx, hotc);
+      if (i < 0) return;
+      setView(hctx);
+      hctx.strokeStyle = look.hit; hctx.lineWidth = look.wh[ord[i]];
+      hctx.shadowColor = look.hit; hctx.shadowBlur = 8 * view.dpr;           // soft glow
+      hctx.stroke(pathOf(i));
+      hctx.shadowBlur = 0;
+    }
+    function show(i, now) {                            // now = true: start the trace at once (tap), otherwise after the pointer rested
       if (i === cur) return;
       stopTrace();
       cur = i;
       hero.classList.toggle('net-over', i >= 0);
-      if (i < 0) { hot.style.display = 'none'; tip.hidden = true; return; }
-      var g = gs[i];
-      hot.setAttribute('d', ds[i]);
-      hot.setAttribute('class', 'hot ' + g.getAttribute('class').split(' ')[1]);   // order class -> width
-      hot.style.display = '';
-      if (topo) {
-        tip.innerHTML = 'Strahler order ' + ord[i] + ' · <span class="u">' + km(acc[i]) + ' upstream</span>' +
-                        ' · <span class="d">' + km(dn[i]) + ' to outlet</span>';
-        if (wide.matches) timer = setTimeout(function () { startTrace(i); }, INTENT);
-      } else {
-        var t = g.querySelector('title'); tip.textContent = t ? t.textContent : '';
-      }
-      tip.hidden = !tip.textContent;
+      if (i >= 0) hero.classList.add('net-used');
+      if (hotc) drawHot(i);
+      if (i < 0) { tip.hidden = true; return; }
+      tip.innerHTML = 'Strahler order ' + ord[i] + ' · <span class="u">' + km(acc[i]) + ' upstream</span>' +
+                      ' · <span class="d">' + km(dn[i]) + ' to outlet</span>';
+      tip.hidden = false;
+      if (now || wide.matches) timer = setTimeout(function () { startTrace(i); }, now ? 0 : INTENT);
     }
-    hero.addEventListener('mousemove', function (e) {
-      if (!wide.matches || (e.target.closest && e.target.closest('a, button'))) { show(-1); return; }
-      if (!pts) prepare();
-      var m = svg.getScreenCTM();
-      if (!m) return;
-      var q = new DOMPoint(e.clientX, e.clientY).matrixTransform(m.inverse());
-      var best = -1, bd = Infinity;
-      for (var j = 0; j < pts.length; j += 3) {
-        var dx = pts[j] - q.x, dy = pts[j + 1] - q.y, d = dx * dx + dy * dy;
-        if (d < bd) { bd = d; best = pts[j + 2]; }
+    function bindMouse() {
+      hero.addEventListener('mousemove', function (e) {
+        if (!ready || !wide.matches || (e.target.closest && e.target.closest('a, button'))) { show(-1); return; }
+        if (!pts) prepare();
+        show(pick(e.clientX, e.clientY, RADIUS));
+      });
+      hero.addEventListener('mouseleave', function () { show(-1); });
+    }
+    function bindTouch() {                             // a tap = finger down and up at (almost) the same place; scrolling gives pointercancel
+      var sx = 0, sy = 0, st = 0, down = false;
+      hero.addEventListener('pointerdown', function (e) { if (e.pointerType === 'mouse') return; down = true; sx = e.clientX; sy = e.clientY; st = performance.now(); });
+      hero.addEventListener('pointercancel', function () { down = false; });
+      hero.addEventListener('pointerup', function (e) {
+        if (e.pointerType === 'mouse' || !down) return;
+        down = false;
+        if (Math.hypot(e.clientX - sx, e.clientY - sy) > 10 || performance.now() - st > 600) return;      // a long press, not a tap
+        if (e.target.closest && e.target.closest('a, button, .hero-inner, .stats-content')) return;       // links, buttons and the two text boxes keep their normal behaviour
+        if (!pts) prepare();
+        var best = pick(e.clientX, e.clientY, TOUCH_RADIUS);
+        show(best >= 0 && best === cur ? -1 : best, true);
+      });
+      if (window.IntersectionObserver) {               // the tooltip is fixed on screen: hide it when the hero scrolls away
+        new IntersectionObserver(function (en) { if (!en[0].isIntersecting || en[0].intersectionRatio < 0.2) show(-1); }, { threshold: [0, 0.2] }).observe(hero);
       }
-      if (Math.sqrt(bd) * Math.hypot(m.a, m.b) > RADIUS) best = -1;
-      show(best);
-    });
-    hero.addEventListener('mouseleave', function () { show(-1); });
+    }
+
+    /* ---------- size, resize, colour mode ---------- */
+    function sizeLayers(list) {
+      (list || [base, live, stat, hotc]).forEach(function (c) {
+        if (c) { c.width = Math.round(view.w * view.dpr); c.height = Math.round(view.h * view.dpr); }
+      });
+    }
+    function layout(first) {
+      var W = net.clientWidth, H = net.clientHeight, dpr = Math.min(window.devicePixelRatio || 1, wide.matches ? 2 : 1.5);   // thin lines do not need more (saves memory and time on phones)
+      if (!W || !H || (!first && W === view.w && H === view.h && dpr === view.dpr)) return;
+      view.w = W; view.h = H; view.dpr = dpr;
+      view.s = Math.max(W / vb[0], H / vb[1]);         // like preserveAspectRatio="xMaxYMid slice": fill the panel, right edge fixed, centred vertically
+      view.tx = W - vb[0] * view.s; view.ty = (H - vb[1] * view.s) / 2;
+      stopTrace(); sizeLayers();
+      cur = -1; hero.classList.remove('net-over'); tip.hidden = true;
+      readLook();
+      // the growth animation only on desktop; touch screens get the finished network with a soft fade (much cheaper for a phone)
+      if (first && !still.matches && canHover && wide.matches) startIntro(); else drawFinal(first && !still.matches);
+    }
+    function init(d) {
+      ds = d.d; delay = d.t; vb = d.v; n = ds.length;
+      ord = Uint8Array.from(d.o); par = Int32Array.from(d.p); len = Float64Array.from(d.l);
+      for (var i = 0; i < n; i++) if (ord[i] > maxOrd) maxOrd = ord[i];
+      layout(true);
+      ready = true;
+      var rt = 0, again = function () { clearTimeout(rt); rt = setTimeout(function () { layout(false); }, 120); };
+      if (window.ResizeObserver) new ResizeObserver(again).observe(net); else window.addEventListener('resize', again);
+      if (window.MutationObserver) {                   // light/dark toggle: new colours
+        new MutationObserver(function () { readLook(); if (!intro) drawFinal(); }).observe(document.body, { attributes: true, attributeFilter: ['class'] });
+      }
+      if (canHover) bindMouse();
+      bindTouch();
+    }
+    fetch(url).then(function (r) { return r.json(); }).then(init).catch(function () {});
   })();
 
   // Publication search + type filter.
@@ -1461,7 +1593,7 @@ Deutsche Schule Helsinki, Finland</li>
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>© 2026 Sami Domisch. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0">CC BY NC ND 4.0</a></p>
+<p>© 2025 Sami Domisch. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0">CC BY NC ND 4.0</a></p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
