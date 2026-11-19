@@ -47,8 +47,8 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-0ae969d3293726db143f6e9eb89af930.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-f96aebf26819f8b2e0ed28d5c05f34a0.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-418d640907dc3aa8cc43904136229753.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-6faec19709657352bbd0273ed865156d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-e98ccdb3cd34112b5b75f54a647c6cb4.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -561,9 +561,9 @@ ul.task-list li input[type="checkbox"] {
     /* ---------- trace: upstream network, then downstream path ---------- */
     function clearTrace() { wipe(lctx, live); if (sctx) wipe(sctx, stat); }
     function stopTrace() { clearTimeout(timer); cancelAnimationFrame(raf); run++; clearTrace(); }
-    function startTrace(i) {
+    function startTrace(i, instant) {
       if (intro) drawFinal();
-      var token = ++run, k, c, u, j, q = [], maxUp = 0, f = still.matches ? 0 : 1, col = [look.up, look.down], items = [];   // items: [reach, kind (0 up, 1 down), start time in s]
+      var token = ++run, k, c, u, j, q = [], maxUp = 0, f = still.matches || instant ? 0 : 1, col = [look.up, look.down], items = [];   // items: [reach, kind (0 up, 1 down), start time in s]
       for (c = head[i]; c >= 0; c = nxt[c]) { upDist[c] = 0; q.push(c); }
       for (k = 0; k < q.length; k++) {
         u = q[k]; if (upDist[u] > maxUp) maxUp = upDist[u];
@@ -613,26 +613,44 @@ ul.task-list li input[type="checkbox"] {
       hctx.stroke(pathOf(i));
       hctx.shadowBlur = 0;
     }
-    function show(i, now) {                            // now = true: start the trace at once (tap), otherwise after the pointer rested
-      if (i === cur) return;
+    var pinned = -1;                                   // a stream that stays highlighted (with its upstream network and downstream path) until it is released
+    function select(i, now, instant) {                 // now = true: start the trace at once, otherwise after the pointer rested
       stopTrace();
       cur = i;
       hero.classList.toggle('net-over', i >= 0);
       if (i >= 0) hero.classList.add('net-used');
       if (hotc) drawHot(i);
       if (i < 0) { tip.hidden = true; return; }
+      var note = pinned === i ? (canHover ? 'pinned · click to release' : 'tap to release') : (canHover ? 'click to keep' : '');
       tip.innerHTML = 'Strahler order ' + ord[i] + ' · <span class="u">' + km(acc[i]) + ' upstream</span>' +
-                      ' · <span class="d">' + km(dn[i]) + ' to outlet</span>';
+                      ' · <span class="d">' + km(dn[i]) + ' to outlet</span>' + (note ? '<span class="pin">' + note + '</span>' : '');
       tip.hidden = false;
-      if (now || wide.matches) timer = setTimeout(function () { startTrace(i); }, now ? 0 : INTENT);
+      if (now || wide.matches) timer = setTimeout(function () { startTrace(i, instant); }, now ? 0 : INTENT);
+    }
+    function show(i) { if (pinned >= 0 || i === cur) return; select(i, false); }   // hovering is paused while a stream is pinned
+    function pin(i) { pinned = i; select(i, true); }
+    function unpin() { if (pinned < 0) return; pinned = -1; select(-1); }
+    function toggle(best) {                            // click / tap: pin this stream; the pinned stream or an empty spot releases it
+      if (best >= 0 && best !== pinned) pin(best); else unpin();
     }
     function bindMouse() {
       hero.addEventListener('mousemove', function (e) {
-        if (!ready || !wide.matches || (e.target.closest && e.target.closest('a, button'))) { show(-1); return; }
+        var skip = e.target.closest && e.target.closest('a, button');
+        if (pinned >= 0) {                             // paused; the pointer cursor only tells that another stream can be clicked
+          hero.classList.toggle('net-over', !!ready && !skip && wide.matches && pick(e.clientX, e.clientY, RADIUS) >= 0);
+          return;
+        }
+        if (!ready || !wide.matches || skip) { show(-1); return; }
         if (!pts) prepare();
         show(pick(e.clientX, e.clientY, RADIUS));
       });
-      hero.addEventListener('mouseleave', function () { show(-1); });
+      hero.addEventListener('mouseleave', function () { show(-1); });          // a pinned stream stays
+      hero.addEventListener('click', function (e) {
+        if (!ready || !wide.matches || (e.target.closest && e.target.closest('a, button, .hero-inner, .stats-content'))) return;   // text boxes, links, buttons: normal behaviour
+        if (!pts) prepare();
+        toggle(pick(e.clientX, e.clientY, RADIUS));
+      });
+      document.addEventListener('keydown', function (e) { if (e.key === 'Escape') unpin(); });
     }
     function bindTouch() {                             // a tap = finger down and up at (almost) the same place; scrolling gives pointercancel
       var sx = 0, sy = 0, st = 0, down = false;
@@ -644,11 +662,10 @@ ul.task-list li input[type="checkbox"] {
         if (Math.hypot(e.clientX - sx, e.clientY - sy) > 10 || performance.now() - st > 600) return;      // a long press, not a tap
         if (e.target.closest && e.target.closest('a, button, .hero-inner, .stats-content')) return;       // links, buttons and the two text boxes keep their normal behaviour
         if (!pts) prepare();
-        var best = pick(e.clientX, e.clientY, TOUCH_RADIUS);
-        show(best >= 0 && best === cur ? -1 : best, true);
+        toggle(pick(e.clientX, e.clientY, TOUCH_RADIUS));
       });
-      if (window.IntersectionObserver) {               // the tooltip is fixed on screen: hide it when the hero scrolls away
-        new IntersectionObserver(function (en) { if (!en[0].isIntersecting || en[0].intersectionRatio < 0.2) show(-1); }, { threshold: [0, 0.2] }).observe(hero);
+      if (window.IntersectionObserver) {               // on touch screens the tooltip is fixed on screen: release when the hero scrolls away
+        new IntersectionObserver(function (en) { if (!en[0].isIntersecting || en[0].intersectionRatio < 0.2) unpin(); }, { threshold: [0, 0.2] }).observe(hero);
       }
     }
 
@@ -664,11 +681,13 @@ ul.task-list li input[type="checkbox"] {
       view.w = W; view.h = H; view.dpr = dpr;
       view.s = Math.max(W / vb[0], H / vb[1]);         // like preserveAspectRatio="xMaxYMid slice": fill the panel, right edge fixed, centred vertically
       view.tx = W - vb[0] * view.s; view.ty = (H - vb[1] * view.s) / 2;
+      var keep = pinned;
       stopTrace(); sizeLayers();
       cur = -1; hero.classList.remove('net-over'); tip.hidden = true;
       readLook();
       // the growth animation only on desktop; touch screens get the finished network with a soft fade (much cheaper for a phone)
       if (first && !still.matches && canHover && wide.matches) startIntro(); else drawFinal(first && !still.matches);
+      if (keep >= 0) select(keep, true, true);         // a pinned stream stays after a resize
     }
     function init(d) {
       ds = d.d; delay = d.t; vb = d.v; n = ds.length;
